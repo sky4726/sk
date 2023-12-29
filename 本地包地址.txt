@@ -1,0 +1,1 @@
+clan://localhost/sk/sk.json
