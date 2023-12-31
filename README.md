@@ -1,16 +1,24 @@
 网页点播站点：
 
+迷迷剧 https://mimiju.com/
+
 996影视 https://www.cs1369.com/
 
 天天开心自营 http://www.ttkx.site:33
 
+牛嘎解析 http://niuga.cn/
+
 解析小站：
+
+Github文件加速 https://gitmirror.com/files.html
 
 黎歌 https://www.lige.fit
 
 夜猫子 https://download.kstore.space/download/3313/%E7%BD%91%E9%A1%B5/index.html
 
 蜂蜜 https://ewwe.gq/#jiekou  https://ewwe.gq/nc/#jiekou
+
+多多风向标导 https://duo.codered.cloud/
 
 多多 https://yydsys.top
 
@@ -22,9 +30,15 @@
 
 饭太硬 http://xn--sss604efuw.top/
 
+菜妮丝 https://cainisi.cf/   https://tvbox.cainisi.cf/
+
+欧歌 http://tv.nxog.top/  http://m.nxog.top
+
 日后魔改 https://docs.qq.com/doc/DYktmVmF1QXJZRmlh
 
 猪猪LR 小张不咕咕 https://www.rjjjh.com/#/
+
+EPG接口 https://epg.112114.eu.org/
 
 软件：
 
@@ -74,11 +88,9 @@ Snaptube_v7.11.1.71176001会员版 https://sky4726.lanzouv.com/iQr571in1krg
 
 接口：
 
+https://atomgit.com/sky4726/sky7186/raw/main/sk.json （自营单仓）
+
 https://pastebin.com/raw/a6DCFCfp （自营多仓）
-
-https://usercontent.githubfast.com/raw/sky4726/sky7186/main/tv.txt （自营多仓）
-
-http://ys-e.ysepan.com/168628738/616485096/l76365J32KNN44dlvpRGM1e/tv.txt  （自营多仓）
 
 https://api-lmteam.koyeb.app/PythonT4 （月月python影视专用）
 
@@ -129,6 +141,8 @@ https://tvbox.cainisi.cf （菜妮丝）
 https://ghproxy.net/https://usercontent.githubfast.com/raw/xyq254245/xyqonlinerule/main/XYQTVBox.json （香雅晴）
 
 https://usercontent.githubfast.com/raw/xyq254245/xyqonlinerule/main/XYQTVBox.json （香雅晴）
+
+https://already.free.hr/gaotianliuyun/gao/master/XYQ.json （香雅晴）
 
 https://github.moeyy.xyz/https://usercontent.githubfast.com/raw/okcaptain/okjar/rm/ok.json （OK）
 
@@ -225,6 +239,8 @@ http://52bsj.vip:81/api/v3/file/get/65430/zongcang.txt?sign=9ncAS6eZ86xmIZGf5FGG
 https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json （南风）
 
 https://agit.ai/guot54/ygbh/raw/branch/master/prox.json （宝盒没宝）
+
+https://gitee.com/guot54/YGBH777/raw/main/ygbox.json （宝盒没宝）
 
 https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json （宝盒没宝）
 
