@@ -108,11 +108,9 @@ https://jihulab.com/ymz1231/xymz/-/raw/main/ymxck.json （夜猫多仓）
 
 https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt （圆周率LR）
 
-http://饭太硬.top/tv （饭太硬）
+http://fan.888484.xyz/tv （饭太硬）
 
-http://xn--sss604efuw.top/tv （饭太硬）
-
-http://fan.xxooo.cf/tv （饭太硬）
+http://fan.xxooo.cf/tv（饭太硬）
 
 https://xhdwc.tk/0 （骚零）
 
