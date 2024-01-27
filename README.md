@@ -55,9 +55,9 @@ mytv https://githubfast.com/lizongying/my-tv/releases/
 ```
 ### **接口：**
 ```
-https://atomgit.com/sky4726/sky7186/raw/main/s.txt （自营单仓） [输入图片说明](https://img.shields.io/badge/%E6%8E%A8%E8%8D%90%E7%89%88%E6%9C%AC-brightgreen)
-https://raw.gitcode.com/sky47261/sk/raw/main/s.txt （自营单仓）
-https://atomgit.com/sky4726/sky7186/raw/main/sk.json （自营单仓）
+https://framagit.org/sky4726/sk/-/raw/master/s.json（自营单仓） 
+https://gitee.com/sky4726/sk/raw/master/s.json （自营单仓）
+https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/s.json （自营单仓）
 https://pastebin.com/raw/a6DCFCfp （自营多仓）
 https://api-lmteam.koyeb.app/PythonT4 （月月python影视专用）
 https://d.kstore.space/download/4690/公益/烂番茄.json （乌鸦不太黑）
