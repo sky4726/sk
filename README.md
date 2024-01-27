@@ -57,17 +57,14 @@ mytv https://githubfast.com/lizongying/my-tv/releases/
 ```
 https://framagit.org/sky4726/sk/-/raw/master/s.json（自营单仓） 
 https://gitee.com/sky4726/sk/raw/master/s.json （自营单仓）
-https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/s.json （自营单仓）
+https://github.moeyy.xyz/https://usercontent.githubfast.com/raw/sky4726/sk/master/s.json （自营单仓）
 https://pastebin.com/raw/a6DCFCfp （自营多仓）
 https://api-lmteam.koyeb.app/PythonT4 （月月python影视专用）
 https://d.kstore.space/download/4690/公益/烂番茄.json （乌鸦不太黑）
 https://usercontent.githubfast.com/raw/lm317379829/PyramidStore/pyramid/py.json （python）
 https://usercontent.githubfast.com/raw/2hacc/TVBox/main/xiaoya.json （小雅）
 https://agit.ai/hu/hcr/raw/branch/master/短剧.json （短剧）
-https://jihulab.com/ymz1231/xymz/-/raw/main/ymz （夜猫多仓最新）
 https://framagit.org/ymz123/xym/-/raw/main/Xymz （夜猫单仓最新）
-https://jihulab.com/ymz1231/xymz/-/raw/main/ymxck.json （夜猫多仓）
-https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt （圆周率LR）
 http://fan.888484.xyz/tv （饭太硬）
 http://fan.xxooo.cf/tv（饭太硬）
 https://xhdwc.tk/0 （骚零）
