@@ -43,7 +43,7 @@
       "jar": "./lib/pg.jar",
       "searchable": 0,
       "changeable": 0,
-      "ext":"./lib/tokenm.json"
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "直播转点播",
@@ -187,85 +187,85 @@
       "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
     },
     {
-      "key":"团长资源",
-      "name":"📺团长资源网盘",
-      "type":3,
-      "api":"csp_TZFile", 
+      "key": "团长资源",
+      "name": "📺团长资源网盘",
+      "type": 3,
+      "api": "csp_TZFile",
       "jar": "./lib/pg.jar",
-      "quickSearch":1, 
-      "changeable":1, 
-      "filterable":1, 
-      "timeout":30,
-      "ext":"./lib/tokenm.json$$$null$$$1"
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json$$$null$$$1"
     },
     {
-      "key":"YunPanOne",
-      "name":"📺云盘资源网盘",
-      "type":3,
-      "api":"csp_YunPanOne",
+      "key": "YunPanOne",
+      "name": "📺云盘资源网盘",
+      "type": 3,
+      "api": "csp_YunPanOne",
       "jar": "./lib/pg.jar",
-      "quickSearch":1,
-      "changeable":1,
-      "filterable":1,
-      "timeout":30,
-      "ext":"./lib/tokenm.json"
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json"
     },
     {
-      "key":"DaPanSo",
-      "name":"📺大盘搜网盘",
-      "type":3,
-      "api":"csp_DaPanSo",
+      "key": "DaPanSo",
+      "name": "📺大盘搜网盘",
+      "type": 3,
+      "api": "csp_DaPanSo",
       "jar": "./lib/pg.jar",
-      "quickSearch":1,
-      "changeable":1,
-      "filterable":1,
-      "timeout":30,
-      "ext":"./lib/tokenm.json$$$https://dapanso.com$$$null"
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null"
     },
     {
-      "key":"PanSearch",
-      "name":"📺PanSearch网盘",
-      "type":3,
-      "api":"csp_PanSearch",
+      "key": "PanSearch",
+      "name": "📺PanSearch网盘",
+      "type": 3,
+      "api": "csp_PanSearch",
       "jar": "./lib/pg.jar",
-      "quickSearch":1,
-      "changeable":1,
-      "filterable":1,
-      "timeout":30,
-      "ext":"./lib/tokenm.json"
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json"
     },
     {
-      "key":"PikaSo",
-      "name":"📺皮卡搜网盘",
-      "type":3,
-      "api":"csp_PikaSo",
+      "key": "PikaSo",
+      "name": "📺皮卡搜网盘",
+      "type": 3,
+      "api": "csp_PikaSo",
       "jar": "./lib/pg.jar",
-      "quickSearch":1,
-      "changeable":1,
-      "filterable":1,
-      "timeout":30,
-      "ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null"
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json$$$https://www.pikaso.top/$$$null"
     },
     {
-      "key":"秒搜",
-      "name":"📺秒搜网盘",
-      "type":3,
-      "api":"csp_MiaoSou",
+      "key": "秒搜",
+      "name": "📺秒搜网盘",
+      "type": 3,
+      "api": "csp_MiaoSou",
       "jar": "./lib/pg.jar",
-      "timeout":30,
-      "ext":"./lib/tokenm.json"
+      "timeout": 30,
+      "ext": "./lib/tokenm.json"
     },
     {
-      "key":"88Pan",
-      "name":"📺88网盘",
-      "type":3,
-      "api":"csp_EightEight",
+      "key": "88Pan",
+      "name": "📺88网盘",
+      "type": 3,
+      "api": "csp_EightEight",
       "jar": "./lib/pg.jar",
-      "timeout":30,
-      "ext":"./lib/tokenm.json$$$https://662688.xyz"
+      "timeout": 30,
+      "ext": "./lib/tokenm.json$$$https://662688.xyz"
     },
     {
-      "key":"Gitcafe",
+      "key": "Gitcafe",
       "name": "📺阿里小纸条",
       "type": 3,
       "api": "csp_Gitcafe",
@@ -273,8 +273,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "timeout":30,
-      "ext":"./lib/tokenm.json"
+      "timeout": 30,
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "YydsVip",
@@ -300,16 +300,16 @@
       "ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
-      "key":"Libvio",
-      "name":"📺LIBVIO网盘",
-      "type":3,
-      "api":"csp_Libvio",
+      "key": "Libvio",
+      "name": "📺LIBVIO网盘",
+      "type": 3,
+      "api": "csp_Libvio",
       "jar": "./lib/pg.jar",
-      "quickSearch":1,
-      "changeable":1,
-      "filterable":1,
-      "timeout":30,
-      "ext":"./lib/tokenm.json$$$https://www.libvio.pro$$$null"
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
     },
     {
       "key": "小胡",
@@ -379,15 +379,15 @@
       "ext": "https://www.cs1369.com$$$null$$$1"
     },
     {
-      "key":"Ys23",
-      "name":"📺影视23",
-      "type":3,
-      "api":"csp_Ys23",
+      "key": "Ys23",
+      "name": "📺影视23",
+      "type": 3,
+      "api": "csp_Ys23",
       "jar": "./lib/pg.jar",
-      "quickSearch":1,
-      "changeable":1,
-      "filterable":1,
-      "timeout":30
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30
     },
     {
       "key": "开心HK影视",
@@ -434,15 +434,15 @@
       "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
     },
     {
-      "key":"csp_xBPQ_奇优",
-      "name":"📺奇优影视", 
-      "type":3,
-      "api":"csp_XBPQ",
+      "key": "csp_xBPQ_奇优",
+      "name": "📺奇优影视",
+      "type": 3,
+      "api": "csp_XBPQ",
       "jar": "./lib/ttkx.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./lib/qiyou.json"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/qiyou.json"
     },
     {
       "key": "csp_五五",
@@ -1125,17 +1125,17 @@
       "ext": "./lib/yanchanghui.txt"
     },
     {
-      "key":"bili",
-      "name":"📺Bili[jar]",
-      "type":3,
+      "key": "bili",
+      "name": "📺Bili[jar]",
+      "type": 3,
       "api": "csp_Bili",
       "jar": "./lib/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext":{
-        "type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-        "cookie":""
+      "ext": {
+        "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
+        "cookie": ""
       }
     },
     {
@@ -1442,7 +1442,7 @@
       "name": "解析28",
       "type": 0,
       "url": "https://jx.aidouer.net/?url="
-    }, 
+    },
     {
       "name": "解析29",
       "type": 0,
@@ -1484,52 +1484,50 @@
       "url": "https://jx.4kdv.com/?url="
     }
   ],
-
-  "flags":
-      [
-        "youku",
-        "qq",
-        "QQ",
-        "iqiyi",
-        "qiqi",
-        "qiyi",
-        "letv",
-        "sohu",
-        "tudou",
-        "pptv",
-        "PPTV",
-        "mgtv",
-        "ltnb",
-        "rx",
-        "SLYS4k",
-        "FEI",
-        "XAL",
-        "QEYSS",
-        "aliyun",
-        "AliS",
-        "ddzy",
-        "kuying-zj",
-        "xfyun",
-        "wuduzy",
-        "wasu",
-        "bilibili",
-        "renrenmi",
-        "haiwaikan",
-        "cool",
-        "tnmb",
-        "xigua",
-        "m1905",
-        "funshion",
-        "imgo",
-        "ruyi1080",
-        "ruyib1080",
-        "juquan4k",
-        "tucheng",
-        "yzm",
-        "seven",
-        "caihong",
-        "YuMi-vip"
-      ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiqi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "ltnb",
+    "rx",
+    "SLYS4k",
+    "FEI",
+    "XAL",
+    "QEYSS",
+    "aliyun",
+    "AliS",
+    "ddzy",
+    "kuying-zj",
+    "xfyun",
+    "wuduzy",
+    "wasu",
+    "bilibili",
+    "renrenmi",
+    "haiwaikan",
+    "cool",
+    "tnmb",
+    "xigua",
+    "m1905",
+    "funshion",
+    "imgo",
+    "ruyi1080",
+    "ruyib1080",
+    "juquan4k",
+    "tucheng",
+    "yzm",
+    "seven",
+    "caihong",
+    "YuMi-vip"
+  ],
   "doh": [
     {
       "name": "Google",
@@ -1574,7 +1572,7 @@
       ]
     }
   ],
-  "rules":[
+  "rules": [
     {
       "name": "proxy",
       "hosts": [
@@ -1647,14 +1645,84 @@
         "25.08"
       ]
     },
-    {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
-    {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
-    {"host":"www.sharenice.net","rule":["douyin.com","/play/"]},
-    {"host":"m.ysxs8.vip","rule":["ysting.ysxs8.vip:81","xmcdn.com"],"filter":[]},
-    {"host":"hdmoli.com","rule":[".m3u8"]},{"host":"https://api.live.bilibili.com","rule":["bilivideo.com","/index.m3u8"],"filter":["data.bilibili.com/log/web","i0.hdslb.com/bfs/live/"]},
-    {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
-    {"host":"www.fun4k.com","rule":["https://hd.ijycnd.com/play","index.m3u8"]},
-    {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]},
+    {
+      "host": "www.djuu.com",
+      "rule": [
+        "mp4.djuu.com",
+        "m4a"
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "huoshan.com",
+        "/item/video/"
+      ],
+      "filter": []
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "sovv.qianpailive.com",
+        "vid="
+      ],
+      "filter": []
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "douyin.com",
+        "/play/"
+      ]
+    },
+    {
+      "host": "m.ysxs8.vip",
+      "rule": [
+        "ysting.ysxs8.vip:81",
+        "xmcdn.com"
+      ],
+      "filter": []
+    },
+    {
+      "host": "hdmoli.com",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "https://api.live.bilibili.com",
+      "rule": [
+        "bilivideo.com",
+        "/index.m3u8"
+      ],
+      "filter": [
+        "data.bilibili.com/log/web",
+        "i0.hdslb.com/bfs/live/"
+      ]
+    },
+    {
+      "host": "www.agemys.cc",
+      "rule": [
+        "cdn-tos",
+        "obj/tos-cn"
+      ]
+    },
+    {
+      "host": "www.fun4k.com",
+      "rule": [
+        "https://hd.ijycnd.com/play",
+        "index.m3u8"
+      ]
+    },
+    {
+      "host": "zjmiao.com",
+      "rule": [
+        "play.videomiao.vip/API.php",
+        "time=",
+        "key=",
+        "path="
+      ]
+    },
     {
       "name": "火山嗅探",
       "hosts": [
