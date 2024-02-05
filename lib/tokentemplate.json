@@ -1,7 +1,7 @@
 {
 "token":"",
 "open_token":"",
-"open_api_url":"https://aliyundrive-oauth.messense.me/oauth/access_token",
+"open_api_url":"https://adrive.xdow.net/oauth/access_token",
 "thread_limit":32,
 "is_vip":true,
 "vip_thread_limit":0,
@@ -30,7 +30,7 @@
 "thunder_captchatoken":"",
 "yd_auth":"",
 "yd_thread_limit":4,
-"yd_flags":"4kz|auto",
+"yd_flags":"auto|4kz",
 "yd_danmu":true,
 "pikpak_username":"",
 "pikpak_password":"",
