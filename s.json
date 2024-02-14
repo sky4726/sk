@@ -189,18 +189,6 @@
       "ext": "./lib/tokenm.json$$$null$$$1"
     },
     {
-      "key": "校长影视",
-      "name": "📺校长网盘PG",
-      "type": 3,
-      "api": "csp_XiaoZhang",
-      "jar": "./lib/pg.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
-    },
-    {
       "key": "团长资源",
       "name": "📺团长资源网盘",
       "type": 3,
