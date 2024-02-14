@@ -291,7 +291,7 @@
       "ext": "./lib/tokenm.json$$$http://yydsvip.cn$$$null$$$1"
     },
     {
-      "key": "新6V",
+      "key": "新6V网",
       "name": "📺新6V网盘",
       "type": 3,
       "api": "csp_Xb6v",
@@ -363,23 +363,14 @@
       "name":"📺厂长资源[js]",
       "type":3,
       "api":"./lib/drpy2.min.js",
-      "ext":"./lib/厂长资源.js"}, 
+      "ext":"./lib/厂长资源.js"
+    }, 
     {
-      "key": "feiyun",
-      "name": "📺落攻阁影视",
+      "key": "7喜影院",
+      "name": "📺7喜影院",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/落攻阁影视.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "feiyun",
-      "name": "📺落攻阁影视v2",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/落攻阁影视[V2].js",
+      "ext": "./lib/7喜影院.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -483,17 +474,6 @@
       "ext": "./lib/Free.json"
     },
     {
-      "key": "csp_真不卡",
-      "name": "📺不卡影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/zhenbuka.json"
-    },
-    {
       "key": "麻衣呀呼",
       "name": "📺麻衣呀呼",
       "type": 3,
@@ -503,24 +483,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/mayiyahu.json"
-    },
-    {
-      "key": "畅梦",
-      "name": "📺畅梦",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/changmeng.js"
-    },
-    {
-      "key": "策驰影院",
-      "name": "📺策驰影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/cechi.json"
     },
     {
       "key": "csp_Voflix",
@@ -545,17 +507,6 @@
       "ext": "./lib/heihu.json"
     },
     {
-      "key": "酷茶影视",
-      "name": "📺酷茶影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/kucha.json"
-    },
-    {
       "key": "光棍影视",
       "name": "📺光棍影视",
       "type": 3,
@@ -565,17 +516,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/guangun.json"
-    },
-    {
-      "key": "csp_好戏",
-      "name": "📺好戏影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/haoxiys.json"
     },
     {
       "key": "七新影视",
@@ -788,7 +728,7 @@
       "ext": "./lib/jp.js"
     },
     {
-      "key": "新6V",
+      "key": "新6V磁力",
       "name": "📺新6V磁力",
       "type": 3,
       "api": "csp_SixV",
@@ -840,13 +780,6 @@
       "ext": "./lib/星辰.js"
     },
     {
-      "key": "drpy_js_四个圈儿",
-      "name": "📺四个圈儿[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/四个圈影视.js"
-    },
-    {
       "key": "drpy_js_起飞影院",
       "name": "📺起飞影院[js]",
       "type": 3,
@@ -894,13 +827,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/网飞.TV.js"
-    },
-    {
-      "key": "drpy_js_追剧迷",
-      "name": "📺追剧迷[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/追剧迷.js"
     },
     {
       "key": "drpy_js_爱弹幕",
@@ -975,12 +901,6 @@
       "jar": "./lib/pg.jar",
       "searchable": 0,
       "changeable": 1
-    },
-    {
-      "key": "种子",
-      "name": "📺种子短剧",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod/"
     },
     {
       "key": "csp_聚短视频",
