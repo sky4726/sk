@@ -153,6 +153,17 @@
       "ext": "./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
     },
     {
+      "key": "玩我哥哥",
+      "name":"📺玩我哥哥开心",
+      "type":3,
+      "api":"csp_XYQHikerAL",
+      "jar": "./lib/ttkx.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/玩我哥哥.json"
+    },
+    {
       "key": "影视车",
       "name": "📺影视车网盘PG",
       "type": 3,
