@@ -27,14 +27,14 @@
       "name": "📺开眼视频[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/开眼视频.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/开眼视频.js"
     },
     {
       "key": "drpy_js_网易公版影像",
       "name": "📺网易公版影像[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/网易公版影像.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/网易公版影像.js"
     },
     {
       "key": "网盘配置",
@@ -44,58 +44,58 @@
       "jar": "https://gitee.com/sky4726/jar/raw/master/pg.jar",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json"
     },
     {
       "key": "直播转点播",
       "name": "📺电视直播",
       "type": 3,
       "searchable": 0,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/live2vod.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/live2vod.js",
       "jar": "https://gitee.com/sky4726/jar/raw/master/pg.jar",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/feimaolive.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/feimaolive.json"
     },
     {
       "key": "爱奇异",
       "name": "📺爱奇艺(官)",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/aiqiyi.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/aiqiyi.js"
     },
     {
       "key": "优酷",
       "name": "📺优酷(官)",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/youku.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/youku.js"
     },
     {
       "key": "腾讯",
       "name": "📺腾讯(官)",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tengxun.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tengxun.js"
     },
     {
       "key": "芒果",
       "name": "📺芒果(官)",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/mangguo.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/mangguo.js"
     },
     {
       "key": "360",
       "name": "📺360官源",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/360影视.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/360影视.js"
     },
     {
       "key": "SG",
       "name": "📺搜狗官源",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/caigou.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/caigou.js"
     },
     {
       "key": "作风┃影视",
@@ -126,7 +126,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/wogg.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/wogg.json"
     },
     {
       "key": "影视车",
@@ -138,7 +138,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/wogg.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/wogg.json"
     },
     {
       "key": "Wobg1",
@@ -150,7 +150,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/wogg.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/wogg.json"
     },
     {
       "key": "Wobg",
@@ -162,7 +162,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/wogg.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/wogg.json"
     },
     {
       "key": "Hdhive",
@@ -174,7 +174,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$null$$$1"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$null$$$1"
     },
     {
       "key": "团长资源",
@@ -186,7 +186,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$null$$$1"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$null$$$1"
     },
     {
       "key": "YunPanOne",
@@ -198,7 +198,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json"
     },
     {
       "key": "DaPanSo",
@@ -210,7 +210,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://dapanso.com$$$null"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://dapanso.com$$$null"
     },
     {
       "key": "PanSearch",
@@ -222,7 +222,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json"
     },
     {
       "key": "PikaSo",
@@ -234,7 +234,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://www.pikaso.top/$$$null"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://www.pikaso.top/$$$null"
     },
     {
       "key": "秒搜",
@@ -243,7 +243,7 @@
       "api": "csp_MiaoSou",
       "jar": "https://gitee.com/sky4726/jar/raw/master/pg.jar",
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json"
     },
     {
       "key": "88Pan",
@@ -252,7 +252,7 @@
       "api": "csp_EightEight",
       "jar": "https://gitee.com/sky4726/jar/raw/master/pg.jar",
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://662688.xyz"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://662688.xyz"
     },
     {
       "key": "Gitcafe",
@@ -264,7 +264,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json"
     },
     {
       "key": "YydsVip",
@@ -276,7 +276,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$http://yydsvip.cn$$$null$$$1"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$http://yydsvip.cn$$$null$$$1"
     },
     {
       "key": "新6V网",
@@ -287,7 +287,7 @@
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
       "key": "小胡",
@@ -351,14 +351,14 @@
       "name":"📺厂长资源[js]",
       "type":3,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/厂长资源.js"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/厂长资源.js"
     }, 
     {
       "key": "7喜影院",
       "name": "📺7喜影院",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/7喜影院.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/7喜影院.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -372,7 +372,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/开心HK影视.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/开心HK影视.json"
     },
     {
       "key": "开心影视",
@@ -383,7 +383,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/开心影视.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/开心影视.json"
     },
     {
       "key": "csp_xBPQ_九八",
@@ -394,7 +394,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/98.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/98.json"
     },
     {
       "key": "益达影视",
@@ -416,7 +416,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/qiyou.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/qiyou.json"
     },
     {
       "key": "csp_五五",
@@ -427,7 +427,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/55.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/55.json"
     },
     {
       "key": "csp_Nmys",
@@ -437,7 +437,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/nmys.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/nmys.json"
     },
     {
       "key": "csp_盒子",
@@ -448,7 +448,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/hezi.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/hezi.json"
     },
     {
       "key": "csp_Free",
@@ -459,7 +459,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/Free.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/Free.json"
     },
     {
       "key": "麻衣呀呼",
@@ -470,7 +470,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/mayiyahu.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/mayiyahu.json"
     },
     {
       "key": "csp_Voflix",
@@ -481,7 +481,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/voflix.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/voflix.json"
     },
     {
       "key": "csp_黑狐",
@@ -492,7 +492,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/heihu.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/heihu.json"
     },
     {
       "key": "光棍影视",
@@ -503,7 +503,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/guangun.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/guangun.json"
     },
     {
       "key": "七新影视",
@@ -514,7 +514,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/qixinyingshi.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/qixinyingshi.json"
     },
     {
       "key": "土豪影视",
@@ -525,7 +525,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tuhaoys.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tuhaoys.json"
     },
     {
       "key": "圣城影视",
@@ -536,7 +536,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/sc1080.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/sc1080.json"
     },
     {
       "key": "高清资源网",
@@ -712,7 +712,7 @@
       "jar": "https://gitee.com/sky4726/jar/raw/master/pg.jar",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/jianpian.json$$$1",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/jianpian.json$$$1",
       "timeout":60
     },
     {
@@ -742,7 +742,7 @@
       "type": 3,
       "playerType": "2",
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/骚火.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/骚火.js"
     },
     {
       "key": "低端",
@@ -750,7 +750,7 @@
       "type": 3,
       "playerType": "2",
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/ddys.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/ddys.js",
       "changeable": 1
     },
     {
@@ -758,70 +758,70 @@
       "name": "📺子子影视[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/子子影视.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/子子影视.js"
     }, 
     {
       "key": "drpy_js_星辰影院",
       "name": "📺星辰影院[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/星辰.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/星辰.js"
     },
     {
       "key": "drpy_js_起飞影院",
       "name": "📺起飞影院[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/起飞影院.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/起飞影院.js"
     },
     {
       "key": "drpy_js_金曼影视",
       "name": "📺金曼影视[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/金曼影视.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/金曼影视.js"
     },
     {
       "key": "drpy_js_大米星球",
       "name": "📺大米星球[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/大米星球.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/大米星球.js"
     },
     {
       "key": "drpy_js_139影视",
       "name": "📺139影视[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/139影视.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/139影视.js"
     },
     {
       "key": "drpy_js_秋霞影院",
       "name": "📺秋霞影院[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/秋霞.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/秋霞.js"
     },
     {
       "key": "drpy_js_凌云影视",
       "name": "📺凌云影视[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/凌云影视.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/凌云影视.js"
     },
     {
       "key": "drpy_js_网飞.TV",
       "name": "📺网飞.TV[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/网飞.TV.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/网飞.TV.js"
     },
     {
       "key": "drpy_js_爱弹幕",
       "name": "📺爱弹幕动漫[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/爱弹幕.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/爱弹幕.js"
     },
     {
       "key": "csp_Dm84",
@@ -837,49 +837,49 @@
       "name": "📺兔小贝[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/兔小贝.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/兔小贝.js"
     },
     {
       "key": "drpy_js_AnFuns",
       "name": "📺AnFuns[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/AnFuns.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/AnFuns.js"
     },
     {
       "key": "drpy_js_NT动漫",
       "name": "📺NT动漫[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/NT动漫.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/NT动漫.js"
     },
     {
       "key": "drpy_js_动漫岛",
       "name": "📺动漫岛[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/动漫岛.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/动漫岛.js"
     },
     {
       "key": "drpy_js_路漫漫",
       "name": "📺路漫漫[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/路漫漫.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/路漫漫.js"
     },
     {
       "key": "drpy_js_去看吧",
       "name": "📺去看吧[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/去看吧.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/去看吧.js"
     },
     {
       "key": "drpy_js_奇米动漫",
       "name": "📺奇米动漫[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/奇米动漫.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/奇米动漫.js"
     },
     {
       "key": "短剧",
@@ -895,7 +895,7 @@
       "name": "📺聚短视频",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/短视频.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -914,7 +914,7 @@
       "name": "📺虎牙直播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/虎牙直播.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/虎牙直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -928,7 +928,7 @@
       "name": "📺斗鱼直播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/斗鱼直播.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -954,7 +954,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/哔哩直播.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/哔哩直播.js"
     },
     {
       "key": "csp_XPath_企鹅体育",
@@ -967,21 +967,21 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/企鹅直播.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/企鹅直播.json"
     },
     {
       "key": "drpy_js_酷6网",
       "name": "📺酷6网[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/酷6网.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/酷6网.js"
     },
     {
       "key": "酷奇js",
       "name": "📺酷奇MV",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/酷奇MV.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1002,18 +1002,18 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/MTV.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/MTV.json"
     },
     {
       "key": "超级MV",
       "name": "📺超级MV",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/zbzdb.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/zbzdb.js",
       "jar": "https://gitee.com/sky4726/jar/raw/master/ttkx.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/zb.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/zb.json"
     },
     {
       "key": "酷狗",
@@ -1032,14 +1032,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/a8yy.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/a8yy.js"
     },
     {
       "key": "有声小说js",
       "name": "🎧有声小说",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/有声小说吧.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -1053,7 +1053,7 @@
       "name": "🎧i275听书[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/i275.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/i275.js",
       "playerType": "2"
     },
     {
@@ -1061,7 +1061,7 @@
       "name": "🎧海洋听书[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/sea.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/sea.js",
       "playerType": "2"
     },
     {
@@ -1069,7 +1069,7 @@
       "name": "🎧六月听书[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/六月听书.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/六月听书.js",
       "playerType": "2"
     },
     {
@@ -1077,7 +1077,7 @@
       "name": "🎧博看听书[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/博看听书.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/博看听书.js",
       "playerType": "2"
     },
     {
@@ -1085,7 +1085,7 @@
       "name": "🎧听书网[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/听书网.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/听书网.js",
       "playerType": "2"
     },
     {
@@ -1093,14 +1093,14 @@
       "name": "🎧有声绘本网",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/有声绘本网.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/有声绘本网.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
       "name": "🎧蜻蜓广播[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/蜻蜓FM.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/蜻蜓FM.js",
       "playerType": "2"
     },
     {
@@ -1111,14 +1111,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/Blixs.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/Blixs.json"
     },
     {
       "key": "drpy_js_相声随身听",
       "name": "🎧相声随身听[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/相声随身听.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/相声随身听.js",
       "playerType": "2"
     },
     {
@@ -1129,7 +1129,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/Blixq.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/Blixq.json"
     },
     {
       "key": "演唱会",
@@ -1139,7 +1139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/yanchanghui.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/yanchanghui.txt"
     },
     {
       "key": "bili",
@@ -1167,7 +1167,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/bilibili.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -1181,7 +1181,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/biliych.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/biliych.json"
     },
     {
       "key": "学习园地",
@@ -1195,14 +1195,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/Blixt.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/Blixt.json"
     },
     {
       "key": "drpy_js_哔哩影视",
       "name": "📺️哔哩影视[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/哔哩影视.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/哔哩影视.js"
     },
     {
       "key": "csp_Bili_哔哩影剧",
@@ -1216,7 +1216,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/哔哩影剧.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/哔哩影剧.json"
     },
     {
       "key": "少儿教育",
@@ -1230,7 +1230,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/少儿教育.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -1244,7 +1244,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/小学课堂.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -1258,7 +1258,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/初中课堂.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -1272,7 +1272,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/高中课堂.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/高中课堂.json"
     },
     {
       "key": "学外语",
@@ -1286,7 +1286,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/waiyu.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/waiyu.json"
     },
     {
       "key": "Aid",
@@ -1808,7 +1808,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/tvlive.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
