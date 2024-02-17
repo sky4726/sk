@@ -50,6 +50,22 @@
       "ext": "./lib/tokenm.json$$$./lib/alishare.txt"
     },
     {
+      "key":"AliShareEBook",
+      "name":"📺阿里云盘书籍分享",
+      "type":3,
+      "api":"csp_AliShare",
+      "searchable":1,
+      "quickSearch":0,
+      "changeable":0,
+      "filterable":0,
+      "timeout":60,
+      "ext":"./lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
       "key": "网盘配置",
       "name": "📺网盘及彈幕配置",
       "type": 3,
@@ -718,15 +734,15 @@
       ]
     },
     {
-      "key": "荐片",
+      "key": "賤賤",
       "name": "📺荐片",
       "type": 3,
+      "api": "csp_Jianpian",
+      "jar": "./lib/pg.jar",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
-      "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "ext": "./lib/jianpian.json$$$1",
+      "timeout":60
     },
     {
       "key": "新6V磁力",
