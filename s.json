@@ -26,14 +26,14 @@
       "key": "drpy_js_开眼视频",
       "name": "📺开眼视频[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/开眼视频.js"
     },
     {
       "key": "drpy_js_网易公版影像",
       "name": "📺网易公版影像[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/网易公版影像.js"
     },
     {
@@ -59,42 +59,42 @@
       "key": "爱奇异",
       "name": "📺爱奇艺(官)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/aiqiyi.js"
     },
     {
       "key": "优酷",
       "name": "📺优酷(官)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/youku.js"
     },
     {
       "key": "腾讯",
       "name": "📺腾讯(官)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/tengxun.js"
     },
     {
       "key": "芒果",
       "name": "📺芒果(官)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/mangguo.js"
     },
     {
       "key": "360",
       "name": "📺360官源",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/360影视.js"
     },
     {
       "key": "SG",
       "name": "📺搜狗官源",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/caigou.js"
     },
     {
@@ -350,14 +350,14 @@
       "key":"drpy_js_厂长资源",
       "name":"📺厂长资源[js]",
       "type":3,
-      "api":"./lib/drpy2.min.js",
+      "api":"https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext":"./lib/厂长资源.js"
     }, 
     {
       "key": "7喜影院",
       "name": "📺7喜影院",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/7喜影院.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -741,7 +741,7 @@
       "name": "📺骚火影视",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/骚火.js"
     },
     {
@@ -749,7 +749,7 @@
       "name": "📺低端影视",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/ddys.js",
       "changeable": 1
     },
@@ -757,70 +757,70 @@
       "key": "drpy_js_子子影视",
       "name": "📺子子影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/子子影视.js"
     }, 
     {
       "key": "drpy_js_星辰影院",
       "name": "📺星辰影院[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/星辰.js"
     },
     {
       "key": "drpy_js_起飞影院",
       "name": "📺起飞影院[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/起飞影院.js"
     },
     {
       "key": "drpy_js_金曼影视",
       "name": "📺金曼影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/金曼影视.js"
     },
     {
       "key": "drpy_js_大米星球",
       "name": "📺大米星球[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/大米星球.js"
     },
     {
       "key": "drpy_js_139影视",
       "name": "📺139影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/139影视.js"
     },
     {
       "key": "drpy_js_秋霞影院",
       "name": "📺秋霞影院[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/秋霞.js"
     },
     {
       "key": "drpy_js_凌云影视",
       "name": "📺凌云影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/凌云影视.js"
     },
     {
       "key": "drpy_js_网飞.TV",
       "name": "📺网飞.TV[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/网飞.TV.js"
     },
     {
       "key": "drpy_js_爱弹幕",
       "name": "📺爱弹幕动漫[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/爱弹幕.js"
     },
     {
@@ -836,49 +836,49 @@
       "key": "drpy_js_兔小贝",
       "name": "📺兔小贝[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/兔小贝.js"
     },
     {
       "key": "drpy_js_AnFuns",
       "name": "📺AnFuns[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/AnFuns.js"
     },
     {
       "key": "drpy_js_NT动漫",
       "name": "📺NT动漫[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/NT动漫.js"
     },
     {
       "key": "drpy_js_动漫岛",
       "name": "📺动漫岛[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/动漫岛.js"
     },
     {
       "key": "drpy_js_路漫漫",
       "name": "📺路漫漫[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/路漫漫.js"
     },
     {
       "key": "drpy_js_去看吧",
       "name": "📺去看吧[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/去看吧.js"
     },
     {
       "key": "drpy_js_奇米动漫",
       "name": "📺奇米动漫[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/奇米动漫.js"
     },
     {
@@ -894,7 +894,7 @@
       "key": "csp_聚短视频",
       "name": "📺聚短视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -913,7 +913,7 @@
       "key": "虎牙直播js",
       "name": "📺虎牙直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/虎牙直播.js",
       "style": {
         "type": "rect",
@@ -927,7 +927,7 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "📺斗鱼直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/斗鱼直播.js",
       "style": {
         "type": "rect",
@@ -950,7 +950,7 @@
       "key": "哔哩直播",
       "name": "📺️哔哩直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -973,14 +973,14 @@
       "key": "drpy_js_酷6网",
       "name": "📺酷6网[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/酷6网.js"
     },
     {
       "key": "酷奇js",
       "name": "📺酷奇MV",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/酷奇MV.js",
       "style": {
         "type": "rect",
@@ -1028,7 +1028,7 @@
       "key": "js_a8音乐",
       "name": "📺A8音乐",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1038,7 +1038,7 @@
       "key": "有声小说js",
       "name": "🎧有声小说",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/有声小说吧.js",
       "style": {
         "type": "rect",
@@ -1052,7 +1052,7 @@
       "key": "drpy_js_i275听书",
       "name": "🎧i275听书[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/i275.js",
       "playerType": "2"
     },
@@ -1060,7 +1060,7 @@
       "key": "drpy_js_海洋听书",
       "name": "🎧海洋听书[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/sea.js",
       "playerType": "2"
     },
@@ -1068,7 +1068,7 @@
       "key": "drpy_js_六月听书",
       "name": "🎧六月听书[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/六月听书.js",
       "playerType": "2"
     },
@@ -1076,7 +1076,7 @@
       "key": "drpy_js_博看听书",
       "name": "🎧博看听书[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/博看听书.js",
       "playerType": "2"
     },
@@ -1084,7 +1084,7 @@
       "key": "drpy_js_听书网",
       "name": "🎧听书网[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/听书网.js",
       "playerType": "2"
     },
@@ -1092,14 +1092,14 @@
       "key": "drpy_js_有声绘本网",
       "name": "🎧有声绘本网",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/有声绘本网.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
       "name": "🎧蜻蜓广播[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/蜻蜓FM.js",
       "playerType": "2"
     },
@@ -1117,7 +1117,7 @@
       "key": "drpy_js_相声随身听",
       "name": "🎧相声随身听[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/相声随身听.js",
       "playerType": "2"
     },
@@ -1201,7 +1201,7 @@
       "key": "drpy_js_哔哩影视",
       "name": "📺️哔哩影视[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitee.com/sky4726/jar/raw/master/drpy2.min.js",
       "ext": "./lib/哔哩影视.js"
     },
     {
