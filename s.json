@@ -35,7 +35,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/网易公版影像.js"
-    },https://jihulab.com/sky4131/sk/-/raw/master/
+    },
     {
       "key": "AliShare",
       "name": "📺阿里云盘分享",
