@@ -37,35 +37,6 @@
       "ext": "./lib/网易公版影像.js"
     },
     {
-      "key": "AliShare",
-      "name": "📺阿里云盘分享",
-      "type": 3,
-      "api": "csp_AliShare",
-      "jar": "https://jihulab.com/sky4131/sk/-/raw/master/lib/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$./lib/alishare.txt"
-    },
-    {
-      "key":"AliShareEBook",
-      "name":"📺阿里云盘书籍分享",
-      "type":3,
-      "api":"csp_AliShare",
-      "searchable":1,
-      "quickSearch":0,
-      "changeable":0,
-      "filterable":0,
-      "timeout":60,
-      "ext":"./lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },
-    {
       "key": "网盘配置",
       "name": "📺网盘及彈幕配置",
       "type": 3,
