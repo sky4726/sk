@@ -69,17 +69,6 @@
       "ext": "./lib/feimaolive.json"
     },
     {
-      "key": "直播转点播",
-      "name": "📺电视IJK点播",
-      "type": 3,
-      "api": "./lib/zbzdb.js",
-      "jar": "./lib/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/zb.json"
-    },
-    {
       "key": "爱奇异",
       "name": "📺爱奇艺(官)",
       "type": 3,
@@ -1027,6 +1016,17 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./lib/MTV.json"
+    },
+    {
+      "key": "超级MV",
+      "name": "📺超级MV",
+      "type": 3,
+      "api": "./lib/zbzdb.js",
+      "jar": "./lib/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/zb.json"
     },
     {
       "key": "酷狗",
