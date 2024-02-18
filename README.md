@@ -1,7 +1,5 @@
 ## **网页点播站点：**
 ```
-迷迷剧 https://mimiju.com/ 
-996影视 https://www.cs1369.com/
 天天开心自营 http://www.ttkx.site:33
 牛嘎解析 http://niuga.cn/
 ```
