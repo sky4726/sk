@@ -538,6 +538,32 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/sc1080.json"
     },
+        {
+      "key": "新剧",
+      "name": "📺新剧影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/sky4726/jar/raw/master/ttkx.jar",
+      "searchable": 0,
+      "playerType": 2,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+          "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36#Referer$https://www.03yy.co/#Cookie$__ancc_token=W5jzBYpcImDP/Iik1IURZg==; PHPSESSID=j11nnfvlgq36kd9u80ua370i41;",
+          "数组": "<div class=\"pic-content pic-width-2\">&&</div>",
+          "副标题": "<span>&&</span>",
+          "嗅探词": ".mp4?#.m3u8",
+          "简介": "<p&&</p>",
+          "导演": "导演：&&</div>",
+          "主演": "主演：&&</div>",
+          "线路二次截取": "<ul id=\"playlist\">&&</ul",
+          "线路数组": " <li&&li>",
+          "线路标题": ">&&<",
+          "播放请求头": "Cookie$__ancc_token=W5jzBYpcImDP/Iik1IURZg==; PHPSESSID=j11nnfvlgq36kd9u80ua370i41;",
+          "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId};;ar1",
+          "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+        }
+    },
     {
       "key": "高清资源网",
       "name": "📺高清2K",
