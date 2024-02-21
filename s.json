@@ -539,31 +539,16 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/sc1080.json"
     },
-        {
-      "key": "新剧",
-      "name": "📺新剧影视",
+    {
+      "key": "zuoan",
+      "name": "📺zuoan",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt",
-      "searchable": 0,
-      "playerType": 2,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-          "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36#Referer$https://www.03yy.co/#Cookie$__ancc_token=W5jzBYpcImDP/Iik1IURZg==; PHPSESSID=j11nnfvlgq36kd9u80ua370i41;",
-          "数组": "<div class=\"pic-content pic-width-2\">&&</div>",
-          "副标题": "<span>&&</span>",
-          "嗅探词": ".mp4?#.m3u8",
-          "简介": "<p&&</p>",
-          "导演": "导演：&&</div>",
-          "主演": "主演：&&</div>",
-          "线路二次截取": "<ul id=\"playlist\">&&</ul",
-          "线路数组": " <li&&li>",
-          "线路标题": ">&&<",
-          "播放请求头": "Cookie$__ancc_token=W5jzBYpcImDP/Iik1IURZg==; PHPSESSID=j11nnfvlgq36kd9u80ua370i41;",
-          "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId};;ar1",
-          "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-        }
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "高清资源网",
@@ -1462,7 +1447,15 @@
     {
       "name": "解析22",
       "type": 0,
-      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url="
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url="，
+             "ext": {
+             "flag": [
+             "seven"
+              ],
+             "header": {
+             "User-Agent": "Lavf/58.12.100"
+        }
+      }
     },
     {
       "name": "解析23",
