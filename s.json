@@ -298,6 +298,19 @@
       "api": "http://cc.xn--yetu07f.icu/api.php/provide/vod/"
     },
     {
+      "key": "libhd",
+      "name": "📺LiHD测试",
+      "type": 1,
+      "api": "https://www.libhd.com/api.php/provide/vod/from/AL2",
+      "playUrl": "https://www.libhd.com/play/?url=",
+      "categories": [
+        "电影",
+        "剧集",
+        "动漫",
+        "综艺"
+      ]
+    },
+    {
       "key": "YiSo",
       "name": "📺易搜搜索",
       "type": 3,
