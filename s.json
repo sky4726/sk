@@ -311,6 +311,29 @@
       ]
     },
     {
+      "key": "赛文",
+      "name": "📺赛文资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "左岸",
+      "name": "📺左岸",
+      "type": 1,
+      "api": "https://cj.wanbu.cc/api.php/provide/vod/",
+      "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ]
+    },
+    {
       "key": "YiSo",
       "name": "📺易搜搜索",
       "type": 3,
@@ -1531,6 +1554,19 @@
       "name": "解析36",
       "type": 0,
       "url": "https://jx.4kdv.com/?url="
+    },
+    {
+      "name": "赛文",
+      "type": 1,
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+      "ext": {
+        "flag": [
+          "seven"
+        ],
+        "header": {
+          "User-Agent": "Lavf/58.12.100"
+        }
+      }
     }
   ],
   "flags": [
