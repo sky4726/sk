@@ -1447,15 +1447,7 @@
     {
       "name": "解析22",
       "type": 0,
-      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url="，
-             "ext": {
-             "flag": [
-             "seven"
-              ],
-             "header": {
-             "User-Agent": "Lavf/58.12.100"
-        }
-      }
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url="
     },
     {
       "name": "解析23",
