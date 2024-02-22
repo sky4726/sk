@@ -290,7 +290,8 @@
       "timeout": 60,
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
-    {"key":"Yingtantv",
+    {
+     "key":"Yingtantv",
      "name":"📺影探PG",
      "type":3,
      "api":"csp_Yingtantv",
