@@ -329,13 +329,6 @@
       "changeable": 0
     },
     {
-      "key": "小胡",
-      "name": "📺小胡自营PG",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://cc.xn--yetu07f.icu/api.php/provide/vod/"
-    },
-    {
       "key": "libhd",
       "name": "📺LiHD测试",
       "type": 1,
