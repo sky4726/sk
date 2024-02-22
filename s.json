@@ -299,7 +299,7 @@
      "changeable":1,
      "filterable":1,
      "timeout":30,
-     "ext":"$$$https://raw.gitcode.com/sky47261/sk/raw/main/yt.json$$$1"
+     "ext":"$$$"https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/yt.json$$$1"
     },
     {
       "key": "Buleitv",
