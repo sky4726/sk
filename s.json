@@ -1,15 +1,13 @@
-//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//
 {
   "spider": "https://gitea.com/sky721/sk/raw/branch/main/jar/fty.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "warningText": "sky4726接口完全免费，切勿付费购买！",
   "sites": [
     {
-      "key":"豆豆",
-      "name":"📺豆瓣|接口免费,sky4726",
-      "type":3,
-      "api":"csp_DouDou",
+      "key": "豆豆",
+      "name": "📺豆瓣|接口免费,sky4726",
+      "type": 3,
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -291,16 +289,16 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
-     "key":"Yingtantv",
-     "name":"📺影探PG",
-     "type":3,
-     "api":"csp_Yingtantv",
-     "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
-     "quickSearch":1,
-     "changeable":1,
-     "filterable":1,
-     "timeout":30,
-     "ext":"$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/yt.json$$$1"
+      "key": "Yingtantv",
+      "name": "📺影探PG",
+      "type": 3,
+      "api": "csp_Yingtantv",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/yt.json$$$1"
     },
     {
       "key": "Buleitv",
@@ -416,12 +414,12 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
-      "key":"drpy_js_厂长资源",
-      "name":"📺厂长资源[js]",
-      "type":3,
-      "api":"https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext":"https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/厂长资源.js"
-    }, 
+      "key": "drpy_js_厂长资源",
+      "name": "📺厂长资源[js]",
+      "type": 3,
+      "api": "https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/厂长资源.js"
+    },
     {
       "key": "7喜影院",
       "name": "📺7喜影院",
@@ -782,7 +780,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/jianpian.json$$$1",
-      "timeout":60
+      "timeout": 60
     },
     {
       "key": "新6V磁力",
@@ -828,7 +826,7 @@
       "type": 3,
       "api": "https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/子子影视.js"
-    }, 
+    },
     {
       "key": "drpy_js_星辰影院",
       "name": "📺星辰影院[js]",
