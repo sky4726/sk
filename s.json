@@ -290,6 +290,44 @@
       "timeout": 60,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/sky4726/sk/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
+    {"key":"Yingtantv",
+     "name":"📺影探PG",
+     "type":3,
+     "api":"csp_Yingtantv",
+     "jar": "./lib/pg.jar",
+     "quickSearch":1,
+     "changeable":1,
+     "filterable":1,
+     "timeout":30,
+     "ext":"$$$./lib/yt.json$$$1"
+    },
+    {
+      "key": "Buleitv",
+      "name": "📺布蕾",
+      "type": 3,
+      "api": "csp_Buleitv",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/追忆影探布蕾带自动追踪.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Yingtan",
+      "name": "📺影探",
+      "type": 3,
+      "api": "csp_Yingtantv2",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/追忆影探布蕾带自动追踪.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Zhuiyitv",
+      "name": "📺追忆",
+      "type": 3,
+      "api": "csp_Zhuiyitv",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/追忆影探布蕾带自动追踪.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
     {
       "key": "小胡",
       "name": "📺小胡自营PG",
