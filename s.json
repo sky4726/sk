@@ -718,6 +718,26 @@
       "changeable": 1
     },
     {
+      "key": "率率",
+      "name": "📺率率App",
+      "type": 3,
+      "api": "csp_AppLd",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
+    },
+    {
+      "key": "酷看",
+      "name": "📺酷看App",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "鑫鑫影视",
       "name": "📺鑫鑫影视",
       "type": 3,
@@ -950,12 +970,22 @@
     },
     {
       "key": "短剧",
-      "name": "📺短剧",
+      "name": "📺短剧pg",
       "type": 3,
       "api": "csp_Duanju",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
       "searchable": 0,
       "changeable": 1
+    },
+    {
+      "key": "短剧1",
+      "name": "📺短剧在线",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://aiduanju.vip/"
     },
     {
       "key": "csp_聚短视频",
