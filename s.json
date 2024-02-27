@@ -289,6 +289,15 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
+      "key": "Fangniu4k",
+      "name": "📺放牛┃TV┃App",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/fn.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "Yingtantv",
       "name": "📺影探PG",
       "type": 3,
