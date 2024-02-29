@@ -28,6 +28,7 @@ Github文件加速 https://gitmirror.com/files.html
 https://gitee.com/sky4726/sk/raw/master/s.json （自营单仓）
 https://raw.kkgithub.com/sky4726/sk/master/s.json（自营单仓）
 https://pastebin.com/raw/a6DCFCfp （自营多仓）
+https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt （ok）
 https://agit.ai/hu/hcr/raw/branch/master/短剧.json （短剧）
 http://fan.888484.xyz/tv （饭太硬）
 http://fan.xxooo.cf/tv（饭太硬）
@@ -35,6 +36,7 @@ https://xhdwc.tk/0 （骚零）
 http://xhww.fun:63/小米/DEMO.json （小米）
 https://raw.liucn.cc/box/m.json （老刘备）
 http://xiaohu.xzam.cn/xiaohu （小胡）
+http://u9v.cn/5Fp5qy （神州大地）
 https://wds.ecsxs.com:443/230989.json （春盈天下）
 https://itvbox.cc/可视TV/云星日记/仓库.json （星云日记）
 http://itvbox.cc/tvbox/云星日记/1.m3u8 （星云日记）
@@ -60,8 +62,8 @@ http://weixine.link:666 （心动车姐仓）
 http://rihou.vip:55/天天开心 （天天开心） 
 http://rihou.cc:55/天天开心 （天天开心） 
 http://tv.rihou.cc/天天开心
-http://rihou.cc:66/ysdxhl （小狐狸）
-https://xhdwc.tk/0 （骚零）
+http://rihou.vip:6/ysdxhl （小狐狸）
+https://raw.gitcode.com/Xymz/ymz/blobs/52d3bc418e8211ff094ec57bd2e79356ab975deb/ymz （夜猫子）
 https://agit.ai/relax/adcc/raw/branch/master/tvbox.json （巧记）
 http://cdn.qiaoji8.com/tvbox.json （巧记）
 http://pandown.pro/tvbox/tvbox.json （巧记）
