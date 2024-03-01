@@ -310,6 +310,32 @@
       "ext": "$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/yt.json$$$1"
     },
     {
+      "key":"Yscapp",
+      "name":"📺影视车PG",
+      "type":3,
+      "api":"csp_Yscapp",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+      "quickSearch":1,
+      "changeable":1,
+      "filterable":1,
+      "timeout":30,
+      "playerType":1,
+      "playerType":1,
+      "ext":"1"
+    },
+    {
+      "key":"Zhuiyitv",
+      "name":"追忆|App",
+      "type":3,
+      "api":"csp_Zhuiyitv",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+      "quickSearch":1,
+      "changeable":1,
+      "filterable":1,
+      "timeout":30,
+      "ext":"$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/yt.json$$$1"
+    },
+    {
       "key": "Buleitv",
       "name": "📺布蕾",
       "type": 3,
@@ -704,6 +730,24 @@
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
     },
+    {
+			"key": "河马",
+			"name": "📺河马App",
+			"type": 3,
+			"api": "csp_Hmys",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+			"playerType": 1,
+			"ext": "https://m.jmzp.net.cn$$$null$$$1"
+		},
+    {
+			"key": "追剧",
+			"name": "📺追剧App",
+			"type": 3,
+			"api": "csp_TTian",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+			"playerType": 1,
+			"ext": "http://app.kzjtv.com$$$null$$$1"
+		},
     {
       "key": "星星",
       "name": "📺星星App",
