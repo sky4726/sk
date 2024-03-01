@@ -325,7 +325,7 @@
     },
     {
       "key":"Zhuiyitv",
-      "name":"追忆|App",
+      "name":"📺追忆PG",
       "type":3,
       "api":"csp_Zhuiyitv",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
