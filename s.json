@@ -290,7 +290,7 @@
     },
     {
       "key": "Fangniu4k",
-      "name": "📺放牛┃TV┃App",
+      "name": "📺放牛TV",
       "type": 3,
       "api": "csp_Fangniu4k",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/fn.jar",
@@ -371,6 +371,14 @@
         "动漫",
         "综艺"
       ]
+    },
+    {
+      "key": "xh",
+      "name": "📺小胡自营",
+      "type": 1,
+      "playerType": 3,
+      "api": "http://cc.xzam.cn/api.php/provide/vod/",
+      "playUrl": ""
     },
     {
       "key": "YiSo",
