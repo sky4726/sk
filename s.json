@@ -128,18 +128,6 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/wogg.json"
     },
     {
-      "key": "影视车",
-      "name": "📺影视车网盘PG",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/wogg.json"
-    },
-    {
       "key": "Wobg1",
       "name": "📺土豆网盘",
       "type": 3,
