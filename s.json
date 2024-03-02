@@ -369,50 +369,6 @@
       "changeable": 0
     },
     {
-      "key": "开心HK影视",
-      "name": "📺开心HK影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/开心HK影视.json"
-    },
-    {
-      "key": "开心影视",
-      "name": "📺开心影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/开心影视.json"
-    },
-    {
-      "key": "csp_xBPQ_九八",
-      "name": "📺九八影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/98.json"
-    },
-    {
-      "key": "益达影视",
-      "name": "📺美益达影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
-    },
-    {
       "key": "csp_xBPQ_奇优",
       "name": "📺奇优影视",
       "type": 3,
