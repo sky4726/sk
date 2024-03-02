@@ -391,28 +391,6 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/qixinyingshi.json"
     },
     {
-      "key": "土豪影视",
-      "name": "📺土豪影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tuhaoys.json"
-    },
-    {
-      "key": "圣城影视",
-      "name": "📺圣城2K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/sc1080.json"
-    },
-    {
       "key": "高清资源网",
       "name": "📺高清2K",
       "type": 1,
@@ -504,17 +482,6 @@
 	"ext": "http://app.kzjtv.com$$$null$$$1"
     },
     {
-      "key": "Bdys_spider",
-      "name": "📺哔滴直连",
-      "api": "csp_Bdys01",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://www.bdys03.com/$$$null$$$1"
-    },
-    {
       "key": "一起看 ",
       "name": "📺一起看",
       "type": 3,
@@ -523,17 +490,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
-    },
-    {
-      "key": "率率",
-      "name": "📺率率App",
-      "type": 3,
-      "api": "csp_AppLd",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
     },
     {
       "key": "酷看",
@@ -665,13 +621,6 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/子子影视.js"
     },
     {
-      "key": "drpy_js_星辰影院",
-      "name": "📺星辰影院[js]",
-      "type": 3,
-      "api": "https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/星辰.js"
-    },
-    {
       "key": "drpy_js_起飞影院",
       "name": "📺起飞影院[js]",
       "type": 3,
@@ -679,39 +628,11 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/起飞影院.js"
     },
     {
-      "key": "drpy_js_金曼影视",
-      "name": "📺金曼影视[js]",
-      "type": 3,
-      "api": "https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/金曼影视.js"
-    },
-    {
       "key": "drpy_js_大米星球",
       "name": "📺大米星球[js]",
       "type": 3,
       "api": "https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/大米星球.js"
-    },
-    {
-      "key": "drpy_js_139影视",
-      "name": "📺139影视[js]",
-      "type": 3,
-      "api": "https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/139影视.js"
-    },
-    {
-      "key": "drpy_js_秋霞影院",
-      "name": "📺秋霞影院[js]",
-      "type": 3,
-      "api": "https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/秋霞.js"
-    },
-    {
-      "key": "drpy_js_凌云影视",
-      "name": "📺凌云影视[js]",
-      "type": 3,
-      "api": "https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/凌云影视.js"
     },
     {
       "key": "drpy_js_网飞.TV",
