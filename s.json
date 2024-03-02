@@ -370,17 +370,6 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/qiyou.json"
     },
     {
-      "key": "csp_五五",
-      "name": "📺五五影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/55.json"
-    },
-    {
       "key": "csp_Nmys",
       "name": "📺农民直连",
       "type": 3,
@@ -389,28 +378,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/nmys.json"
-    },
-    {
-      "key": "csp_盒子",
-      "name": "📺盒子影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/hezi.json"
-    },
-    {
-      "key": "csp_Free",
-      "name": "📺Free影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/Free.json"
     },
     {
       "key": "麻衣呀呼",
