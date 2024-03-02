@@ -348,11 +348,15 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
-      "key": "drpy_js_厂长资源",
-      "name": "📺厂长资源[js]",
+      "key": "Czsapp",
+      "name": "📺厂长无广",
       "type": 3,
-      "api": "https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/厂长资源.js"
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy55.com/"
     },
     {
       "key": "7喜影院",
