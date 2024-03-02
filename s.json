@@ -380,50 +380,6 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/nmys.json"
     },
     {
-      "key": "麻衣呀呼",
-      "name": "📺麻衣呀呼",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/mayiyahu.json"
-    },
-    {
-      "key": "csp_Voflix",
-      "name": "📺Voflix",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/voflix.json"
-    },
-    {
-      "key": "csp_黑狐",
-      "name": "📺黑狐影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/heihu.json"
-    },
-    {
-      "key": "光棍影视",
-      "name": "📺光棍影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/guangun.json"
-    },
-    {
       "key": "七新影视",
       "name": "📺七新影视",
       "type": 3,
