@@ -731,23 +731,23 @@
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
     },
     {
-			"key": "河马",
-			"name": "📺河马App",
-			"type": 3,
-			"api": "csp_Hmys",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
-			"playerType": 1,
-			"ext": "https://m.jmzp.net.cn$$$null$$$1"
-		},
+	"key": "河马",
+	"name": "📺河马App",
+	"type": 3,
+	"api": "csp_Hmys",
+	"jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+	"playerType": 1,
+	"ext": "https://m.jmzp.net.cn$$$null$$$1"
+    },
     {
-			"key": "追剧",
-			"name": "📺追剧App",
-			"type": 3,
-			"api": "csp_TTian",
-      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
-			"playerType": 1,
-			"ext": "http://app.kzjtv.com$$$null$$$1"
-		},
+	"key": "追剧",
+	"name": "📺追剧App",
+	"type": 3,
+	"api": "csp_TTian",
+	"jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+	"playerType": 1,
+	"ext": "http://app.kzjtv.com$$$null$$$1"
+    },
     {
       "key": "星星",
       "name": "📺星星App",
@@ -807,6 +807,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+    },
+    {
+      "key": "Lib",
+      "name": "📺利播直连",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pw/"
     },
     {
       "key": "索尼资源",
