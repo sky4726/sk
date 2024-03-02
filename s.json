@@ -359,16 +359,6 @@
       "ext": "https://www.czzy55.com/"
     },
     {
-      "key": "7喜影院",
-      "name": "📺7喜影院",
-      "type": 3,
-      "api": "https://raw.cachefly.998111.xyz/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/7喜影院.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "csp_xBPQ_奇优",
       "name": "📺奇优影视",
       "type": 3,
