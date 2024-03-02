@@ -26,9 +26,9 @@ Github文件加速 https://gitmirror.com/files.html
 ### **接口：**
 ```
 https://gitee.com/sky4726/sk/raw/master/s.json （自营单仓）
-https://raw.kkgithub.com/sky4726/sk/master/s.json（自营单仓）
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/sky4726/sk/master/s.json（自营单仓）
 https://pastebin.com/raw/a6DCFCfp （自营多仓）
-https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt （ok）
+http://ok321.top/tv（ok）
 https://agit.ai/hu/hcr/raw/branch/master/短剧.json （短剧）
 http://fan.888484.xyz/tv （饭太硬）
 http://fan.xxooo.cf/tv（饭太硬）
