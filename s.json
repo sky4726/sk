@@ -290,16 +290,6 @@
       ]
     },
     {
-      "key": "赛文",
-      "name": "📺赛文资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "左岸",
       "name": "📺左岸",
       "type": 1,
