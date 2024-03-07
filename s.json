@@ -129,7 +129,7 @@
     },
     {
       "key":"Moli",
-      "name":"HDmoli网盘PG",
+      "name":"📺HDmoli网盘PG",
       "type":3,"api":"csp_Moli",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",    
       "quickSearch":1,
@@ -302,7 +302,7 @@
     },
     {
       "key": "Fangniu4k",
-      "name": "4K放牛TV",
+      "name": "📺4K放牛TV",
       "type": 3,
       "api": "csp_Fangniu4k",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/zuixinfangniu.jar",
