@@ -128,6 +128,17 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/wogg.json"
     },
     {
+      "key":"Moli",
+      "name":"HDmoli网盘PG",
+      "type":3,"api":"csp_Moli",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",    
+      "quickSearch":1,
+      "changeable":1,
+      "filterable":1,
+      "timeout":60,
+      "ext":"https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/moli.json"
+    },
+    {
       "key": "Wobg1",
       "name": "📺土豆网盘",
       "type": 3,
@@ -289,6 +300,15 @@
         "综艺"
       ]
     },
+    {
+      "key": "Fangniu4k",
+      "name": "4K放牛TV",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/zuixinfangniu.jar",
+      "searchable": 1,
+      "changeable": 0
+    }, 
     {
       "key": "xh",
       "name": "📺小胡自营",
