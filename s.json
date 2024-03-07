@@ -125,7 +125,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/wogg.json"
+      "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://www.wogg.xyz/$$$null$$$1$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/wogg.json"
     },
     {
       "key":"Moli",
@@ -140,7 +140,7 @@
     },
     {
       "key": "Wobg1",
-      "name": "📺土豆网盘",
+      "name": "📺土豆网盘PG",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -176,7 +176,7 @@
     },
     {
       "key": "团长资源",
-      "name": "📺团长资源网盘",
+      "name": "📺团长资源网盘PG",
       "type": 3,
       "api": "csp_TZFile",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -188,7 +188,7 @@
     },
     {
       "key": "YunPanOne",
-      "name": "📺云盘资源网盘",
+      "name": "📺云盘资源网盘PG",
       "type": 3,
       "api": "csp_YunPanOne",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -200,7 +200,7 @@
     },
     {
       "key": "DaPanSo",
-      "name": "📺大盘搜网盘",
+      "name": "📺大盘搜网盘PG",
       "type": 3,
       "api": "csp_DaPanSo",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -212,7 +212,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "📺PanSearch网盘",
+      "name": "📺PanSearch网盘PG",
       "type": 3,
       "api": "csp_PanSearch",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -224,7 +224,7 @@
     },
     {
       "key": "PikaSo",
-      "name": "📺皮卡搜网盘",
+      "name": "📺皮卡搜网盘PG",
       "type": 3,
       "api": "csp_PikaSo",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -236,7 +236,7 @@
     },
     {
       "key": "秒搜",
-      "name": "📺秒搜网盘",
+      "name": "📺秒搜网盘PG",
       "type": 3,
       "api": "csp_MiaoSou",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -245,7 +245,7 @@
     },
     {
       "key": "88Pan",
-      "name": "📺88网盘",
+      "name": "📺88网盘PG",
       "type": 3,
       "api": "csp_EightEight",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -254,7 +254,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "📺阿里小纸条",
+      "name": "📺阿里小纸条PG",
       "type": 3,
       "api": "csp_Gitcafe",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -266,7 +266,7 @@
     },
     {
       "key": "YydsVip",
-      "name": "📺YYDSVIP网盘",
+      "name": "📺YYDSVIP网盘PG",
       "type": 3,
       "api": "csp_YydsVip_Disable",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -278,7 +278,7 @@
     },
     {
       "key": "新6V网",
-      "name": "📺新6V网盘",
+      "name": "📺新6V网盘PG",
       "type": 3,
       "api": "csp_Xb6v",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -286,19 +286,6 @@
       "changeable": 1,
       "timeout": 60,
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
-    },
-    {
-      "key": "libhd",
-      "name": "📺LiHD测试",
-      "type": 1,
-      "api": "https://www.libhd.com/api.php/provide/vod/from/AL2",
-      "playUrl": "https://www.libhd.com/play/?url=",
-      "categories": [
-        "电影",
-        "剧集",
-        "动漫",
-        "综艺"
-      ]
     },
     {
       "key": "Fangniu4k",
@@ -485,7 +472,7 @@
     },
     {
       "key": "天天",
-      "name": "📺天天App",
+      "name": "📺天天AppPG",
       "type": 3,
       "api": "csp_TTian",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -494,7 +481,7 @@
     },
     {
 	"key": "追剧",
-	"name": "📺追剧App",
+	"name": "📺追剧AppPG",
 	"type": 3,
 	"api": "csp_TTian",
 	"jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -586,7 +573,7 @@
     },
     {
       "key": "賤賤",
-      "name": "📺荐片",
+      "name": "📺荐片PG",
       "type": 3,
       "api": "csp_Jianpian",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -607,7 +594,7 @@
     },
     {
       "key": "快看",
-      "name": "📺快看",
+      "name": "📺快看PG",
       "type": 3,
       "api": "csp_Kuaikan",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -728,7 +715,7 @@
     },
     {
       "key": "短剧",
-      "name": "📺短剧pg",
+      "name": "📺短剧PG",
       "type": 3,
       "api": "csp_Duanju",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -794,7 +781,7 @@
     },
     {
       "key": "JustLive",
-      "name": "📺JustLive",
+      "name": "📺JustLivePG",
       "type": 3,
       "api": "csp_JustLive",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -872,7 +859,7 @@
     },
     {
       "key": "酷狗",
-      "name": "📺酷狗pg",
+      "name": "📺酷狗PG",
       "type": 3,
       "api": "csp_Kugou",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -998,7 +985,7 @@
     },
     {
       "key": "bili",
-      "name": "📺Bili[jar]",
+      "name": "📺BiliPG",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
