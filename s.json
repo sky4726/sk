@@ -116,6 +116,23 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
+      "key":"AliShare",
+    "name":"📺阿里云盘影视分享",
+    "type":3,
+    "api":"csp_AliShare",
+    "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",	
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":0,
+    "timeout":60,
+    "ext":"https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.jsonalishare.txt$$$db$$$1",
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },
+    {
       "key": "Wogg",
       "name": "📺玩偶网盘PG",
       "type": 3,
@@ -161,6 +178,18 @@
       "filterable": 1,
       "timeout": 30,
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/wogg.json"
+    },
+    {
+    "key":"Xpanpan",
+    "name":"📺小盘盘PG",
+    "type":3,
+    "api":"csp_Xpanpan",
+    "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "timeout":60,
+    "ext":"https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"
     },
     {
       "key": "Hdhive",
@@ -251,6 +280,15 @@
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
       "timeout": 30,
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://662688.xyz"
+    },
+    {
+	  "key":"盘友圈",
+	  "name":"📺盘友圈PG",
+	  "type":3,
+	  "api":"csp_Panyq",
+	  "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+	  "timeout":60,
+	  "ext":"https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json"
     },
     {
       "key": "Gitcafe",
@@ -862,6 +900,24 @@
       "name": "📺酷狗PG",
       "type": 3,
       "api": "csp_Kugou",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Iktv",
+      "name": "📺KTV",
+      "type": 3,
+      "api": "csp_Iktv",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Yinyuetai",
+      "name": "📺音悦台",
+      "type": 3,
+      "api": "csp_Yinyuetai",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
       "searchable": 1,
       "changeable": 0
