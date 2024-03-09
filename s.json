@@ -856,8 +856,7 @@
       "api": "csp_Netflav",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
       "searchable": 0,
-      "changeable": 0,
-      "ext":"https://netflav5.com//$$$socks5://192.168.101.1:1080"
+      "changeable": 0
     },
     {
       "key": "Taohuazu",
@@ -866,8 +865,7 @@
       "api": "csp_Taohuazu",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
       "searchable": 0,
-      "changeable": 0,
-      "ext":"http://thze.cc/$$$socks5://192.168.101.1:1080"
+      "changeable": 0
     },	  
 	  
     {
