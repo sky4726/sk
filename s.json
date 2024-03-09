@@ -850,6 +850,27 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/企鹅直播.json"
     },
     {
+      "key": "Netflav",
+      "name": "📺Netflav",
+      "type": 3,
+      "api": "csp_Netflav",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "ext":"https://netflav5.com//$$$socks5://192.168.101.1:1080"
+    },
+    {
+      "key": "Taohuazu",
+      "name": "📺桃花族",
+      "type": 3,
+      "api": "csp_Taohuazu",
+      "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "ext":"http://thze.cc/$$$socks5://192.168.101.1:1080"
+    },	  
+	  
+    {
       "key": "drpy_js_酷6网",
       "name": "📺酷6网[js]",
       "type": 3,
