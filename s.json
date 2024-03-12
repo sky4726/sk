@@ -180,6 +180,16 @@
       "ext": "https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/wogg.json"
     },
     {
+	    "key": "玩我哥哥",
+	    "name":"📺玩我哥哥开心",
+	    "type":3,
+	    "api":"csp_XYQHikerAL",
+	    "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/ttkx.jar",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":1,
+	    "ext":"https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/玩我哥哥.json"},	  
+    {
     "key":"Xpanpan",
     "name":"📺小盘盘PG",
     "type":3,
@@ -430,6 +440,11 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
+	  {"key":"原创","name":"📺原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+	  {"key":"白嫖","name":"📺白飘┃无广","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+	  {"key":"新星","name":"📺新星┃App","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1,"changeable":1},
+          {"key":"毛驴","name":"📺毛驴┃直连","type":3,"api":"csp_MLYS","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
+	  {"key":"Lib","name": "📺立播┃直连","type": 3,"api": "csp_Libvio","timeout":15,"searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pw/"},
     {
       "key": "Czsapp",
       "name": "📺厂长无广",
@@ -648,6 +663,19 @@
       ]
     },
     {
+	    "key": "csp_xml_爱坤",
+	    "name": "🎦爱坤┃2K",
+	    "type": 1,
+	    "api": "https://ikunzyapi.com/api.php/provide/vod",
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1,
+	    "playurl": "json:https://www.ikdmjx.com/?url=",
+	    "categories": ["动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影",
+		    "欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫",
+		    "港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
+    },	  
+    {
       "key": "賤賤",
       "name": "📺荐片PG",
       "type": 3,
@@ -819,6 +847,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
+	  {"key":"短剧2","name":"📺️上头┃短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1},
     {
       "key": "csp_Yj1211",
       "name": "📺️网红直播",
