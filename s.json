@@ -335,6 +335,44 @@
       "changeable": 0
     }, 
     {
+	    "key":"Yingtantv",
+	    "name":"影探|App",
+	    "type":3,
+	    "api":"csp_Yingtantv",
+	    "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+	    "quickSearch":1,
+	    "changeable":1,
+	    "filterable":1,
+	    "timeout":30,
+	    "ext":"$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/yt.json$$$1"
+    },
+    {
+	    "key":"Yscapp",
+	    "name":"影视车|App",
+	    "type":3,
+	    "api":"csp_Yscapp",
+	    "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+	    "quickSearch":1,
+	    "changeable":1,
+	    "filterable":1,
+	    "timeout":30,
+	    "playerType":1,
+	    "playerType":1,
+	    "ext":"1"
+    },
+    {
+	    "key":"Zhuiyitv",
+	    "name":"追忆|App",
+	    "type":3,
+	    "api":"csp_Zhuiyitv",
+	    "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+	    "quickSearch":1,
+	    "changeable":1,
+	    "filterable":1,
+	    "timeout":30,
+	    "ext":"$$$https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/yt.json$$$1"
+    },	  
+    {
       "key": "xh",
       "name": "📺小胡自营",
       "type": 1,
@@ -758,7 +796,8 @@
       "api": "csp_Duanju",
       "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
       "searchable": 0,
-      "changeable": 1
+      "changeable": 1,
+      "ext":"https://www.duanjutv.icu"
     },
     {
       "key": "短剧1",
