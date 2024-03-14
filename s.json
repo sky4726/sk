@@ -192,7 +192,7 @@
 },
 	  {
 "key":"美剧迷",
-"name":"美剧迷|网盘",
+"name":"📺美剧迷|网盘",
 "type":3,
 "api":"csp_Meijumi", 
 "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -359,7 +359,7 @@
     }, 
     {
 	    "key":"Yingtantv",
-	    "name":"影探|App",
+	    "name":"📺影探|App",
 	    "type":3,
 	    "api":"csp_Yingtantv",
 	    "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -371,7 +371,7 @@
     },
     {
 	    "key":"Yscapp",
-	    "name":"影视车|App",
+	    "name":"📺影视车|App",
 	    "type":3,
 	    "api":"csp_Yscapp",
 	    "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -385,7 +385,7 @@
     },
     {
 	    "key":"Zhuiyitv",
-	    "name":"追忆|App",
+	    "name":"📺追忆|App",
 	    "type":3,
 	    "api":"csp_Zhuiyitv",
 	    "jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
@@ -677,7 +677,7 @@
     },
     {
 	    "key": "csp_xml_爱坤",
-	    "name": "🎦爱坤┃2K",
+	    "name": "📺爱坤┃2K",
 	    "type": 1,
 	    "api": "https://ikunzyapi.com/api.php/provide/vod",
 	    "searchable": 1,
