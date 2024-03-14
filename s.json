@@ -188,7 +188,20 @@
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":1,
-	    "ext":"https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/玩我哥哥.json"},	  
+	    "ext":"https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/玩我哥哥.json"
+},
+	  {
+"key":"美剧迷",
+"name":"美剧迷|网盘",
+"type":3,
+"api":"csp_Meijumi", 
+"jar": "https://gitea.com/sky721/sk/raw/branch/main/jar/pg.jar",
+"quickSearch":1, 
+"changeable":1, 
+"filterable":1, 
+"timeout":60,
+"ext":"https://raw.cachefly.998111.xyz/sky4726/sk/master/lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
+},
     {
     "key":"Xpanpan",
     "name":"📺小盘盘PG",
