@@ -2163,7 +2163,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./itvlist.txt",
+      "url": "https://www.gitlink.org.cn/api/sky4726/sky4726.gitlink.net/raw/jar%2Fitvlist.txt?ref=master",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -2179,7 +2179,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./kx2024.txt",
+      "url": "https://www.gitlink.org.cn/api/sky4726/sky4726.gitlink.net/raw/jar%2Fkx2024.txt?ref=master",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
     },
