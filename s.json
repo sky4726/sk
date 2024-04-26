@@ -237,33 +237,11 @@
        "timeout": 10
     },
     {
-      "key": "csp_xBPQ可可",
-      "name": "📺可可影视|XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/可可影视.json"
-    },
-    {
-      "key": "csp_红狐狸影视",
-      "name": "📺红狐狸|XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext": {
-        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-    },
-    {
       "key": "赘婿影视",
-      "name": "🎦赘婿影视",
+      "name": "📺赘婿影视|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -301,10 +279,12 @@
         "线路二次截取": "<ul id=\"playlist\">&&</ul",
         "线路数组": " <li&&li>",
         "线路标题": ">&&<",
-        "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&&tid={cateId}area={area}&year={year}",
-        //https://www.03yy.co/search.php?page=2&searchtype=5&order=time&tid=1&area=大陆&year=2023
+        "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&year=2004&tid={cateId}&area={area}",
+     //https://www.03yy.co/search.php?page=2&searchtype=5&order=time&tid=1&area=大陆&year=2023
+     //https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&&tid={cateId}area={area}&year={year}
+     //https://www.03yy.co/search.php?searchtype=5&order=time&year=2024&tid=1&area=%E9%A6%99%E6%B8%AF
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-      }
+      }             
     },
     {
         "key": "4k影视",
@@ -416,7 +396,7 @@
       "name": "📺6080┃XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "ext": {
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "分类url": "https://www.6080yy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
@@ -426,7 +406,7 @@
       "key": "极客",
       "name": "📺极客|XBPQ",
       "type": 3,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": ".m3u8",
@@ -635,17 +615,6 @@
       "changeable": 1
     },
     {
-      "key": "农民",
-      "name": "📺农民秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/nmys.json"
-    },
-    {
       "key": "天天",
       "name": "📺天天AppPG",
       "type": 3,
@@ -719,7 +688,7 @@
     },
     {
       "key": "csp_vs",
-      "name": "🎦VS┃秒播",
+      "name": "📺VS┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/ttkx.jar",
@@ -751,24 +720,6 @@
       "ext": "./lib/55.json"
     },
     {
-      "key": "Wexshandian",
-      "name": "📺闪电┃秒播┃直连",
-      "type": 3,
-      "api": "csp_Wexshandian",
-      "jar": "./lib/wex.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Fangniu4k",
-      "name": "📺放牛┃TV┃App",
-      "type": 3,
-      "api": "csp_WexFangniu4k",
-      "jar": "./lib/wex.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "Wexjiohub",
       "name": "📺啾啾┃影视┃直连",
       "type": 3,
@@ -785,17 +736,6 @@
       "jar": "./lib/wex.jar",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "音范丝",
-      "name": "📺音范丝┃电影┃P2P",
-      "type": 3,
-      "api": "csp_XPath",
-      "jar": "./lib/wex.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/fys.json"
     },
     {
       "key": "快看",
