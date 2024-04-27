@@ -35,6 +35,8 @@ https://xhdwc.tk/0 （骚零）
 http://xhww.fun:63/小米/DEMO.json （小米）
 https://raw.liucn.cc/box/m.json （老刘备）
 http://u9v.cn/5Fp5qy （神州大地）
+http://47.108.190.141/yydf/yydf/bd/yydf.json （业余单仓）
+http://47.108.190.141/yydf/yydf/yydf.json （业余多仓）
 https://wds.ecsxs.com:443/230989.json （春盈天下）
 https://itvbox.cc/可视TV/云星日记/仓库.json （星云日记）
 http://itvbox.cc/tvbox/云星日记/1.m3u8 （星云日记）
