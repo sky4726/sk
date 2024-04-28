@@ -943,6 +943,18 @@
       "ext": "http://www.xb6v.com/"
     },
     {
+      "key": "Bdys_spider",
+      "name": "📺哔滴磁力PG",
+      "api": "csp_Bdys01",
+      "jar": "./pg.jar",
+      "type": 3,
+      "filterable": 1,
+      "searchable":0,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "https://www.bdys10.com/$$$null$$$1"
+    },
+    {
       "key": "drpy_js_网飞.TV",
       "name": "📺网飞.TV[js]",
       "type": 3,
