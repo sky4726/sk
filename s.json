@@ -248,6 +248,58 @@
       "ext": "./lib/开心HK影视.json"
     },
     {
+      "key": "神仙影视",
+      "name": "📺神仙影视|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "http://dy.liuyunw.com/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$5"
+      }
+    },
+    {
+      "key": " 风影",
+      "name": "新风影|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://xfys01.com/index.php/vod/show/by/hits/id/{cateId}/page/{catePg}.html"
+      }
+    },
+    {
+      "key": " 好好酷",
+      "name": "📺好酷影视|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://haohaoku.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+      }
+    },
+    {
+      "key": "92kyy",
+      "name": "📺就爱看电影|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/ttkx.jar",
+      "ext": {
+        "线路数组": "data-dropdown-value=&&</div>[排序:超清>>]",
+        "分类url": "https://www.92kyy.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#纪录片$63#动漫$4#综艺$3"
+      }
+    },
+    {
       "key": "赘婿影视",
       "name": "📺赘婿影视|XBPQ",
       "type": 3,
