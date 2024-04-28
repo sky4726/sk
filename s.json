@@ -237,6 +237,17 @@
        "timeout": 10
     },
     {
+      "key": "开心HK影视",
+      "name": "📺开心HK影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/开心HK影视.json"
+    },
+    {
       "key": "赘婿影视",
       "name": "📺赘婿影视|XBPQ",
       "type": 3,
