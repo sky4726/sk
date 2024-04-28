@@ -263,28 +263,15 @@
     },
     {
       "key": " 风影",
-      "name": "新风影|XBPQ",
+      "name": "📺新风影|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/ttkx.jar",
+      "jar": "./lib/Yoursmile.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
         "分类url": "https://xfys01.com/index.php/vod/show/by/hits/id/{cateId}/page/{catePg}.html"
-      }
-    },
-    {
-      "key": " 好好酷",
-      "name": "📺好酷影视|XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/ttkx.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://haohaoku.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
       }
     },
     {
