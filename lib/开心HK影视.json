@@ -4,7 +4,7 @@
     
     "站名":"开心HK影视",
     
-    "主页url":"http://www.ttkx.site:81/",
+    "主页url":"http://www.kxys.网络:8279/",
     
     "简介":"<p>&&</p>",
     
@@ -28,7 +28,7 @@
     
     "搜索模式":"1",
     
-    "搜索url":"http://www.ttkx.site:81/index.php/vod/search/wd/.html?wd={wd}",
+    "搜索url":"http://www.kxys.网络:8279/index.php/vodsearch/{wd}----------{SearchPg}---.html",
     
     "搜索数组":"module-card-item-class\">&&</a>",
     
@@ -50,7 +50,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"http://www.ttkx.site:81/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html",
+    "分类url":"http://www.kxys.网络:8279/index.php/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#动画$35",
     
