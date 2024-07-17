@@ -1,31 +1,32 @@
 ## **网页点播站点：**
-```
-天天开心自营 http://www.ttkx.site:33
-牛嘎解析 http://niuga.cn/
-LIBVIO https://lib.ifabu.vip
-豌豆PRO https://wandou.la/
-```
+
+牛嘎解析 ```http://niuga.cn/```
+LIBVIO ```https://lib.ifabu.vip```
+豌豆PRO ```https://wandou.la/```
+
 ### **解析小站：**
-```
-Github文件加速 https://gitmirror.com/files.html
-黎歌 https://www.lige.fit
-夜猫子 https://download.kstore.space/download/3313/%E7%BD%91%E9%A1%B5/index.html
-多多风向标导 https://duo.codered.cloud/
-多多 https://yydsys.top
-大昌 https://jk.cnrcs.link/index.html
-饭太硬 http://fan.888484.xyz/tv
-饭太硬 http://xn--sss604efuw.top
-饭太硬 http://xn--sss604efuw.top/
-菜妮丝 https://cainisi.cf/   https://tvbox.cainisi.cf/
-欧歌 http://tv.nxog.top/  http://m.nxog.top
-日后魔改 https://docs.qq.com/doc/DYktmVmF1QXJZRmlh
-猪猪LR 小张不咕咕 https://www.rjjjh.com/#/
-本地包：https://www.123pan.com/s/GnA9-BSZcv.html
-影视仓影视猫爪影迷easybox：https://www.123pan.com/s/GnA9-JSZcv.html
-```
+
+Github文件加速 ```https://hg.cnacg.free.hr/```
+Github文件加速 ```https://gitmirror.com/files.html```
+黎歌 ```https://www.lige.fit```
+夜猫子 ```https://download.kstore.space/download/3313/%E7%BD%91%E9%A1%B5/index.html```
+多多风向标导 ```https://duo.codered.cloud/```
+多多 ```https://yydsys.top```
+大昌 ```https://jk.cnrcs.link/index.html```
+饭太硬 ```http://fan.888484.xyz/tv```
+饭太硬 ```http://xn--sss604efuw.top```
+饭太硬 ```http://xn--sss604efuw.top/```
+菜妮丝 ```https://cainisi.cf/```   ```https://tvbox.cainisi.cf/```
+欧歌 ```http://tv.nxog.top/```  ```http://m.nxog.top```
+日后魔改 ```https://docs.qq.com/doc/DYktmVmF1QXJZRmlh```
+猪猪LR 小张不咕咕 ```https://www.rjjjh.com/#/```
+本地包：```https://www.123pan.com/s/GnA9-BSZcv.html```
+影视仓影视猫爪影迷easybox：```https://www.123pan.com/s/GnA9-JSZcv.html```
+
 ### **接口：**
 ```
 https://gitee.com/sky4726/sk/raw/master/s.json （自营单仓）
+https://hg.cnacg.free.hr/https://raw.githubusercontent.com/sky4726/sk/master/s.json（自营单仓）
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/sky4726/sk/master/s.json（自营单仓）
 https://pastebin.com/raw/a6DCFCfp （自营多仓）
 http://ok321.top/tv（ok）
