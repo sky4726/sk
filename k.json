@@ -7,8 +7,16 @@
       "name": "🆕Netflav",
       "type": 3,
       "api": "csp_Netflav",
-      "searchable": 0,
-      "changeable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 60,
+      "ext": "https://netflav5.com$$$proxy",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
     },
     {
       "key":"csp_JavBus",
@@ -72,6 +80,34 @@
                     "分类": "U9A9$2#DHT网络(无图)$1",
             "分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"
                 }
+    },
+    {
+      "key": "drpy_js_91pron-1[密]js",
+      "name": "️91pron-1[密]js",
+      "type": 3,
+      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "./19/91pron-1[密].js"
+    },
+    {
+      "key": "drpy_js_恒大影视【密】js",
+      "name": "️恒大影视【密】js",
+      "type": 3,
+      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "./19/恒大影视【密】.js"
+    },
+    {
+      "key": "drpy_js_探探资源[密]js",
+      "name": "️探探资源[密]js",
+      "type": 3,
+      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "./19/探探资源[密].js"
+    },
+    {
+      "key": "drpy_js_玉兔资源[密]js",
+      "name": "️玉兔资源[密]js",
+      "type": 3,
+      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "./19/玉兔资源[密].js"
     },
     {"key":"溏心次元","name":"🆕溏心次元","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
         "ext": {
@@ -441,6 +477,14 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1
+    },
+    {
+      "key": "实验金鹰",
+      "name": "🆕实验金鹰",
+      "type": 1,
+      "api": "http://zhangqun66.serv00.net/jy.php",
+      "searchable": 1,
+      "changeable": 1
     },
     {
     "key": "乐播",
