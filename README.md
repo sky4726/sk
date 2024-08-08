@@ -1,12 +1,12 @@
 ## **网页点播站点：**
 ```
+天天开心自营 http://www.ttkx.site:33
 牛嘎解析 http://niuga.cn/
 LIBVIO https://lib.ifabu.vip
 豌豆PRO https://wandou.la/
 ```
 ### **解析小站：**
 ```
-Github文件加速 https://hg.cnacg.free.hr/
 Github文件加速 https://gitmirror.com/files.html
 黎歌 https://www.lige.fit
 夜猫子 https://download.kstore.space/download/3313/%E7%BD%91%E9%A1%B5/index.html
@@ -26,7 +26,6 @@ Github文件加速 https://gitmirror.com/files.html
 ### **接口：**
 ```
 https://gitee.com/sky4726/sk/raw/master/s.json （自营单仓）
-https://hg.cnacg.free.hr/https://raw.githubusercontent.com/sky4726/sk/master/s.json（自营单仓）
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/sky4726/sk/master/s.json（自营单仓）
 https://pastebin.com/raw/a6DCFCfp （自营多仓）
 http://ok321.top/tv（ok）
