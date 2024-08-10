@@ -42,6 +42,25 @@
       "timeout":1801
     },
     {
+      "key": "avjoy",
+      "name": "🆕avjoy",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext": {
+        "主页url": "https://avjoy.me/",
+        //"数组": "\"class=col-6\"&&\"class=col-sm-6\"&&\"clss=col-md-4\"&&\"class=col-lg-3\"&&\"class=col-xl-2dot4\"\"class=i-container\"",
+        "图片": "src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "播放标题": "",
+        "播放链接": "",
+        "直接播放": "1",
+        "分类": "中文字幕$中文字幕#素人$amateur#肛交$anal#动漫$anime#Asian$asian#巨乳$big-tits#中国$china#COSPLAY$cosplay#日本$japan#日本jav$jav#韩国$korea#熟女$mature#女优$pornstar#女子校生$schoolgirl#SM$sm#少女$teen#无修正$uncensored#人妻$wife",
+        "分类url": "https://avjoy.me/search/videos/{cateId}/page/{catePg}.html"
+      }
+    },
+    {
       "key": "小幺女|床吧",
       "name": "🆕小幺女",
       "type": 3,
