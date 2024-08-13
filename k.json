@@ -46,7 +46,7 @@
       "name": "🆕avjoy",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "ext": {
         "主页url": "https://avjoy.me/",
         //"数组": "\"class=col-6\"&&\"class=col-sm-6\"&&\"clss=col-md-4\"&&\"class=col-lg-3\"&&\"class=col-xl-2dot4\"\"class=i-container\"",
@@ -69,7 +69,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./lib/XBPQ.jar",
+      "jar":"./lib/ttkx.jar",
       "ext": {
      "站名": "小幺女",
         "主页url": "https://xxynhkaa1.buzz",
@@ -86,7 +86,7 @@
       }
     },
     {
-      "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
+      "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"./lib/ttkx.jar","style":{"ratio":1.7},
         "ext": {
             "搜索url":"https://u9a9b.cc/?type=2&search={wd}&p={pg}",
             "数组":"<tr&&</tr>",
@@ -105,7 +105,7 @@
       "name": "🆕BuzzAV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./lib/XBPQ.jar",
+      "jar":"./lib/ttkx.jar",
       "ext": {
         "主页url": "https://www.buzzav.com/",
         "直接播放": "1",
@@ -122,7 +122,7 @@
       "name": "🆕AVHAHA",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./lib/XBPQ.jar",
+      "jar":"./lib/ttkx.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -145,7 +145,7 @@
       "name": "🆕NiceTV820",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "ext": {
         "数组": "\"col-6 col-sm-4 col-lg-3 mb-3\"",
         "图片": "data-src=\"&&\"",
@@ -186,7 +186,7 @@
       "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "./19/玉兔资源[密].js"
     },
-    {"key":"溏心次元","name":"🆕溏心次元","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
+    {"key":"溏心次元","name":"🆕溏心次元","type":3,"api":"csp_XBPQ","jar":"./lib/ttkx.jar","style":{"ratio":1.7},
         "ext": {
     "数组":"<li&&</li>",
     "搜索url":"https://www.txcyeat.buzz/index.php/vodsearch/{wd}----------{pg}---.html",
@@ -204,7 +204,7 @@
       "name": "🆕222cuo",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "ext": {
         "主页url": "http://224cuo.com/",
         "直接播放": "1",
@@ -221,7 +221,7 @@
       "name": "🆕KanAV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "ext": {
         "主页url": "https://kanav.info/",
         "直接播放": "1",
@@ -240,7 +240,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "changeable": 0,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "ext": {
         "二次截取": "\"pb-3 pb-e-lg-40\"&&\"site-footer\"+\"col-6 col-sm-4 col-lg-3\"",
         "数组": "\"video-img-box &&\"col-6 col-sm-4 col-lg-3\"",
@@ -262,7 +262,7 @@
       "name": "🆕天美|doll",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "style": {
         "ratio": 1.7
       },
@@ -281,7 +281,7 @@
       "name": "🆕黄色仓库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -316,7 +316,7 @@
       "key": "mv",
       "name": "🆕最新课程",
       "type": 3,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/ttkx.jar",
       "api": "csp_XBPQ",
       "ext": {
               "站名": "222av.me",
@@ -335,7 +335,7 @@
         "name": "🆕四虎影院",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "./lib/XBPQ.jar",
+        "jar": "./lib/ttkx.jar",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -369,7 +369,7 @@
         "name": "🆕顶级网曝",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar":"./lib/XBPQ.jar",
+        "jar":"./lib/ttkx.jar",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -399,7 +399,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar":"./lib/XBPQ.jar",
+      "jar":"./lib/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -418,7 +418,7 @@
     "name":"🆕溏心次元",
     "type":3,
     "api":"csp_XBPQ",
-    "jar":"./lib/XBPQ.jar",
+    "jar":"./lib/ttkx.jar",
     "style":{"ratio":1.7},
       "ext": {
         "数组":"<li&&</li>",
@@ -558,6 +558,36 @@
       "filterable": 0,
       "ext": "./lib/女优.json",
       "jar":"./lib/Yoursmile2.jar"
+    },
+    {
+      "key": "csp_xBPQ_GAOAA",
+      "name": "🆕GAOAA",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/Yoursmile2.jar",
+      "ext": "./19/GAOAA.json"
+    },
+    {
+      "key": "绝美视频",
+      "name": "🆕绝美视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      },
+      "ext": {
+        "主页url": "https://www.juemei.fun/",
+        "分类url": "https://www.juemei.fun/type/{cateId}-{catePg}.html;;z",
+        "分类": "tsuki$1#jeehyeon$13#YeonHwa$2#KYUL$3#ChoiApple$4#클로이 요가 Chloe YOGA$5#jiyoung$12#임제리 IMJERRY LOOKBOOK$7#Ajin lookbook$8#엔픽컴퍼니 Official$9#Saki Vlog$10#HAATSSOl 햇쏠 LOOKBOOK VLOGER$11#yunji$14#GGotBBang TV$15#슬렌서아 Slenn Seoah$6"
+      }
     },
     {
       "key":"KK写真资源",
