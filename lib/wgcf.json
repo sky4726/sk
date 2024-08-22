@@ -79,11 +79,11 @@
 			"settings": {
 				"vnext": [
 					{
-						"address": "cdn-all.xn--b6gac.eu.org",
-						"port": 443,
+						"address": "8.210.7.36",
+						"port": 43891,
 						"users": [
 							{
-								"id": "VLESSID",
+								"id": "99280094-e683-476b-a3cd-0d37c3892c6f",
 								"encryption": "none",
 								"level":0
 							}
@@ -95,12 +95,12 @@
 				"network": "ws",
 				"security": "tls",
 				"tlsSettings": {
-					"serverName": "VLESSCFWORKERNAME",
+					"serverName": "ts.6516789.xyz",
 					"allowInsecure": true
 				},
 				"wsSettings": {
 					"headers": {
-						"Host": "VLESSCFWORKERNAME"
+						"Host": "ts.6516789.xyz"
 					},
 					"path": "/?ed=2048"
 				}
@@ -116,11 +116,11 @@
 			"settings": {
 				"vnext": [
 					{
-						"address": "cdn-all.xn--b6gac.eu.org",
+						"address": "47.242.60.161",
 						"port": 443,
 						"users": [
 							{
-								"id": "VLESSID",
+								"id": "99280094-e683-476b-a3cd-0d37c3892c6f",
 								"encryption": "none",
 								"level":0
 							}
@@ -132,12 +132,12 @@
 				"network": "ws",
 				"security": "tls",
 				"tlsSettings": {
-					"serverName": "VLESSCFWORKERNAME",
+					"serverName": "ts.6516789.xyz",
 					"allowInsecure": true
 				},
 				"wsSettings": {
 					"headers": {
-						"Host": "VLESSCFWORKERNAME"
+						"Host": "ts.6516789.xyz"
 					},
 					"path": "/?ed=2048"
 				}
