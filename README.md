@@ -1,75 +1,37 @@
 ## **网页点播站点：**
 ```
-天天开心自营 http://www.ttkx.site:33
 牛嘎解析 http://niuga.cn/
 LIBVIO https://lib.ifabu.vip
 豌豆PRO https://wandou.la/
 ```
 ### **解析小站：**
 ```
-Github文件加速 https://gitmirror.com/files.html
+Github文件加速 https://www.7ed.net/gitmirror/hub.html
 黎歌 https://www.lige.fit
-夜猫子 https://download.kstore.space/download/3313/%E7%BD%91%E9%A1%B5/index.html
-多多风向标导 https://duo.codered.cloud/
 多多 https://yydsys.top
-大昌 https://jk.cnrcs.link/index.html
-饭太硬 http://fan.888484.xyz/tv
-饭太硬 http://xn--sss604efuw.top
-饭太硬 http://xn--sss604efuw.top/
-菜妮丝 https://cainisi.cf/   https://tvbox.cainisi.cf/
+饭太硬 http://www.饭太硬.com/tv
 欧歌 http://tv.nxog.top/  http://m.nxog.top
-日后魔改 https://docs.qq.com/doc/DYktmVmF1QXJZRmlh
 猪猪LR 小张不咕咕 https://www.rjjjh.com/#/
-本地包：https://www.123pan.com/s/GnA9-BSZcv.html
-影视仓影视猫爪影迷easybox：https://www.123pan.com/s/GnA9-JSZcv.html
 ```
 ### **接口：**
 ```
-https://gitee.com/sky4726/sk/raw/master/s.json （自营单仓）
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/sky4726/sk/master/s.json（自营单仓）
 https://pastebin.com/raw/a6DCFCfp （自营多仓）
+https://igdux.top/mAc2 （自营多仓）
+https://down.nigx.cn/raw.githubusercontent.com/sky4726/sk/master/dc.json （自营多仓）
 http://ok321.top/tv（ok）
-https://agit.ai/leevi/PiG/raw/branch/master/jsm.json （PG）
 http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/ （王小二）
-https://agit.ai/hu/hcr/raw/branch/master/短剧.json （短剧）
-http://fan.888484.xyz/tv （饭太硬）
-http://fan.xxooo.cf/tv（饭太硬）
-https://xhdwc.tk/0 （骚零）
-http://xhww.fun:63/小米/DEMO.json （小米）
+http://www.饭太硬.com/tv（饭太硬）
+https://www.100km.top/0 （骚零）
 https://raw.liucn.cc/box/m.json （老刘备）
-http://xiaohu.xzam.cn/xiaohu （小胡）
-http://u9v.cn/5Fp5qy （神州大地）
-https://wds.ecsxs.com:443/230989.json （春盈天下）
-https://itvbox.cc/可视TV/云星日记/仓库.json （星云日记）
-http://itvbox.cc/tvbox/云星日记/1.m3u8 （星云日记）
-http://52bsj.vip:98/wuai （吾爱有三.日月与卿）
-http://52bsj.vip:98/wuaihouse （吾爱）
-https://神器每日推送.tk/pz.json （神器
-https://pastebin.com/raw/5NHaxyGR （道长）
-https://tvbox.cainisi.cf （菜妮丝）
+http://itvbox.cc/云星日记 （星云日记）
+https://cdn.gitmirror.com/bb/xduo/libs/master/index.json （道长）
 https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json （香雅晴）
-http://yydf.540734621.xyz/yydf/yydf/api.json （业余多仓影视仓、easybox、影迷等）
-http://yydf.540734621.xyz/yydf/yydf/yydf.json （业余多仓影视、521影视、影音壳子等）
-http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json （业余单仓）
-http://yydf.540734621.xyz/yydf/yydf/yydf.json （业余多仓）
-http://rihou.vip:88/荷城茶秀 （荷城茶秀）
-http://rihou.vip:99/荷城茶秀 （荷城茶秀）
 https://raw.kkgithub.com/HeChengChaXiu/tvbox/main/hccx.json （荷城茶秀）
-https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json （荷城茶秀）
-https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json （荷城茶秀）
-http://rihou.vip:66 （日后多仓）
-http://rihou.vip:55 （日后单仓）
-http://rihou.vip:666 （心动日后仓）
-http://weixine.link:666 （心动车姐仓）
-http://rihou.vip:55/天天开心 （天天开心） 
 http://rihou.cc:55/天天开心 （天天开心） 
-http://tv.rihou.cc/天天开心
-http://rihou.vip:6/ysdxhl （小狐狸）
-https://raw.gitcode.com/Xymz/ymz/blobs/52d3bc418e8211ff094ec57bd2e79356ab975deb/ymz （夜猫子）
-https://agit.ai/relax/adcc/raw/branch/master/tvbox.json （巧记）
+http://ttkx.live:55/天天开心 （天天开心）
 http://cdn.qiaoji8.com/tvbox.json （巧记）
 http://pandown.pro/tvbox/tvbox.json （巧记）
-http://8.210.232.168/xc.json （玉玉）
 http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌 （欧歌）
 https://raw.liucn.cc/box/m.json （刘备）
 https://weixine.net/ysc.json （运输车）
