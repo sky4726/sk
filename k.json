@@ -36,6 +36,14 @@
       "filterable": 1
     },
     {
+      "key": "小女18[密]",
+      "name": "🆕小女18[密]",
+      "ua": "okhttp/3.15",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./19/小女18[密].js"
+    },
+    {
       "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/sky4726/sky4726.gitlink.net/raw/ttkx.jar?ref=master","style":{"ratio":1.7},
         "ext": {
             "搜索url":"https://y.u9a9y.xyz/?type=2&search={wd}&p={pg}",
