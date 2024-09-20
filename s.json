@@ -65,17 +65,6 @@
       }
     },
     {
-        "key": "alllive",
-        "name": "一直播┃LIVE",
-        "type": 3,
-        "api": "csp_Alllive",
-        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726738198865/fan.txt",
-        "playerType": 2,
-        "searchable": 0,
-        "quickSearch": 0,
-        "changeable": 0
-    },
-    {
       "key": "荐片",
       "name": "荐片",
       "type": 3,
@@ -276,7 +265,7 @@
       "name": "热播┃多线",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726738198865/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -289,7 +278,7 @@
       "name": "文采┃秒播",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726738198865/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -300,7 +289,7 @@
       "name": "苹果┃不卡",
       "type": 3,
       "api": "csp_LiteApple",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726738198865/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -310,7 +299,7 @@
       "name": "奥特┃无广",
       "type": 3,
       "api": "csp_Auete",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726738198865/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -1053,6 +1042,17 @@
       "playerType": "2"
     },
     {
+        "key": "alllive",
+        "name": "一直播┃LIVE",
+        "type": 3,
+        "api": "csp_Alllive",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
+        "playerType": 2,
+        "searchable": 0,
+        "quickSearch": 0,
+        "changeable": 0
+    },
+    {
       "key": "JS哔哩直播",
       "name": "哔哩直播[js]",
       "type": 3,
@@ -1077,7 +1077,7 @@
       "name": "叨观荐影预告片",
       "type": 3,
       "api": "csp_YGP",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726738198865/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -1087,7 +1087,7 @@
       "name": "急救教学",
       "type": 3,
       "api": "csp_FirstAid",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726738198865/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
