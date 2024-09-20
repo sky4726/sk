@@ -894,6 +894,22 @@
       "quickSearch": 1
     },
     {
+      "key": "哔哩FM",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "./bilibili.json",
+        "cookie": "qwewqddasdasd"
+      }
+    },
+    {
       "key": "相声小品",
       "name": "️相声小品",
       "type": 3,
