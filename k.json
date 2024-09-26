@@ -44,6 +44,21 @@
       "ext": "./19/小女18[密].js"
     },
     {
+      "key": "csp_xBPQ_天天综合",
+      "name": "🆕天天综合",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://git.acwing.com/sky4726/sk/-/raw/main/Yoursmile2.jar?inline=false",
+      "ext": "./19/天天综合.json"
+    },
+    {
       "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/sky4726/sky4726.gitlink.net/raw/ttkx.jar?ref=master","style":{"ratio":1.7},
         "ext": {
             "搜索url":"https://y.u9a9y.xyz/?type=2&search={wd}&p={pg}",
@@ -146,7 +161,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/Yoursmile2.jar",
+      "jar": "https://git.acwing.com/sky4726/sk/-/raw/main/Yoursmile2.jar?inline=false",
       "ext": "./19/GAOAA.json"
     },
     {

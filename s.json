@@ -54,17 +54,6 @@
       "ext": "./js/douban.js"
     },
     {
-      "key": "ConfigCenter",
-      "name": "配置中心",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
       "key": "荐片",
       "name": "荐片",
       "type": 3,
@@ -265,7 +254,7 @@
       "name": "热播┃多线",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727340776063/fan.txt",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -278,7 +267,7 @@
       "name": "文采┃秒播",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727340776063/fan.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -289,7 +278,7 @@
       "name": "苹果┃不卡",
       "type": 3,
       "api": "csp_LiteApple",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727340776063/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -299,12 +288,24 @@
       "name": "奥特┃无广",
       "type": 3,
       "api": "csp_Auete",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727340776063/fan.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.pro/"
+    },
+    {
+      "key": "欢视",
+      "name": "欢视┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727340776063/fan.txt",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
     },
     {
       "key": "csp_xBPQ_小茶狐",
@@ -534,7 +535,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./peizhi.json",
-        "siteUrl": "https://duopan.fun",
+        "siteUrl": "https://labipan.com/",
         "filter": "./wogg.json"
       }
     },
@@ -612,67 +613,29 @@
       }
     },
     {
-      "key": "TgYunPanLocal1",
-      "name": "TgYunPanLocal1",
+      "key": "TgYunPan|服务器",
+      "name": "TgYunPan|服务器",
       "type": 3,
-      "api": "csp_TgYunPanLocal",
+      "api": "csp_TgYunPan",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "channelUsername": "yunpanshare",
+        "siteUrl": "你的服务器地址端口",
+        "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
         "commonConfig": "./peizhi.json"
       }
     },
     {
-      "key": "TgYunPanLocal2",
-      "name": "TgYunPanLocal2",
+      "key": "TgYunPan|本地",
+      "name": "TgYunPan|本地",
       "type": 3,
       "api": "csp_TgYunPanLocal",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "channelUsername": "shareAliyun",
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "TgYunPanLocal3",
-      "name": "TgYunPanLocal3",
-      "type": 3,
-      "api": "csp_TgYunPanLocal",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "kuakeyun",
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "TgYunPanLocal4",
-      "name": "TgYunPanLocal4",
-      "type": 3,
-      "api": "csp_TgYunPanLocal",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "qixingzhenren",
-        "commonConfig": "./peizhi.json"
-      }
-    },
-    {
-      "key": "TgYunPanLocal5",
-      "name": "TgYunPanLocal5",
-      "type": 3,
-      "api": "csp_TgYunPanLocal",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "guaguale115",
+        "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
         "commonConfig": "./peizhi.json"
       }
     },
@@ -1062,7 +1025,7 @@
         "name": "一直播┃LIVE",
         "type": 3,
         "api": "csp_Alllive",
-        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727340776063/fan.txt",
         "playerType": 2,
         "searchable": 0,
         "quickSearch": 0,
@@ -1093,7 +1056,7 @@
       "name": "叨观荐影预告片",
       "type": 3,
       "api": "csp_YGP",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727340776063/fan.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -1103,7 +1066,7 @@
       "name": "急救教学",
       "type": 3,
       "api": "csp_FirstAid",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727340776063/fan.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
