@@ -20,11 +20,44 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "feiyang.miguevent",
+      "name": "Yoursmile",
       "type": 0,
-      "url": "http://127.0.0.1:35457/miguevent.m3u",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "肥羊国内直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "url": "tv.m3u",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+    }, 
+    {
+      "name": "电视直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "网络直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "体育直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Sport",
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -111,6 +144,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.dyxz2.com/"
+    },
+    {
+      "key": "糯米",
+      "name": "糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734477866371/fan.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "csp_Nongm",
@@ -236,7 +279,7 @@
       "name": "热播┃多线",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734477866371/fan.txt",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -249,7 +292,7 @@
       "name": "厂长┃不卡",
       "type": 3,
       "api": "csp_NewCz",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734477866371/fan.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -261,7 +304,7 @@
       "name": "文采┃秒播",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734477866371/fan.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -730,6 +773,20 @@
       }
     },
     {
+      "key": "UC",
+      "name": "优汐┃搜搜",
+      "type": 3,
+      "api": "csp_UuSs",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734477866371/fan.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
       "key": "ConfigCenter",
       "name": "配置中心",
       "type": 3,
@@ -823,26 +880,12 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "siteUrl": "http://tgsou.seczh.com/",
+        "siteUrl": "http://tgsou.fish2018.us.kg",
         "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
         "commonConfig": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/peizhi.json",
         "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/douban.json"
       }
     },
-//    {
-//      "key": "TgYunPan|服务器",
-//      "name": "TgYunPan|服务器",
-//      "type": 3,
-//      "api": "csp_TgYunPan",
-//      "searchable": 1,
-//      "filterable": 0,
-//      "switchable": 0,
-//      "ext": {
-//        "siteUrl": "http://tgsou.seczh.com/",
-//        "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-//        "commonConfig": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/peizhi.json"
-//      }
-//    },
     {
       "key": "TgYunPan|本地",
       "name": "TgYunPan|本地",
@@ -1174,7 +1217,7 @@
         "name": "一直播┃LIVE",
         "type": 3,
         "api": "csp_Alllive",
-        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734477866371/fan.txt",
         "playerType": 2,
         "searchable": 0,
         "quickSearch": 0,
@@ -1205,7 +1248,7 @@
       "name": "叨观荐影预告片",
       "type": 3,
       "api": "csp_YGP",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734477866371/fan.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -1215,7 +1258,7 @@
       "name": "急救教学",
       "type": 3,
       "api": "csp_FirstAid",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734477866371/fan.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -1360,7 +1403,6 @@
         {"host": "dyxs20.com","rule": [".m3u8"]},
         {"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
         {"host": "www.sharenice.net","rule": ["http.?/play.{0,3}\\?[^url]{2,8}=.","qianpailive.com","vid="]},
-        //非凡，量子，索尼，暴风
         {
         "name": "暴风",
         "hosts": [
