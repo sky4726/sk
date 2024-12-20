@@ -29,14 +29,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "肥羊国内直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "tv.m3u",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-    }, 
-    {
       "name": "电视直播",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Gather",
@@ -122,6 +114,14 @@
          "commonConfig": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/peizhi.json",
          "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/douban.json"
        }
+    }, 
+    {
+      "name": "肥羊国内直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "url": "tv.m3u",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     }, 
     {
       "key": "csp_Jpys",
