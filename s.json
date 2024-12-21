@@ -148,28 +148,6 @@
       "changeable": 1
     },
     {
-      "key": "csp_Nongm",
-      "name": "农民",
-      "type": 3,
-      "api": "csp_Nongm",
-      "jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://wwgz.cn"
-    },
-    {
-      "key": "csp_Zxzj",
-      "name": "在线",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    }, 
-    {
       "key": "csp_TianTian",
       "name": "天天",
       "type": 3,
@@ -235,17 +213,16 @@
       "filterable": 1
     },
     {
-      "key": "csp_Tvyb",
-      "name": "TVB云播",
+      "key": "csp_Zxzj",
+      "name": "在线",
       "type": 3,
-      "api": "csp_Tvyb",
+      "api": "csp_Zxzj",
       "jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.tvyun01.com/"
-    },
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    }, 
     {
       "key": "csp_Jiaozi",
       "name": "饺子",
@@ -345,7 +322,7 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/可可影视[优].js"
     },
     {
-      "key": "乐哥特供-VidHub高清追剧视频库",
+      "key": "VidHub高清追剧视频库",
       "name": "VidHub┃高清",
       "type": 3,
       "api": "csp_XBPQ",
@@ -376,7 +353,7 @@
       }
     },
     {
-      "key": "乐哥特供-神话影视网",
+      "key": "神话影视网",
       "name": "神话┃影视",
       "type": 3,
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -405,7 +382,7 @@
       }
     },
     {
-      "key": "乐哥特供-NUU在线",
+      "key": "NUU在线",
       "name": "NUU┃影视",
       "type": 3,
       "api": "csp_XBPQ",
@@ -427,7 +404,7 @@
       }
     },
     {
-      "key": "乐哥特供-安迪影院",
+      "key": "安迪影院",
       "name": "安迪┃影院",
       "type": 3,
       "api": "csp_XBPQ",
@@ -460,7 +437,7 @@
       }
     },
     {
-      "key": "乐哥特供-如意影视",
+      "key": "如意影视",
       "name": "如意┃影视",
       "type": 3,
       "api": "csp_XBPQ",
@@ -491,7 +468,7 @@
       }
     },
     {
-    "key": "乐哥特供-第七影院",
+    "key": "第七影院",
     "name": "第七┃影院",
     "type": 3,
     "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -526,7 +503,7 @@
     }
 },
     {
-      "key": "乐哥特供-68影院",
+      "key": "68影院",
       "name": "68┃影院",
       "type": 3,
       "api": "csp_XBPQ",
@@ -565,24 +542,6 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/七新影视.json"
     },
     {
-      "key": "猪猪影视",
-      "name": "猪猪影视┃XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
-      "ext": {
-        "主页url": "https://www.lyzccl.com/",
-        "数组": "class=\"myui-vodlist__thumb lazyload\"&&</div>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "简介": "class=\"video-des\"&&</div>",
-        "线路标题": "data-toggle=\"tab\">&&</a>",
-        "分类url": "https://www.lyzccl.com/vodtype/{cateId}.html",
-        "分类": "首页$/#电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$40#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#犯罪片$22#悬疑片$23#惊悚片$24#纪录片$25#邵氏电影$25#国产剧$13#香港剧$14#台湾剧$15#日本剧$16#韩国剧$26"
-      }
-    },
-    {
       "key": "qimaoys",
       "name": "七猫┃XBPQ",
       "type": 3,
@@ -607,17 +566,6 @@
         "主演": "主演：&&</div>",
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
         "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
-      }
-    },
-    {
-      "key": "天堂电影",
-      "name": "天堂电影┃XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
-      "ext": {
-        "分类url": "https://tiantangdianyingw.com/vodtype/{cateId}-{catePg}.html",
-        "分类": "电视剧$20#电影$22#动漫$21#综艺$23#短剧$24"
       }
     },
     {
@@ -905,52 +853,6 @@
       }
     },
     {
-      "key": "hipy_js_4khdr",
-      "name": "4khdr磁力(drpy_t3)",
-      "type": 3,
-      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/4khdr.js"
-    },
-    {
-      "key": "迅雷8",
-      "name": "迅雷吧|XBPQ|磁力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
-      "ext": {
-          "播放数组": "copylink&&</a>",
-          "播放链接": "alt=\"&&\"",
-          "简介": "b1f40f7888\"&&</p>",
-          "分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
-          "分类": "电视剧$tv#电影$list"
-      }
-    },
-    {
-      "key": "小白",
-      "name": "4小白磁力|XBPQ|磁力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 1,
-      "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
-      "ext": {
-        "主页url": "https://www.xbw20.com/",
-        "编码": "gb2312",
-        "图片": "data-src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "副标题":"class=\"time\">&&</label",
-        "分类url": "https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
-        "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
-        "起始页": 2,
-        "倒序": 1,
-        "播放数组": "迅雷下载</div>&&</div>",
-        "播放列表": "<a&&</a >"
-      }
-    },
-    {
         "key": "BT天堂",
         "name":"BT天堂|XBPQ|磁力",
         "type":3,
@@ -999,26 +901,6 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
-    {
-      "key": "乐哥特供-天天动漫",
-      "name": "天天┃动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "线路二次截取": "class=\"module-tab-items-box&&lass=\"swiper[替换:</div>>></a>]",
-        "线路数组": "class=\"module-tab-item tab-item&&</a>",
-        "线路标题": "<span>&&</span>",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://www.ttdm.me/vod-show/{cateId}--{by}-{class}--{letter}---{catePg}---/",
-        "分类": "中国动漫$1#日本动漫$2#欧美动漫$3#其他动漫$4#动画电影$5"
-      }
     },
     {
       "key": "csp_Bili",
@@ -1165,44 +1047,12 @@
       "playerType": "2"
     },
     {
-      "key": "csp_BookTing",
-      "name": "听书 | 275听书",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_BookTing",
-      "jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar",
-      "searchable": 0,
-      "ext": "https://m.ting275.com",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
-    {
-      "key": "drpy_js_有声绘本网",
-      "name": "有声绘本网",
-      "type": 3,
-      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/有声绘本网.js"
-    },
-    {
       "key": "drpy_js_蜻蜓FM",
       "name": "蜻蜓广播[js]",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/蜻蜓FM.js",
       "playerType": "2"
-    },
-    {
-      "key": "lf_live10_min",
-      "name": " 路飞丨Live",
-      "type": 3,
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "https://gitee.com/sky4726/sk/raw/master/lf_live10_min-output.js",
-      "ext": "https://gitee.com/sky4726/sk/raw/master/lf_live.json"
     },
     {
         "key": "alllive",
