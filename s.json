@@ -70,6 +70,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "feiyang.tptv",
+      "type": 0,
+      "url": "http://127.0.0.1:35457/tptv.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "feiyang.bililive",
       "type": 0,
       "url": "http://127.0.0.1:35457/bililive.m3u",
