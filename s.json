@@ -29,19 +29,28 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "feiyang.migu",
-      "type": 0,
-      "url": "http://127.0.0.1:35457/migu.m3u",
+      "name": "adenu400",
+      "type":0,
+      "url": "https://mpimg.cn/down.php/b82230a339ca96a36961e87c0f1617d8.txt",
       "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "playerType": 1,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    }, 
+    {
+      "name": "zouming.ipv6",
+      "type": 0,
+      "url": "http://ww.zouming.com/ipv6.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "feiyang.tptv",
+      "name": "fmm.live.ipv6",
       "type": 0,
-      "url": "http://127.0.0.1:35457/tptv.m3u",
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
       "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
