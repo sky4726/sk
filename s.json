@@ -21,14 +21,6 @@
       "logo": "http://diyp2.112114.xyz/logo/{name}.png"
     }, 
     {
-      "name": "feiyang.allinone",
-      "type": 0,
-      "url": "http://127.0.0.1:35457/tv.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "adenu400",
       "type":0,
       "url": "https://mpimg.cn/down.php/b82230a339ca96a36961e87c0f1617d8.txt",
@@ -38,19 +30,11 @@
       "logo": "http://diyp2.112114.xyz/logo/{name}.png"
     }, 
     {
-      "name": "zouming.ipv6",
+      "name": "feiyang.allinone",
       "type": 0,
-      "url": "http://ww.zouming.com/ipv6.txt",
+      "url": "http://127.0.0.1:35457/tv.m3u",
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "fmm.live.ipv6",
-      "type": 0,
-      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
@@ -115,7 +99,7 @@
       "name": "奇优┃影视",
       "type": 3,
       "api": "csp_Qiyou",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735819163865/PandaQ250102.txt",
       "ext": "http://www.dyxz2.com/"
     },
     {
@@ -123,7 +107,7 @@
       "name": "农民┃影视",
       "type": 3,
       "api": "csp_Nongm",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735819163865/PandaQ250102.txt",
       "ext": "https://wwgz.cn"
     },
     {
@@ -131,7 +115,7 @@
       "name": "素白┃影视",
       "type": 3,
       "api": "csp_SuBaiBai",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735819163865/PandaQ250102.txt",
       "ext": "http://subaibai.com"
     },
     {
@@ -157,7 +141,7 @@
     {
       "key": "csp_Kanke",
       "name": "看客┃影视",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735819163865/PandaQ250102.txt",
       "type": 3,
       "api": "csp_Kanke"
     },
@@ -166,7 +150,7 @@
       "name": "全看┃影视",
       "type": 3,
       "api": "csp_Quanwk",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735819163865/PandaQ250102.txt",
       "ext": "https://www.91qkw.com"
     },
     {
@@ -174,7 +158,7 @@
       "name": "Ivdy┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735819163865/PandaQ250102.txt",
       "ext": "https://img2.gelonghui.com/library/ea5ba-5f15b1f1-2ca0-4dda-86b4-c86954b5bd37null",
       "searchable": 0
     },
@@ -869,7 +853,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "siteUrl": "http://tgsou.fish2018.us.kg",
+        "siteUrl": "https://tgzx.banye.tech:7777",//http://tgsou.fish2018.us.kg
         "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
         "commonConfig": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/peizhi.json",
         "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/douban.json"
@@ -1078,6 +1062,17 @@
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/网易公版影像.js"
+    },
+    {
+      "key": "hipy_js_老白故事[听]",
+      "name": "老白故事[听](drpy_t3)",
+      "type": 3,
+      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/老白故事[听].js"
     },
     {
       "key": "drpy_js_六月听书",
