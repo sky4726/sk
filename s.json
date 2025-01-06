@@ -6,7 +6,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://kxrj.site:55/lib/kx2024.txt",
+      "url": "http://kxrj.site:999/lib/kx2024.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -27,6 +27,53 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "③猫TV线路(EXO)",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    }, {
+      "name": "新AKTV港台",
+      "type": 0,
+      "url": "http://aktv.top/live.m3u",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    }, {
+      "name": "catvod TV",
+      "type": 0,
+      "url": "http://iptv.catvod.com/tv.m3u",
+      "playerType": 2,
+      "ua": "okhttp/5.0.0-alpha.14",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, {
+      "name": "IPTV每天两更(Guovin)",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    }, {
+      "name": "IPTV研究所",
+      "type": 0,
+      "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, {
+      "name": "广东银河频道",
+      "type": 0,
+      "url": "https://tzdr.com/iptv.txt",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name": "feiyang.bililive",
