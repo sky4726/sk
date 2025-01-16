@@ -12,7 +12,7 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "adenu400(ipv6)",
+      "name": "adenu400",
       "type":0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/adenu400.txt",
       "ua": "okhttp/3.15",
@@ -31,16 +31,7 @@
     {
       "name": "③猫TV线路(EXO)",
       "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    }, 
-    {
-      "name": "新AKTV港台",
-      "type": 0,
-      "url": "http://aktv.top/live.m3u",
+      "url": "http://rihou.cc:567/gggg.nzk"",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -56,11 +47,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
     {
-      "name": "IPTV每天两更(Guovin)",
+      "name": "iill",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "url": "https://tv.iill.top/m3u/Gather",
+      "playerType": 2,
+      "ua": "okhttp/5.0.0-alpha.14",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "feiyang.bililive",
@@ -1252,6 +1245,7 @@
       "type": 0,
       "url": "https://dm.xmflv.com:4433/?url="
     },
+    {"name":"-冰豆-","type":0,"url":"https://bd.jx.cn/?url="},
     {
       "name": "-云解析-",
       "type": 0,
