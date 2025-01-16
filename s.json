@@ -732,9 +732,10 @@
       "ext": {
         "site_urls": [
           "http://1.95.79.193/"
-        ],
-        "url_key": "FeiMaoUC"
+        ]
       },
+      "url_key": "FeiMaoUC"
+     }, 
       {
       "key": "csp_XMUC",
       "name": "小米┃UC",
