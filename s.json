@@ -31,7 +31,7 @@
     {
       "name": "③猫TV线路(EXO)",
       "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk"",
+      "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -685,7 +685,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": ["https://duopan.fun/","http://labipan.com","http://feimaoai.site","https://mihdr.top"],
+        "siteUrl": "https://duopan.fun/",
         "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/wogg.json",
         "url_key": "Duopan2"
       }
@@ -712,36 +712,32 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": ["https://mihdr.top","http://www.xhww.net","http://xhww.net","https://xiaomiai.site"],
+        "siteUrl": "https://mihdr.top",
         "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/wogg.json"
+      }
+    },
+    {
+      "key": "csp_XMUC",
+      "name": "小米┃UC",
+      "type": 3,
+      "api": "csp_Duopan",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
+      "filterable": 1,
+      "ext": {
+        "site_urls": ["http://www.mucpan.cc", "http://ucmi.fun", "http://www.ucmi.fun"],
+        "url_key": "XMUC"
       }
     },
     {
       "key": "csp_FeiMaoUC",
       "name": "闪电┃优汐",
       "type": 3,
-      "api": "csp_kongbai",
+      "api": "csp_Duopan",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
       "filterable": 1,
       "ext": {
-        "site_urls": [
-          "http://1.95.79.193/"
-        ]
-      },
-      "url_key": "FeiMaoUC"
-     }, 
-      {
-      "key": "csp_XMUC",
-      "name": "小米┃UC",
-      "type": 3,
-      "api": "csp_kongbai",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "http://www.mucpan.cc",
-          "http://ucmi.fun",
-          "http://www.ucmi.fun"
-        ],
-        "url_key": "XMUC"
+        "site_urls": ["http://1.95.79.193/"],
+        "url_key": "FeiMaoUC"
       }
     },
     {
