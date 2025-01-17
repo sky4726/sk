@@ -1,3 +1,4 @@
+migu,#genre#
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
