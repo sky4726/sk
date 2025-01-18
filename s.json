@@ -102,13 +102,6 @@
        }
     }, 
     {
-      "key": "csp_Jpyy",
-      "name": "金牌┃影视",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
-      "type": 3,
-      "api": "csp_Jpyy"
-    },
-    {
       "key": "csp_Qiyou",
       "name": "奇优┃影视",
       "type": 3,
@@ -159,23 +152,6 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
       "type": 3,
       "api": "csp_Kanke"
-    },
-    {
-      "key": "csp_Quanwk",
-      "name": "全看┃影视",
-      "type": 3,
-      "api": "csp_Quanwk",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
-      "ext": "https://www.91qkw.com"
-    },
-    {
-      "key": "Ivdy",
-      "name": "Ivdy┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
-      "ext": "https://img2.gelonghui.com/library/ea5ba-5f15b1f1-2ca0-4dda-86b4-c86954b5bd37null",
-      "searchable": 0
     },
     {
       "key": "csp_Gz360",
@@ -297,6 +273,17 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/可可影视[优].js"
     },
     {
+      "key": "hipy_js_农民影视[优]",
+      "name": "农民影视[优](drpy_t3)",
+      "type": 3,
+      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/js/农民影视[优].js"
+    },
+    {
       "key": "VidHub高清追剧视频库",
       "name": "VidHub┃高清",
       "type": 3,
@@ -325,35 +312,6 @@
         "分类": "电影$40#国产剧$1#美剧$33#日剧$34#韩剧$35#港剧$36#泰剧$38#台剧$37#海外剧$39",
         "剧情": "剧情$44#喜剧$54#爱情$223#动作$185#惊悚$307#悬疑$66#犯罪$186#恐怖$172#科幻$590#奇幻$447#家庭$211#冒险$699#动画$446#古装$65#战争$286#历史$103#传记$102#同性$297#短片$2445#武侠$322#纪录片$806#音乐$1081#运动$405#儿童$7442#歌舞$7806#西部$9494#灾难$67#戏曲$24318#真人秀$181528#黑色电影$45969#脱口秀$7246剧情$44#喜剧$54#爱情$223#动作$185#惊悚$307#悬疑$66#犯罪$186#恐怖$172#科幻$590#奇幻$447#家庭$211#冒险$699#动画$446#古装$65#战争$286#历史$103#传记$102#同性$297#短片$2445#武侠$322#纪录片$806#音乐$1081#运动$405#儿童$7442#歌舞$7806#西部$9494#灾难$67#戏曲$24318#真人秀$181528#黑色电影$45969#脱口秀$7246剧情$44#喜剧$54#爱情$223#动作$185#惊悚$307#悬疑$66#犯罪$186#恐怖$172#科幻$590#奇幻$447#家庭$211#冒险$699#动画$446#古装$65#战争$286#历史$103#传记$102#同性$297#短片$2445#武侠$322#纪录片$806#音乐$1081#运动$405#儿童$7442#歌舞$7806#西部$9494#灾难$67#戏曲$24318#真人秀$181528#黑色电影$45969#脱口秀$7246剧情$44#喜剧$54#爱情$223#动作$185#惊悚$307#悬疑$66#犯罪$186#恐怖$172#科幻$590#奇幻$447#家庭$211#冒险$699#动画$446#古装$65#战争$286#历史$103#传记$102#同性$297#短片$2445#武侠$322#纪录片$806#音乐$1081#运动$405#儿童$7442#歌舞$7806#西部$9494#灾难$67#戏曲$24318#真人秀$181528#黑色电影$45969#脱口秀$7246剧情$44#喜剧$54#爱情$223#动作$185#惊悚$307#悬疑$66#犯罪$186#恐怖$172#科幻$590#奇幻$447#家庭$211#冒险$699#动画$446#古装$65#战争$286#历史$103#传记$102#同性$297#短片$2445#武侠$322#纪录片$806#音乐$1081#运动$405#儿童$7442#歌舞$7806#西部$9494#灾难$67#戏曲$24318#真人秀$181528#黑色电影$45969#脱口秀$7246剧情$44#喜剧$54#爱情$223#动作$185#惊悚$307#悬疑$66#犯罪$186#恐怖$172#科幻$590#奇幻$447#家庭$211#冒险$699#动画$446#古装$65#战争$286#历史$103#传记$102#同性$297#短片$2445#武侠$322#纪录片$806#音乐$1081#运动$405#儿童$7442#歌舞$7806#西部$9494#灾难$67#戏曲$24318#真人秀$181528#黑色电影$45969#脱口秀$7246剧情$44#喜剧$54#爱情$223#动作$185#惊悚$307#悬疑$66#犯罪$186#恐怖$172#科幻$590#奇幻$447#家庭$211#冒险$699#动画$446#古装$65#战争$286#历史$103#传记$102#同性$297#短片$2445#武侠$322#纪录片$806#音乐$1081#运动$405#儿童$7442#歌舞$7806#西部$9494#灾难$67#戏曲$24318#真人秀$181528#黑色电影$45969#脱口秀$7246剧情$44#喜剧$54#爱情$223#动作$185#惊悚$307#悬疑$66#犯罪$186#恐怖$172#科幻$590#奇幻$447#家庭$211#冒险$699#动画$446#古装$65#战争$286#历史$103#传记$102#同性$297#短片$2445#武侠$322#纪录片$806#音乐$1081#运动$405#儿童$7442#歌舞$7806#西部$9494#灾难$67#戏曲$24318#真人秀$181528#黑色电影$45969#脱口秀$7246剧情$44#喜剧$54#爱情$223#动作$185#惊悚$307#悬疑$66#犯罪$186#恐怖$172#科幻$590#奇幻$447#家庭$211#冒险$699#动画$446#古装$65#战争$286#历史$103#传记$102#同性$297#短片$2445#武侠$322#纪录片$806#音乐$1081#运动$405#儿童$7442#歌舞$7806#西部$9494#灾难$67#戏曲$24318#真人秀$181528#黑色电影$45969#脱口秀$7246",
         "排序": "最多观看$hits#最佳口碑$score#最高点赞$like"
-      }
-    },
-    {
-      "key": "神话影视网",
-      "name": "神话┃影视",
-      "type": 3,
-      "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload\"&&</a>",
-        "标题": "title=\"&&\"",
-        "副标题": "right\">&&</span>",
-        "图片": "data-original=\"&&\"",
-        "链接": "href=\"&&\"",
-        "播放数组": "playlist clearfix&&</ul>",
-        "播放列表": "<a&&a>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</",
-        "线路数组": "<h3&&h3>",
-        "线路标题": ">&&</",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://www.shhuiru.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$30",
-        "类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28空"
       }
     },
     {
@@ -443,41 +401,6 @@
       }
     },
     {
-    "key": "第七影院",
-    "name": "第七┃影院",
-    "type": 3,
-    "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "http://n4yjnn.rekq.net",
-        "二次截取": "myui-vodlist clearfix\"&&</ul>",
-        "数组": "lazyload&&</li>",
-        "链接": "href=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "right\">&&</span>",
-        "播放数组": "list sort-list clearfix&&</ul>",
-        "倒序": "0",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "线路数组": "\\#playlist&&</li>",
-        "线路标题": ">&&</a>",
-        "搜索模式": "1",
-        "搜索url": "http://hoa.rekq.net/mosr/----------{pg}---.html?wd={wd}&submit=",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "http://n4yjnn.rekq.net/vod_show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#伦理片$30",
-        "筛选": "1",
-        "类型": "动作片$7#喜剧片$8#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13#伦理片$30#动画片$33#邵氏电影$34||国产剧$14#港剧$15#台湾剧$16#韩剧$17#泰剧$31#欧美剧$19#海外剧$20#短剧$32||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空"
-    }
-    },
-    {
       "key": "68影院",
       "name": "68┃影院",
       "type": 3,
@@ -506,7 +429,7 @@
     },
     {
       "key": "csp_七新",
-      "name": "七新影视┃秒播",
+      "name": "七新┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -515,33 +438,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/七新影视.json"
-    },
-    {
-      "key": "qimaoys",
-      "name": "七猫┃XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
-      "ext": {
-        "主页url": "http://www.qimaoym.com",
-        "数组": "class=\"module-item-cover\">&&class=\"module-item\">",
-        "标题": "title=\"&&\"",
-        "副标题": "module-item-text\">&&</div>",
-        "链接": "href=\"&&\"",
-        "图片": "data-src=\"&&\"",
-        "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "搜索url": "http://www.qimaoym.com/index.php/vod/search/wd/{wd}",
-        "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-        "线路数组": "module-tab-item tab-item\"&&</div>",
-        "线路标题": "<span>&&</small>[替换:</span><small>>>??]+集",
-        "播放数组": "class=\"module-blocklist\">&&</div",
-        "播放列表": "<a&&</a",
-        "播放标题": "<span&&</span",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
-        "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
-      }
     },
     {
       "key": "白嫖者",
@@ -591,7 +487,7 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "奇珍异兽[js]",
+      "name": "爱奇艺[js]",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"
@@ -605,17 +501,10 @@
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾云驾雾[js]",
+      "name": "腾讯[js]",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "百忙无果[js]",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"
     },
     {
       "key": "hipy_js_蓝莓短剧",
@@ -688,19 +577,6 @@
         "siteUrl": "https://duopan.fun/",
         "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/wogg.json",
         "url_key": "Duopan2"
-      }
-    },
-    {
-      "key": "玩偶 | 木偶",
-      "name": "玩偶 | 木偶",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "http://mogg.xn--yetu07f.top/",
-        "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/wogg.json"
       }
     },
     {
@@ -807,19 +683,6 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/peizhi.json"
-      }
-    },
-    {"key":"drpy_js_人人影视",
-     "name":"人人影视[js]|搜",
-     "type":3,
-     "api":"https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
-     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/yyets.js", 
-     "quickSearch":1, 
-     "changeable":1, 
-     "timeout":60,
-      "style": {
-        "type": "list",
-        "ratio": 1.1
       }
     },
     {
@@ -930,99 +793,56 @@
       ]
     },
     {
-      "key": "csp_Bili",
-      "name": "哔哩哔哩",
+      "key": "Bili",
+      "name": "哔哔合集┃弹幕",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/Bili.json"
-    },
-    {
-      "key": "相声小品",
-      "name": "相声小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/Blixs.json"
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
+      }
     },
     {
-      "key": "戏 曲",
-      "name": "国粹戏曲",
+      "key": "Biliych",
+      "name": "哔哔演唱会┃弹幕",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/Blixq.json"
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
+      }
     },
     {
-      "key": "csp_Bili幼儿",
-      "name": "哔哩幼儿",
+      "key": "dr_兔小贝",
+      "name": "儿童┃启蒙",
       "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
+      "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/幼儿乐园.json"
+      "changeable": 0
     },
     {
-      "key": "csp_Bili少儿",
-      "name": "哔哩少儿",
+      "key": "少儿教育",
+      "name": "少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/少儿教育.json"
-    },
-    {
-      "key": "csp_Bili小学",
-      "name": "哔哩小学",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/小学课堂.json"
-    },
-    {
-      "key": "csp_Bili初中",
-      "name": "哔哩初中",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/初中课堂.json"
-    },
-    {
-      "key": "csp_Bili高中",
-      "name": "哔哩高中",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/高中课堂.json"
-    },
-    {
-      "key": "学外语",
-      "name": "学外语",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1030,19 +850,102 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/waiyu.json"
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
+      }
     },
     {
-      "key":"央视经典",
-      "name":"央视｜经典",
-      "type":3,
-      "api":"csp_Bili",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt",
-      "searchable":0,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/哔哩经典.json"
-    }, 
+      "key": "小学课堂",
+      "name": "小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
+      }
+    },
+    {
+      "key": "初中课堂",
+      "name": "初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
+      }
+    },
+    {
+      "key": "高中教育",
+      "name": "高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
+      }
+    },
+    {
+      "key": "hipy_js_我的哔哩相声小品",
+      "name": "相声小品(drpy_t3)",
+      "type": 3,
+      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/wodebili.js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/Blixs.json"
+    },
+    {
+      "key": "hipy_js_我的哔哩国粹戏曲",
+      "name": "国粹戏曲(drpy_t3)",
+      "type": 3,
+      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/wodebili.js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/Blixq.json"
+    },
+    {
+      "key": "hipy_js_我的哔哩学外语",
+      "name": "学外语(drpy_t3)",
+      "type": 3,
+      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/wodebili.js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/waiyu.json"
+    },
+    {
+      "key": "hipy_js_我的哔哩央视经典",
+      "name": "央视经典(drpy_t3)",
+      "type": 3,
+      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/wodebili.js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/哔哩经典.json"
+    },
     {
       "key": "drpy_js_开眼视频",
       "name": "开眼视频[js]",
@@ -1067,6 +970,17 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/lib/老白故事[听].js"
+    },
+    {
+      "key": "hipy_js_酷我听书[听]",
+      "name": "酷我听书[听](drpy_t3)",
+      "type": 3,
+      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/js/酷我听书[听].js"
     },
     {
       "key": "drpy_js_六月听书",
@@ -1162,6 +1076,28 @@
           }
         ]
       }
+    },
+    {
+      "key": "hipy_js_种子音乐[听]",
+      "name": "种子音乐[听](drpy_t3)",
+      "type": 3,
+      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/js/种子音乐[听].js"
+    },
+    {
+      "key": "hipy_js_爱车MV[听]",
+      "name": "爱车MV[听](drpy_t3)",
+      "type": 3,
+      "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/js/爱车MV[听].js"
     },
     {
       "key": "hipy_js_KTV歌厅[听]",
