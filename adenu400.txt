@@ -1,4 +1,4 @@
-央视频道,#genre#
+央视频道1,#genre#
 CCTV1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=c92fbaa724278c2a2dca6b8ce78c5eee&Channel_ID=0119_04102000-99000_400300000040002&client_ip=47.113.97.207&timestamp=20250119144523&encrypt=1fccd913a9ea3e2d25737abf32e25a58&ContentId=265183188&timezone=UTC
 CCTV2,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=c92fbaa724278c2a2dca6b8ce78c5eee&Channel_ID=0119_04102000-99000_400300000040002&client_ip=47.113.97.207&timestamp=20250119144524&encrypt=88b557db158de59f95bb35b65d43d812&ContentId=265667329&timezone=UTC
 CCTV3,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?msisdn=c92fbaa724278c2a2dca6b8ce78c5eee&Channel_ID=0119_04102000-99000_400300000040002&client_ip=47.113.97.207&timestamp=20250119144525&encrypt=5afcae55e1c48e37d6a2bc177f2f2e1b&ContentId=265667206&timezone=UTC
@@ -30,6 +30,8 @@ CCTV中学生,http://live.aikan.miguvideo.com/migu/kailu/cctvzhongxuesheng/21120
 广东卫视,http://live.aikan.miguvideo.com/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=c92fbaa724278c2a2dca6b8ce78c5eee&Channel_ID=0119_04102000-99000_400300000040002&client_ip=47.113.97.207&timestamp=20250119144555&encrypt=df64e4168aeb8d413fd17e6cea259e54&ContentId=263541274&timezone=UTC
 江苏卫视,http://live.aikan.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?msisdn=c92fbaa724278c2a2dca6b8ce78c5eee&Channel_ID=0119_04102000-99000_400300000040002&client_ip=47.113.97.207&timestamp=20250119144556&encrypt=46968d12deeb28c612c43c5f6f0f14de&ContentId=264104188&timezone=UTC
 陕西卫视,http://live.aikan.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=c92fbaa724278c2a2dca6b8ce78c5eee&Channel_ID=0119_04102000-99000_400300000040002&client_ip=47.113.97.207&timestamp=20250119144600&encrypt=1fd1b05ab5f1682c57920d64fa54c483&ContentId=816409120&timezone=UTC
+
+央视频道2,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8$订阅源-1920x1080
 CCTV-1,http://219.139.42.24:8001/hls/1/index.m3u8$订阅源-1920x1080
