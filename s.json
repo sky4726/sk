@@ -4,6 +4,15 @@
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "lives": [
     {
+      "name": "freetv",
+      "type":0,
+      "url": "https://www.freetv.top/migu.m3u",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    }, 
+    {
       "name": "AI直播",
       "type": 0,
       "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
@@ -12,15 +21,6 @@
       "playerType": 1,
       "timeout": 10
     },
-    {
-      "name": "adenu400",
-      "type":0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/adenu400.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
-    }, 
     {
       "name": "ITV",
       "type": 0,
@@ -32,7 +32,7 @@
     {
       "name": "feiyang.allinone",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/tv.m3u",
+      "url": "https://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/tv.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -75,7 +75,7 @@
     {
       "name": "feiyang.bililive",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/bililive.m3u?url=http://localhost:35455",
+      "url": "https://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/bililive.m3u?url=http://localhost:35455",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -83,7 +83,7 @@
     {
       "name": "feiyang.huyayqk",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/huyayqk.m3u?url=http://localhost:35455",
+      "url": "https://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/huyayqk.m3u?url=http://localhost:35455",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -91,7 +91,7 @@
     {
       "name": "feiyang.douyuyqk",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/douyuyqk.m3u?url=http://localhost:35455",
+      "url": "https://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/douyuyqk.m3u?url=http://localhost:35455",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -99,7 +99,7 @@
     {
       "name": "feiyang.yylunbo",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/yylunbo.m3u?url=http://localhost:35455",
+      "url": "https://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/yylunbo.m3u?url=http://localhost:35455",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
