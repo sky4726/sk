@@ -38,14 +38,6 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     }, 
     {
-      "name": "live",
-      "type": 0,
-      "url": "http://ttkx.cc:4679/lib/kx2025.nzk",
-      "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
       "name": "catvod TV",
       "type": 0,
       "url": "http://iptv.catvod.com/tv.m3u",
