@@ -23,7 +23,7 @@
     {
       "name": "feiyang.allinone",
       "type": 0,
-      "url": "https://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/tv.m3u",
+      "url": "http://sky4726.us.kg:35455/tv.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -49,7 +49,7 @@
     {
       "name": "feiyang.bililive",
       "type": 0,
-      "url": "https://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/bililive.m3u?url=http://localhost:35455",
+      "url": "http://sky4726.us.kg:35455/bililive.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -57,7 +57,7 @@
     {
       "name": "feiyang.huyayqk",
       "type": 0,
-      "url": "https://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/huyayqk.m3u?url=http://localhost:35455",
+      "url": "http://sky4726.us.kg:35455/huyayqk.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -65,7 +65,7 @@
     {
       "name": "feiyang.douyuyqk",
       "type": 0,
-      "url": "https://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/douyuyqk.m3u?url=http://localhost:35455",
+      "url": "http://sky4726.us.kg:35455/douyuyqk.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -73,7 +73,7 @@
     {
       "name": "feiyang.yylunbo",
       "type": 0,
-      "url": "https://sky4726.freemyip.com:5001/webman/3rdparty/Allinone/m3utotxt.cgi?m3u_url=http://localhost:35455/yylunbo.m3u?url=http://localhost:35455",
+      "url": "http://sky4726.us.kg:35455/yylunbo.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -118,7 +118,7 @@
     },
     {
       "key": "玩偶gg",
-      "name": "饭 | 玩偶",
+      "name": "饭|玩偶",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -131,7 +131,7 @@
     },
     {
       "key": "多多",
-      "name": "多多 | 玩偶",
+      "name": "多多|玩偶",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -144,21 +144,21 @@
     },
     {
       "key": "玩偶 | 蜡笔",
-      "name": "蜡笔 | 玩偶",
+      "name": "蜡笔|玩偶",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
       "changeable": 0,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "http://labipan.com/",
+        "siteUrl": "https://labipan.com/",
         "filter": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/wogg.json",
         "url_key": "Duopan2"
       }
     },
     {
       "key": "至臻",
-      "name": "至臻 | 玩偶",
+      "name": "至臻|玩偶",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -171,7 +171,7 @@
     },
     {
       "key": "闪电",
-      "name": "闪电 | UC",
+      "name": "闪电|UC",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -184,7 +184,7 @@
     },
     {
       "key": "MIUC",
-      "name": "小米 | UC",
+      "name": "小米|UC",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -197,20 +197,20 @@
     },
     {
       "key": "玩偶 | 木偶",
-      "name": "木偶 | 玩偶",
+      "name": "木偶|玩偶",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
       "changeable": 0,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "http://www.mogg.top/",
+        "siteUrl": "http://www.muoupan.top/",
         "filter": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/wogg.json"
       }
     },
     {
       "key": "csp_Qiyou",
-      "name": "奇优┃影视",
+      "name": "奇优|影视",
       "type": 3,
       "api": "csp_Qiyou",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar",
@@ -218,7 +218,7 @@
     },
     {
       "key": "csp_Nongm",
-      "name": "农民┃影视",
+      "name": "农民|影视",
       "type": 3,
       "api": "csp_Nongm",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar",
@@ -226,7 +226,7 @@
     },
     {
       "key": "csp_SuBaiBai",
-      "name": "素白┃影视",
+      "name": "素白|影视",
       "type": 3,
       "api": "csp_SuBaiBai",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar",
@@ -234,7 +234,7 @@
     },
     {
       "key": "糯米",
-      "name": "糯米┃秒播",
+      "name": "糯米|秒播",
       "type": 3,
       "api": "csp_Nmyswv",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
@@ -244,7 +244,7 @@
     },
     {
       "key": "低端",
-      "name": "低端┃秒播",
+      "name": "低端|秒播",
       "type": 3,
       "api": "csp_Ddrk",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
@@ -255,7 +255,7 @@
     },
     {
       "key": "AppSj",
-      "name": "视界┃多线",
+      "name": "视界|多线",
       "type": 3,
       "api": "csp_AppSj",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
@@ -266,14 +266,14 @@
     },
     {
       "key": "csp_Kanke",
-      "name": "看客┃影视",
+      "name": "看客|影视",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar",
       "type": 3,
       "api": "csp_Kanke"
     },
     {
       "key": "csp_Gz360",
-      "name": "瓜子┃影视",
+      "name": "瓜子|影视",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar",
       "type": 3,
       "api": "csp_Gz360",
@@ -281,7 +281,7 @@
     },
     {
       "key": "csp_AppRZ",
-      "name": "忍者┃影视",
+      "name": "忍者|影视",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar",
       "type": 3,
       "api": "csp_AppRZ",
@@ -289,7 +289,7 @@
     },
     {
       "key": "csp_Fantuan",
-      "name": "饭团┃影视",
+      "name": "饭团|影视",
       "type": 3,
       "api": "csp_Fantuan",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar",
@@ -298,7 +298,7 @@
     },
     {
       "key": "csp_SaoHuo",
-      "name": "骚火┃影视",
+      "name": "骚火|影视",
       "type": 3,
       "api": "csp_SaoHuo",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar",
@@ -306,7 +306,7 @@
     },
     {
       "key": "热播",
-      "name": "热播┃秒播",
+      "name": "热播|秒播",
       "type": 3,
       "api": "csp_AppTT",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
@@ -319,7 +319,7 @@
     },
     {
       "key": "木星",
-      "name": "木星┃多线",
+      "name": "木星|多线",
       "type": 3,
       "api": "csp_AppSx",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
@@ -330,7 +330,7 @@
     },
     {
       "key": "萌米",
-      "name": "萌米┃多线",
+      "name": "萌米|多线",
       "type": 3,
       "api": "csp_AppTT",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
@@ -342,7 +342,7 @@
     },
     {
       "key": "欢视",
-      "name": "欢视┃多线",
+      "name": "欢视|多线",
       "type": 3,
       "api": "csp_AppTT",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
@@ -354,7 +354,7 @@
     },
     {
       "key": "厂长",
-      "name": "厂长┃秒播",
+      "name": "厂长|秒播",
       "type": 3,
       "api": "csp_NewCz",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
@@ -366,7 +366,7 @@
     },
     {
       "key": "文采",
-      "name": "文采┃秒播",
+      "name": "文采|秒播",
       "type": 3,
       "api": "csp_Jpys",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
@@ -374,15 +374,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "荐片",
-      "name": "荐片",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/jianpian.json"
     },
     {
       "key": "hipy_js_4k剧院",
@@ -417,7 +408,7 @@
     },
     {
       "key": "csp_xBPQ_小茶狐",
-      "name": "茶狐杯┃秒播",
+      "name": "茶狐杯|秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -439,7 +430,7 @@
     },
     {
       "key": "永乐影视",
-      "name": "永乐｜影视",
+      "name": "永乐|影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -447,7 +438,7 @@
     },
     {
       "key": "面包影视",
-      "name": "面包｜影视",
+      "name": "面包|影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -455,7 +446,7 @@
     },
     {
       "key": "HG影视",
-      "name": "HG影视｜APP",
+      "name": "HG影视|APP",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/AppYsV2.js",
       "searchable": 1,
@@ -465,7 +456,7 @@
     },
     {
       "key": "VidHub高清追剧视频库",
-      "name": "VidHub┃高清",
+      "name": "VidHub|高清",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -496,7 +487,7 @@
     },
     {
       "key": "NUU在线",
-      "name": "NUU┃影视",
+      "name": "NUU|影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -518,7 +509,7 @@
     },
     {
       "key": "安迪影院",
-      "name": "安迪┃影院",
+      "name": "安迪|影院",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -551,7 +542,7 @@
     },
     {
       "key": "如意影视",
-      "name": "如意┃影视",
+      "name": "如意|影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -582,7 +573,7 @@
     },
     {
       "key": "68影院",
-      "name": "68┃影院",
+      "name": "68|影院",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -609,7 +600,7 @@
     },
     {
       "key": "csp_七新",
-      "name": "七新┃影视",
+      "name": "七新|影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -621,7 +612,7 @@
     },
     {
       "key": "白嫖者",
-      "name": "白嫖者┃XBPQ",
+      "name": "白嫖者|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -634,7 +625,7 @@
     },
     {
       "key": "三米ys",
-      "name": "三米影视┃XBPQ",
+      "name": "三米|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -645,7 +636,7 @@
     },
     {
       "key": "csp_片多网",
-      "name": "片多影视┃XBPQ",
+      "name": "片多|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -688,7 +679,7 @@
     },
     {
       "key": "hipy_js_蓝莓短剧",
-      "name": "蓝莓｜短剧",
+      "name": "蓝莓|短剧",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -699,7 +690,7 @@
     },
     {
       "key": "hipy_js_星芽短剧",
-      "name": "星芽｜短剧",
+      "name": "星芽|短剧",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -710,7 +701,7 @@
     },
     {
       "key": "csp_XYQHiker_河马短剧",
-      "name": "河马｜短剧",
+      "name": "河马|短剧",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
@@ -721,7 +712,7 @@
     },
     {
       "key": "吉吉短剧",
-      "name": "吉吉｜短剧",
+      "name": "吉吉|短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -729,7 +720,7 @@
     },
     {
       "key": "爱我短剧",
-      "name": "爱我｜短剧",
+      "name": "爱我|短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -740,7 +731,7 @@
     },
     {
       "key": "短剧网",
-      "name": "短剧网｜短剧",
+      "name": "短剧网|短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -748,7 +739,7 @@
     },
     {
       "key": "小雷",
-      "name": "小雷 | 天翼",
+      "name": "小雷|天翼",
       "type": 3,
       "api": "csp_PanTa",
       "searchable": 1,
@@ -761,19 +752,33 @@
     },
     {
       "key": "星剧社",
-      "name": "星剧社 | 夸克",
+      "name": "星剧社|网盘",
       "type": 3,
       "api": "csp_Star2",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
+        "siteUrl": "https://e.star2.cn/",
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+      }
+    },
+    {
+      "key": "盤搜天意",
+      "name": "盤搜天意|网盘",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "https://www.tianyiso.com",
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
     {
       "key": "盤搜索",
-      "name": "盤搜索 | 夸克",
+      "name": "盤搜索|夸克",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -783,23 +788,7 @@
       }
     },
     {
-      "key": "Youtube",
-      "name": "Youtube",
-      "type": 3,
-      "api": "csp_Youtube",
-      "searchable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/youtube.json",
-        "cookie": ""
-      }
-    },
-    {
-      "key": "TgYunDouBanPan|服务器",
+      "key": "Tgsearch|服务器",
       "name": "TgYunDouBanPan|服务器",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
@@ -815,7 +804,7 @@
     },
     {
       "key": "TgYunPan|本地",
-      "name": "TgYunPan|本地",
+      "name": "Tgsearch|本地",
       "type": 3,
       "api": "csp_TgYunPanLocal",
       "searchable": 1,
@@ -827,19 +816,8 @@
       }
     },
     {
-      "key": "BT天堂",
-      "name":"BT天堂|XBPQ|磁力",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/lib/bttt.json",
-      "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar"
-    },
-    {
       "key": "光速资源",
-      "name": "光速｜采集",
+      "name": "光速|采集",
       "type": 1,
       "api": "http://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -867,7 +845,7 @@
     },
     {
       "key": "极速资源",
-      "name": "极速｜采集",
+      "name": "极速|采集",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -899,7 +877,7 @@
     },
     {
       "key": "快车资源",
-      "name": "快车｜采集",
+      "name": "快车|采集",
       "type": 1,
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -933,7 +911,7 @@
     },
     {
       "key": "索尼资源",
-      "name": "索尼｜采集",
+      "name": "索尼|采集",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -969,7 +947,7 @@
     },
     {
       "key": "量子资源",
-      "name": "量子｜采集",
+      "name": "量子|采集",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1004,7 +982,7 @@
     },
     {
       "key": "非凡资源",
-      "name": "非凡｜采集",
+      "name": "非凡|采集",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -1039,7 +1017,7 @@
     },
     {
       "key": "哆啦新番社",
-      "name": "哆啦｜新番社",
+      "name": "哆啦|新番社",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
@@ -1063,7 +1041,7 @@
     },
     {
       "key": "hipy_js_哔哔合集",
-      "name": "哔哔合集(drpy_t3)",
+      "name": "哔哔合集",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1074,7 +1052,7 @@
     },
     {
       "key": "dr_兔小贝",
-      "name": "兔小贝┃启蒙",
+      "name": "兔小贝|启蒙",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
@@ -1088,7 +1066,7 @@
     },
     {
       "key": "hipy_js_儿童课堂",
-      "name": "儿童课堂(drpy_t3)",
+      "name": "儿童课堂bili",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1099,7 +1077,7 @@
     },
     {
       "key": "hipy_js_小学课堂",
-      "name": "小学课堂(drpy_t3)",
+      "name": "小学课堂bili",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1110,7 +1088,7 @@
     },
     {
       "key": "hipy_js_初中课堂",
-      "name": "初中课堂(drpy_t3)",
+      "name": "初中课堂bili",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1121,7 +1099,7 @@
     },
     {
       "key": "hipy_js_高中课堂",
-      "name": "高中课堂(drpy_t3)",
+      "name": "高中课堂bili",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1132,7 +1110,7 @@
     },
     {
       "key": "hipy_js_我的哔哩相声小品",
-      "name": "相声小品(drpy_t3)",
+      "name": "相声小品bili",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1143,7 +1121,7 @@
     },
     {
       "key": "hipy_js_我的哔哩国粹戏曲",
-      "name": "国粹戏曲(drpy_t3)",
+      "name": "国粹戏曲bili",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1154,7 +1132,7 @@
     },
     {
       "key": "hipy_js_我的哔哩学外语",
-      "name": "学外语(drpy_t3)",
+      "name": "学外语bili",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1165,7 +1143,7 @@
     },
     {
       "key": "hipy_js_我的哔哩央视经典",
-      "name": "央视经典(drpy_t3)",
+      "name": "央视经典bili",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1190,7 +1168,7 @@
     },
     {
       "key": "hipy_js_老白故事[听]",
-      "name": "老白故事[听](drpy_t3)",
+      "name": "老白故事(drpy_t3)",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1201,7 +1179,7 @@
     },
     {
       "key": "hipy_js_酷我听书[听]",
-      "name": "酷我听书[听](drpy_t3)",
+      "name": "酷我听书(drpy_t3)",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1212,7 +1190,7 @@
     },
     {
       "key": "drpy_js_六月听书",
-      "name": "听书 | 六月听书[js]",
+      "name": "六月听书|[js]",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/lib/drpy2.min.js",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六月听书.js",
@@ -1220,7 +1198,7 @@
     },
     {
       "key": "drpy_js_博看听书",
-      "name": "听书 | 博看听书[js]",
+      "name": "博看听书|[js]",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/lib/drpy2.min.js",
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/博看听书.js",
@@ -1247,7 +1225,7 @@
     },
     {
       "key": "alllive",
-      "name": "一直播┃LIVE",
+      "name": "一直播|LIVE",
       "type": 3,
       "api": "csp_Alllive",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
@@ -1328,7 +1306,7 @@
     },
     {
       "key": "hipy_js_种子音乐[听]",
-      "name": "种子音乐[听](drpy_t3)",
+      "name": "种子音乐(drpy_t3)",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1339,7 +1317,7 @@
     },
     {
       "key": "hipy_js_爱车MV[听]",
-      "name": "爱车MV[听](drpy_t3)",
+      "name": "爱车MV(drpy_t3)",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -1350,7 +1328,7 @@
     },
     {
       "key": "hipy_js_KTV歌厅[听]",
-      "name": "KTV歌厅[听](drpy_t3)",
+      "name": "KTV歌厅(drpy_t3)",
       "type": 3,
       "api": "https://gitee.com/sky4726/sk/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
