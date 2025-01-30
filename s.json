@@ -15,7 +15,7 @@
     {
       "name": "ITV",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:50101/Sub?type=txt",
+      "url": "http://www.sky4726.us.kg:50101/Sub?type=txt",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -23,7 +23,7 @@
     {
       "name": "feiyang.allinone",
       "type": 0,
-      "url": "http://sky4726.us.kg:35455/tv.m3u",
+      "url": "http://www.sky4726.us.kg:35455/tv.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -49,7 +49,7 @@
     {
       "name": "feiyang.bililive",
       "type": 0,
-      "url": "http://sky4726.us.kg:35455/bililive.m3u",
+      "url": "http://www.sky4726.us.kg:35455/bililive.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -57,7 +57,7 @@
     {
       "name": "feiyang.huyayqk",
       "type": 0,
-      "url": "http://sky4726.us.kg:35455/huyayqk.m3u",
+      "url": "http://www.sky4726.us.kg:35455/huyayqk.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -65,7 +65,7 @@
     {
       "name": "feiyang.douyuyqk",
       "type": 0,
-      "url": "http://sky4726.us.kg:35455/douyuyqk.m3u",
+      "url": "http://www.sky4726.us.kg:35455/douyuyqk.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -73,7 +73,7 @@
     {
       "name": "feiyang.yylunbo",
       "type": 0,
-      "url": "http://sky4726.us.kg:35455/yylunbo.m3u",
+      "url": "http://www.sky4726.us.kg:35455/yylunbo.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -140,20 +140,6 @@
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "https://tv.yydsys.top",
         "filter": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/wogg.json"
-      }
-    },
-    {
-      "key": "玩偶 | 蜡笔",
-      "name": "蜡笔|玩偶",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "https://labipan.com/",
-        "filter": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/wogg.json",
-        "url_key": "Duopan2"
       }
     },
     {
@@ -237,7 +223,7 @@
       "name": "糯米|秒播",
       "type": 3,
       "api": "csp_Nmyswv",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -247,7 +233,7 @@
       "name": "低端|秒播",
       "type": 3,
       "api": "csp_Ddrk",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
@@ -258,7 +244,7 @@
       "name": "视界|多线",
       "type": 3,
       "api": "csp_AppSj",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -309,7 +295,7 @@
       "name": "热播|秒播",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -322,7 +308,7 @@
       "name": "木星|多线",
       "type": 3,
       "api": "csp_AppSx",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -333,7 +319,7 @@
       "name": "萌米|多线",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -345,7 +331,7 @@
       "name": "欢视|多线",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -357,7 +343,7 @@
       "name": "厂长|秒播",
       "type": 3,
       "api": "csp_NewCz",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -369,7 +355,7 @@
       "name": "文采|秒播",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -1228,7 +1214,7 @@
       "name": "一直播|LIVE",
       "type": 3,
       "api": "csp_Alllive",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
@@ -1269,7 +1255,7 @@
       "name": "叨观荐影预告片",
       "type": 3,
       "api": "csp_YGP",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -1279,7 +1265,7 @@
       "name": "急救教学",
       "type": 3,
       "api": "csp_FirstAid",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -1336,6 +1322,108 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://ghfast.top/https://raw.githubusercontent.com/sky4726/sk/master/lib/KTV歌厅[听].js"
+    },
+    {
+        "key": "旺旺短剧",
+        "name": "旺旺短剧",
+        "type": 1,
+        "api": "http://zhangqun1818.serv00.net:5052",
+        "style": {
+            "type": "rect",
+            "ratio": 1.33
+        },
+        "searchable": 1,
+        "changeable": 0
+    },
+    {
+        "key": "克隆合集",
+        "name": "克隆合集",
+        "type": 4,
+        "api": "http://zhangqun66.com/klhj.php",
+        "jar": "https://zhangqun66.com/zq/fm.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "style": {
+            "type": "rect",
+            "ratio": 1.33
+        },
+        "changeable": 1,
+        "filterable": 0
+    },
+    {
+        "key": "采集集合go",
+        "name": "采集集合go",
+        "type": 1,
+        "api": "http://zhangqun1818.serv00.net:5053",
+        "jar": "https://zhangqun66.com/zq/fm.jar",
+        "searchable": 1,
+        "style": {
+            "type": "rect",
+            "ratio": 1.33
+        },
+        "changeable": 1
+    },
+    {
+        "key": "服务器油管",
+        "name": "服务器油管",
+        "type": 4,
+        "api": "http://zhangqun66.com/yt/yt001.php",
+        "style": {
+            "type": "rect",
+            "ratio": 1.33
+        },
+        "searchable": 1,
+        "changeable": 1,
+        "ext": "动作片#科幻片#沙雕穿越#中国动漫#小说#影视解说#新闻直播#动物#风光#放松#短剧#古装短剧#萌宝短剧#经典音乐#海洋#太空#穿越短剧"
+    },
+    {
+        "key": "油管播放列表1",
+        "name": "油管播放列表1",
+        "type": 4,
+        "api": "http://zhangqun66.com/ytlb.php",
+        "style": {
+            "type": "rect",
+            "ratio": 1.33
+        },
+        "searchable": 1,
+        "changeable": 1
+    },
+    {
+        "key": "油管播放列表2",
+        "name": "油管播放列表2",
+        "type": 4,
+        "api": "http://zhangqun66.com/ytlb1.php",
+        "searchable": 1,
+        "style": {
+            "type": "rect",
+            "ratio": 1.33
+        },
+        "changeable": 1
+    },
+    {
+        "key": "直播转点播",
+        "name": "直播转点播",
+        "type": 4,
+        "api": "http://zhangqun66.com/zh/2241-2.php",
+        "jar": "https://zhangqun66.com/zq/fm.jar",
+        "searchable": 1,
+        "changeable": 0,
+        "ext": "1,2,3,4,5,6"
+    },
+    {
+        "key": "alist",
+        "name": "alist网盘jar",
+        "type": 3,
+        "api": "csp_AList",
+        "jar": "https://zhangqun66.com/zq/fm.jar",
+        "style": {
+            "type": "list",
+            "ratio": 1.1
+        },
+        "searchable": 1,
+        "quickSearch": 0,
+        "changeable": 0,
+        "ext": "https://zhangqun66.com/zq/js/alistjar.json"
     }
   ],
     "parses": [
