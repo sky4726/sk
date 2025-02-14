@@ -99,10 +99,10 @@
   ],
   "sites": [
     {
-      "key": "csp_DouDou",
-      "name": "豆瓣",
+      "key": "csp_DouBan",
+      "name": "豆瓣┃本接口免费",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "csp_DouBan",
       "searchable": 0,
       "filterable": 1,
       "changeable": 1
@@ -140,7 +140,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "https://www.wogg.net/",
+        "siteUrl": "http://wogg.xxooo.cf/",
         "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/wogg.json"
       }
     },
@@ -179,7 +179,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "http://feimaoai.site",
+        "siteUrl": "https://feimaoai.site/",
         "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/wogg.json"
       }
     },
@@ -205,7 +205,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "http://1.95.79.193",
+        "siteUrl": "http://1.95.79.193/",
         "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/wogg.json"
       }
     },
@@ -218,7 +218,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "http://milvdou.fun/",
+        "siteUrl": "http://www.54271.fun/",
         "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/wogg.json"
       }
     },
@@ -234,7 +234,7 @@
       "name": "糯米",
       "type": 3,
       "api": "csp_Nmyswv",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -244,7 +244,7 @@
       "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
@@ -265,22 +265,26 @@
       "playerType": 2
     },
     {
-      "key": "csp_TianTian",
+      "key": "天天",
       "name": "天天",
       "type": 3,
-      "api": "csp_TianTian",
+      "api": "csp_TTian",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
     {
-      "key": "csp_ReBo",
+      "key": "热播",
       "name": "热播",
       "type": 3,
-      "api": "csp_ReBo",
+      "api": "csp_TTian",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "caHR0cDovL3YucmJvdHYuY24="
     },
     {
       "key": "csp_Fantuan",
@@ -325,6 +329,94 @@
       "ext": "http://www.tvyun01.com/"
     },
     {
+      "key": "永夜",
+      "name": "永夜",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="
+    },
+    {
+      "key": "星河",
+      "name": "星河",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="
+    },
+    {
+      "key": "时常",
+      "name": "时常",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
+    },
+    {
+      "key": "现代",
+      "name": "现代",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
+    },
+    {
+      "key": "优质",
+      "name": "优质",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
+    },
+    {
+      "key": "csp_Hudie",
+      "name": "蝴蝶",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+    {
+      "key": "csp_Nmvod",
+      "name": "柠檬",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+    {
+      "key": "csp_AI1",
+      "name": "AI1",
+      "type": 3,
+      "api": "csp_AI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "faHR0cDovLzE3NS4xNzguODAuMjA5L21iL2FwaS5waHAvcHJvdmlkZS92b2QvfE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zM3xxaWFvamk="
+    },
+    {
+      "key": "csp_AI2",
+      "name": "AI2",
+      "type": 3,
+      "api": "csp_AI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "haHR0cDovLzE3NS4xNzguODAuMjA5L21iL3N4eXMvYXBpLnBocC9wcm92aWRlL3ZvZC98b2todHRwLzQuOS4xfHFpYW9qaQ=="
+    },
+    {
+      "key": "csp_Mayiys",
+      "name": "蚂蚁",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"
+    },
+    {
       "key": "csp_Kuaikan",
       "name": "快看",
       "type": 3,
@@ -338,7 +430,7 @@
       "name": "萌米",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -350,7 +442,7 @@
       "name": "欢视",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -358,11 +450,22 @@
       "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
     },
     {
+      "key": "追剧",
+      "name": "追剧",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "daHR0cDovL3YubGt1eXMuY24="
+    },
+    {
       "key": "厂长",
       "name": "厂长",
       "type": 3,
       "api": "csp_NewCz",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -374,7 +477,7 @@
       "name": "在线",
       "type": 3,
       "api": "csp_Zxzj",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -386,12 +489,23 @@
       "name": "奥特",
       "type": 3,
       "api": "csp_Auete",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.com/"
+    },
+    {
+      "key": "csp_Bdys01",
+      "name": "修罗",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "maHR0cHM6Ly93d3cuc3ViYWliYWl5cy5jb20="
     },
     {
       "key": "永乐影视",
@@ -435,7 +549,7 @@
       "name": "热播",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -448,7 +562,7 @@
       "name": "文采",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -947,7 +1061,7 @@
       "name": "一直播LIVE",
       "type": 3,
       "api": "csp_Alllive",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
@@ -968,7 +1082,7 @@
       "name": "叨观荐影预告片",
       "type": 3,
       "api": "csp_YGP",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -978,7 +1092,7 @@
       "name": "急救教学",
       "type": 3,
       "api": "csp_FirstAid",
-      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0206.txt",
+      "jar": "http://sky4726.freemyip.com:5244/d/itv/jar/f0214.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
