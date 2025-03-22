@@ -6,7 +6,7 @@
     {
       "name": "kaixin",
       "type": 0,
-      "url": "http://ttkx.cc:55/lib/kx2024.txt",
+      "url": "http://ttkx.cc:5250/lib/kx25.txt",
       "playerType": 2,
       "ua": "okhttp/5.0.0-alpha.14",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -22,18 +22,26 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "③猫TV线路(EXO)",
+      "name": "ITV",
       "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "url": "./ITV.txt",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "timeout": 3,
+      "playerType": 2
     },
     {
       "name": "feiyang.allinone",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:35455/tv.m3u",
+      "url": "http://sky4726.pp.ua:35455/tv.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "aktv",
+      "type": 0,
+      "url": "http://aktv.space/live.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -41,7 +49,7 @@
     {
       "name": "feiyang.bililive",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:35455/bililive.m3u",
+      "url": "http://sky4726.pp.ua:35455/bililive.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -49,7 +57,7 @@
     {
       "name": "feiyang.huyayqk",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:35455/huyayqk.m3u",
+      "url": "http://sky4726.pp.ua:35455/huyayqk.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -57,7 +65,7 @@
     {
       "name": "feiyang.douyuyqk",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:35455/douyuyqk.m3u",
+      "url": "http://sky4726.pp.ua:35455/douyuyqk.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -65,7 +73,7 @@
     {
       "name": "feiyang.yylunbo",
       "type": 0,
-      "url": "http://sky4726.freemyip.com:35455/yylunbo.m3u",
+      "url": "http://sky4726.pp.ua:35455/yylunbo.m3u",
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -114,7 +122,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "siteUrl": "http://wogg.xxooo.cf/",
+        "siteUrl": "https://www.wogg.one/",
         "filter": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/wogg.json"
       }
     },
@@ -211,7 +219,7 @@
       "name": "糯米",
       "type": 3,
       "api": "csp_NmyswvGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -221,7 +229,7 @@
       "name": "低端",
       "type": 3,
       "api": "csp_DdrkGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
@@ -236,15 +244,25 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "骚火",
+     {
+      "key": "csp_SaoHuo",
       "name": "骚火",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_SaoHuo",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/骚火.json"
+      "ext": "https://shdy5.us"
+    },
+    {
+      "key": "csp_Siren",
+      "name": "️私人",
+      "type": 3,
+      "api": "csp_Siren",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "可可",
@@ -261,7 +279,7 @@
       "name": "热播",
       "type": 3,
       "api": "csp_AppTTGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -327,11 +345,22 @@
       "filterable": 1
     },
     {
+      "key": "溢彩",
+      "name": "溢彩",
+      "type": 3,
+      "api": "csp_AppSKGuard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "rfOX1voDIQhH8epBwtCFsqytsyyZwsnimWFjKc+jS1xHcE9fpWU7oKJ1cO9Swdt5tnqCZsFHjiJz5HEyTr51QZvCqObdFjLuH/mEy+uqVyo="
+    },
+    {
       "key": "萌米",
       "name": "萌米",
       "type": 3,
       "api": "csp_AppTTGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -343,7 +372,7 @@
       "name": "欢视",
       "type": 3,
       "api": "csp_AppTTGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -355,7 +384,7 @@
       "name": "木星",
       "type": 3,
       "api": "csp_AppSxGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -366,7 +395,7 @@
       "name": "厂长",
       "type": 3,
       "api": "csp_NewCzGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -378,7 +407,7 @@
       "name": "在线",
       "type": 3,
       "api": "csp_ZxzjGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -390,7 +419,7 @@
       "name": "奥特",
       "type": 3,
       "api": "csp_AueteGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -430,7 +459,7 @@
       "name": "文采",
       "type": 3,
       "api": "csp_JpysGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -751,95 +780,120 @@
       "changeable": 0
     },
     {
-      "key": "csp_Bili",
-      "name": "哔哩哔哩bili",
+      "key": "哔哩",
+      "name": "️哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/哔哩大全.json"
-    },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/Bili.json",
+        "cookie": ""
+      }
+    }, 
     {
-      "key": "csp_Bili儿童课堂",
-      "name": "儿童课堂bili",
+      "key": "相声小品",
+      "name": "相声小品",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/少儿教育.json"
-    },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/Blixs.json",
+        "cookie": ""
+      }
+    }, 
     {
-      "key": "csp_Bili小学课堂",
-      "name": "小学课堂bili",
+      "key": "戏曲",
+      "name": "戏曲",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/小学课堂.json"
-    },
-    {
-      "key": "csp_Bili初中课堂",
-      "name": "初中课堂bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/Blixq.json",
+        "cookie": ""
+      }
+    }, {
+      "key": "少儿",
+      "name": "少儿",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/初中课堂.json"
-    },
-    {
-      "key": "csp_Bili高中课堂",
-      "name": "高中课堂bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/少儿教育.json",
+        "cookie": ""
+      }
+    }, {
+      "key": "小学",
+      "name": "小学",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/高中课堂.json"
-    },
-    {
-      "key": "csp_Bili相声小品",
-      "name": "相声小品bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/小学课堂.json",
+        "cookie": ""
+      }
+    }, {
+      "key": "初中",
+      "name": "初中",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/Blixs.json"
-    },
-    {
-      "key": "csp_Bili国粹戏曲",
-      "name": "国粹戏曲bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/初中课堂.json",
+        "cookie": ""
+      }
+    }, {
+      "key": "高中",
+      "name": "高中",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/Blixq.json"
-    },
-    {
-      "key": "csp_Bili学外语",
-      "name": "学外语bili",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/waiyu.json"
-    },
-    {
-      "key": "csp_Bili央视经典",
-      "name": "央视经典bili",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/哔哩经典.json"
-    },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/高中课堂.json",
+        "cookie": ""
+      }
+    }, 
     {
       "key": "drpy_js_开眼视频",
       "name": "开眼视频js",
@@ -929,7 +983,7 @@
       "name": "一直播LIVE",
       "type": 3,
       "api": "csp_AllliveGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
@@ -950,7 +1004,7 @@
       "name": "叨观荐影预告片",
       "type": 3,
       "api": "csp_YGPGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -960,7 +1014,7 @@
       "name": "急救教学",
       "type": 3,
       "api": "csp_FirstAidGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740948254197/f0303.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742238202186/f0318.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
