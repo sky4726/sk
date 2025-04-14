@@ -439,15 +439,6 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/短剧网.json"
     },
     {
-      "key": "旺旺短剧",
-      "name": "旺旺短剧",
-      "type": 1,
-      "api": "http://zhangqun1818.serv00.net:5052",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-    },
-    {
       "key": "csp_SP360",
       "name": "360┃官源",
       "type": 3,
