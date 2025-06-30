@@ -1,134 +1,148 @@
-## **网页点播站点：**
-```
-天天开心自营 http://www.ttkx.site:33
-牛嘎解析 http://niuga.cn/
-LIBVIO https://lib.ifabu.vip
-豌豆PRO https://wandou.la/
-```
-### **解析小站：**
-```
-Github文件加速 https://gitmirror.com/files.html
-黎歌 https://www.lige.fit
-夜猫子 https://download.kstore.space/download/3313/%E7%BD%91%E9%A1%B5/index.html
-多多风向标导 https://duo.codered.cloud/
-多多 https://yydsys.top
-大昌 https://jk.cnrcs.link/index.html
-饭太硬 http://fan.888484.xyz/tv
-饭太硬 http://xn--sss604efuw.top
-饭太硬 http://xn--sss604efuw.top/
-菜妮丝 https://cainisi.cf/   https://tvbox.cainisi.cf/
-欧歌 http://tv.nxog.top/  http://m.nxog.top
-日后魔改 https://docs.qq.com/doc/DYktmVmF1QXJZRmlh
-猪猪LR 小张不咕咕 https://www.rjjjh.com/#/
-本地包：https://www.123pan.com/s/GnA9-BSZcv.html
-影视仓影视猫爪影迷easybox：https://www.123pan.com/s/GnA9-JSZcv.html
-```
-### **接口：**
-```
-https://gitee.com/sky4726/sk/raw/master/s.json （自营单仓）
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/sky4726/sk/master/s.json（自营单仓）
-https://pastebin.com/raw/a6DCFCfp （自营多仓）
-http://ok321.top/tv（ok）
-https://agit.ai/leevi/PiG/raw/branch/master/jsm.json （PG）
-http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/ （王小二）
-https://agit.ai/hu/hcr/raw/branch/master/短剧.json （短剧）
-http://fan.888484.xyz/tv （饭太硬）
-http://fan.xxooo.cf/tv（饭太硬）
-https://xhdwc.tk/0 （骚零）
-http://xhww.fun:63/小米/DEMO.json （小米）
-https://raw.liucn.cc/box/m.json （老刘备）
-http://xiaohu.xzam.cn/xiaohu （小胡）
-http://u9v.cn/5Fp5qy （神州大地）
-https://wds.ecsxs.com:443/230989.json （春盈天下）
-https://itvbox.cc/可视TV/云星日记/仓库.json （星云日记）
-http://itvbox.cc/tvbox/云星日记/1.m3u8 （星云日记）
-http://52bsj.vip:98/wuai （吾爱有三.日月与卿）
-http://52bsj.vip:98/wuaihouse （吾爱）
-https://神器每日推送.tk/pz.json （神器
-https://pastebin.com/raw/5NHaxyGR （道长）
-https://tvbox.cainisi.cf （菜妮丝）
-https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json （香雅晴）
-http://yydf.540734621.xyz/yydf/yydf/api.json （业余多仓影视仓、easybox、影迷等）
-http://yydf.540734621.xyz/yydf/yydf/yydf.json （业余多仓影视、521影视、影音壳子等）
-http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json （业余单仓）
-http://yydf.540734621.xyz/yydf/yydf/yydf.json （业余多仓）
-http://rihou.vip:88/荷城茶秀 （荷城茶秀）
-http://rihou.vip:99/荷城茶秀 （荷城茶秀）
-https://raw.kkgithub.com/HeChengChaXiu/tvbox/main/hccx.json （荷城茶秀）
-https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json （荷城茶秀）
-https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json （荷城茶秀）
-http://rihou.vip:66 （日后多仓）
-http://rihou.vip:55 （日后单仓）
-http://rihou.vip:666 （心动日后仓）
-http://weixine.link:666 （心动车姐仓）
-http://rihou.vip:55/天天开心 （天天开心） 
-http://rihou.cc:55/天天开心 （天天开心） 
-http://tv.rihou.cc/天天开心
-http://rihou.vip:6/ysdxhl （小狐狸）
-https://raw.gitcode.com/Xymz/ymz/blobs/52d3bc418e8211ff094ec57bd2e79356ab975deb/ymz （夜猫子）
-https://agit.ai/relax/adcc/raw/branch/master/tvbox.json （巧记）
-http://cdn.qiaoji8.com/tvbox.json （巧记）
-http://pandown.pro/tvbox/tvbox.json （巧记）
-http://8.210.232.168/xc.json （玉玉）
-http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌 （欧歌）
-https://raw.liucn.cc/box/m.json （刘备）
-https://weixine.net/ysc.json （运输车）
-https://weixine.net/api.json （运输车）
-http://svip.weixine.net:88/uploads/itvbox/svip.json  （运输车vip）
-http://61.183.41.92:588/%E5%BD%B1%E8%A7%86/%E9%BC%8E%E7%9B%9BMAX.json （原小苹果）
-https://itvbox.cc/可视TV/云星日记/仓库.json （星云日记）
-http://itvbox.cc/tvbox/云星日记/1.m3u8 （星云日记）
-http://52bsj.vip:81/api/v3/file/get/65430/zongcang.txt?sign=9ncAS6eZ86xmIZGf5FGGdNuBvztyubgFNamtypebe08%3D%3A0 （星河多仓）
-https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json （南风）
-https://agit.ai/guot54/ygbh/raw/branch/master/prox.json （宝盒没宝）
-http://i0k.cn/ztha （挺好单仓）
-http://b.nxw.so/gyck （挺好多仓）
-http://b.nxw.so/flck （挺好多仓19+）
-http://tvkj.top/DC.txt （天微多仓）
-http://tvkj.top/tvys/svip.json （天微单仓）
-http://tvkj.top/tv4k/svip.json （天微4K单仓）
-http://tvkj.top/QX/svip.json （七星单仓）
-https://raw.kkgithub.com/PizazzGY/TVBox/main/api.json （PizazzGY）
-https://u.kstore.space/download/2863/01.txt （潇洒）
-https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json （胖虎）
-https://dxawi.github.io/0/0.json （ray）
-http://8.210.232.168/xc.json （玉玉）
-http://meowtv.cn/tv （喵影视）
-http://lin.ohphp.com/1/my.json （豆豆）
-http://lin.ohphp.com/2/tvkj.json（豆豆）
-http://tt.58cxz.com/001.json
-https://agit.ai/hu/hcr/raw/branch/master/MMM.txt
-https://jk.cnrcs.link/%E8%A7%82%E5%BD%B1%E4%BB%93.json  （益万家商店大昌单仓）
-```
+sky4726影视导航
+===========
 
-### **直播源：**
-```
-https://www.agit.ai/dlee2008/TVBOXZY/raw/commit/f1bd76d8b66ba95f98927c6ae8553dce196de3a7/TV/live.txt
-https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
-http://yydf.540734621.xyz/yydf/yydf/bd/yydf/live.txt
-http://zj.hk4.345888.xyz.cdn.cloudflare.net/江湖jianghu.txt
-https://pastebin.com/raw/r3rwVPbb
-http://124.223.177.85:88/svip/直播挺快.txt
-https://wds.ecsxs.com/230864.json
-https://already.free.hr/joevess/IPTV/main/home.m3u8
-https://agit.ai/l/ove/raw/branch/master/live.txt
-http://www.weetai.cn/mtvzb.txt
-http://tvkj.top/tvlive.txt
-http://tvkj.top/zb.txt
-https://dashu0754.com/api/v3/file/get/170/%E5%BD%A9%E8%99%B9.txt?sign=ONvlSat_NC_ZpaoHjKsoorh_iFo0XPXBmASimOVKTtk%3D%3A0
-https://jihulab.com/65/a/-/raw/1/11.24live.txt
-https://pan.shangui.cc/f/58jmUA/jwtvlink2.txt （野火）
-https://pan.shangui.cc/f/Mgwlty/jwtvlink7.txt
-http://8.210.232.168/xclive.txt
-https://weixine.net//tv/ysclive.txt
-http://v.nxog.top/jar/live.jpg
-https://agit.ai/66666/mao/raw/branch/master/live20220813.txt
-https://szyyds.cn/tv/live/x.txt
-https://gitlab.com/602700627/MTQ-AUTOTEST/-/raw/master/vip.txt
-https://raw.kkgithub.com/xmbjm/vip4K/main/lib/tvlive.txt
-https://tvmark.github.io/tv.txt
-https://www.agit.ai/huashao588/KKXL/raw/branch/master/bhhb/listhv.txt
-https://xhdwc.tk/tvlive.txt （浙江）
-http://home.jundie.top:81/ray/tvlive.txt （浙江）
-http://home.jundie.top:81/Cat/tv/live.txt （浙江）
-```
+*   OK影视APP-UC网盘下载(请关注【OK猫开发】公众号) [https://drive.uc.cn/s/01bc89c897034](https://drive.uc.cn/s/01bc89c897034)
+*   OK影视APP-夸克网盘下载(请关注【OK猫开发】公众号) [https://pan.quark.cn/s/6fead79bddaf](https://pan.quark.cn/s/6fead79bddaf)
+
+*   OK影视-电视版: 直链下载: [OK影视-电视版_2.9.7.apk](http://sky4726.pp.ua:5244/d/itv/leanback-armeabi_v7a-2.9.7.apk)
+*   OK影视-电视版X5: 直链下载: [OK影视-电视版X5_2.9.7.apk](http://sky4726.pp.ua:5244/d/itv/OK%E5%BD%B1%E8%A7%86-%E7%94%B5%E8%A7%86%E7%89%88-%E8%87%AA%E5%B8%A6X5-2.9.7.apk)
+*   OK影视-手机版: [OK影视-手机版_2.9.7.apk](http://sky4726.pp.ua:5244/d/itv/mobile-arm64_v8a-2.9.7.apk)
+*   OK影视-电视版海信: 直链下载: [OK影视-电视版海信_2.9.7.apk](http://sky4726.pp.ua:5244/d/itv/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88-OK%E5%BD%B1%E8%A7%86-2.9.7.apk)
+*   OK影视-电视版X5安卓4.0_2.5.0: 直链下载: [OK影视-电视版X5安卓4.0_2.5.0.apk](http://sky4726.pp.ua:5244/d/itv/%E5%AE%89%E5%8D%934.x-OK%E5%BD%B1%E8%A7%86-X5%E7%A6%BB%E7%BA%BF-2.5.0.apk)
+*   fm影视-电视版: 直链下载: [fm影视-电视版_4.0.4.apk](http://sky4726.pp.ua:5244/d/itv/leanback-armeabi_v7a-404.apk)
+*   fm影视-手机版: 直链下载: [fm影视-手机版_4.0.4.apk](http://sky4726.pp.ua:5244/d/itv/mobile-arm64_v8a-404.apk)
+*   OK影视-电视精简版(加钱): 直链下载: [OK影视-电视版_2.9.3精简版.apk](http://sky4726.pp.ua:5244/d/itv/Ok%E5%BD%B1%E8%A7%86_TV32%E4%BD%8DLite_2.9.3.apk)
+*   OK影视-电视精简版(加钱): 直链下载: [OK影视-电视版_2.8.7精简版.apk](http://sky4726.pp.ua:5244/d/itv/OK_TV_Lite2.8.7.apk)
+*   OK影视-手机精简版(加钱): 直链下载: [OK影视-手机版_2.8.7精简版.apk](http://sky4726.pp.ua:5244/d/itv/OK%E6%89%8B%E6%9C%BALite_2.8.7.apk)
+*   fm影视-电视精简版(加钱): 直链下载: [fm影视-电视版_3.1.0精简版.apk](http://sky4726.pp.ua:5244/d/itv/FM%E7%94%B5%E8%A7%86%E7%B2%BE%E7%AE%80v310_32%E4%BD%8D.apk)
+*   fm影视-电视精简版(加钱): 直链下载: [fm影视-电视版_3.7.2精简版.apk](http://sky4726.pp.ua:5244/d/itv/FM%E5%BD%B1%E8%A7%86TV_3.7.2%E7%B2%BE%E7%AE%80.apk)
+*   fm影视-手机精简版(加钱): 直链下载: [fm影视-手机版_3.1.0精简版.apk](http://sky4726.pp.ua:5244/d/itv/FM%E6%89%8B%E6%9C%BA%E7%B2%BE%E7%AE%80v310_64%E4%BD%8D.apk)
+*   fm影视-手机精简版(加钱): 直链下载: [fm影视-手机版_3.7.2精简版.apk](http://sky4726.pp.ua:5244/d/itv/FM%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA_3.7.2%E7%B2%BE%E7%AE%80.apk)
+*   ok影视-电视安卓4x精简版(加钱): 直链下载: [ok影视-电视版_2.5.0精简版(去X5单ijk).apk](http://sky4726.pp.ua:5244/d/itv/%E5%AE%89%E5%8D%934x-OK%E5%BD%B1%E8%A7%86miniTV-no%E2%9C%985_2.5.0ijk.apk)
+*   1DM+(搭配影视下载app): 直链下载: [1DM+_v17.2.apk](http://sky4726.pp.ua:5244/d/itv/1DM%2B_v17.2.apk)
+
+
+*   直播APP-下载
+
+*   X5网页电视直播: 直链下载: [WebViewTV_1.10.9.apk](http://sky4726.pp.ua:5244/d/itv/WebViewTV_1.10.9.apk)
+*   星河电视: 直链下载: [星河电视.apk](http://sky4726.pp.ua:5244/d/itv/%E6%98%9F%E6%B2%B3%E7%94%B5%E8%A7%86.apk)
+*   油桃TV: 直链下载: [油桃TVutao-20250317.apk](http://sky4726.pp.ua:5244/d/itv/utao-20250317.apk)
+*   凤凰秀TV: 直链下载: [凤凰秀TV.apk](http://sky4726.pp.ua:5244/d/itv/fengshows.2.0.1.52_tv.apk)
+
+在线接口:
+
+* 
+    *   
+    
+    牛二线路: http://tvbox.王二小放牛娃.top
+    
+    OK佬: http://ok321.top/tv
+    
+    小米: https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json
+    
+    菜妮丝线路: https://tv.菜妮丝.top
+    
+    巧记线路: http://cdn.qiaoji8.com/tvbox.json
+    
+    摸鱼线路: http://我不是.摸鱼儿.com
+    
+    裙下孤魂线路: http://bobohome.ignorelist.com:20247/
+    
+    饭太硬线路: http://www.饭太硬.com/tv
+    
+    饭太硬线路: http://fty.333232.xyz/tv
+    
+    饭太硬线路: http://fty.888484.xyz/tv
+    
+    饭太硬线路: http://www.饭太硬.xyz/tv
+    
+    饭太硬线路: https://gitee.com/xxoooo/fan/raw/master/in.bmp
+    
+    肥猫线路1: https://6296.kstore.vip/facat.json
+    
+    肥猫线路2: http://肥猫.com
+    
+    南风线路: https://github.moeyy.xyz/https:/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json
+    
+    香雅晴线路: https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+    
+    PG线路1: http://bobohome.ignorelist.com:20247/PG/
+    
+    PG线路2: http://www.fish2018.us.kg/p/jsm.json
+    
+    PG线路3: https://vip.123pan.cn/1629559/ck/pg/jsm.json
+    
+    真心线路: http://bobohome.ignorelist.com:20247/真心/
+    
+    潇洒线路: http://bobohome.ignorelist.com:20247/潇洒/
+    
+    潇洒线路: https://9877.kstore.space/AnotherD/api.json
+    
+    沐辰线路: https://json.doube.eu.org/t4.php
+    
+    星河线路: http://10526.kstore.vip/%E6%98%9F%E6%B2%B3.txt
+    
+    zhangqun线路: https://zhangqun66.com/zq/api.json
+    
+    zhangqun线路: http://zhangqun1818.serv00.net/zq/1818.json
+    
+    catvod线路: https://tvbox.catvod.com/catvod.json
+    
+    clun线路: https://clun.top/box.json
+    
+    sky4726线路: http://sky4726.pp.ua:66/sk/k.json
+    
+    sky4726线路: http://sky4726.zicp.vip:66/sk/k.json
+    
+    sky4726线路: http://sky4726.iok.la:66/sk/k.json
+    
+    sky4726线路: https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/s.json
+    
+    sky4726多仓线路: https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/dc.json
+    
+    fish18+线路: http://www.fish2018.us.kg/p/jsm.json?pwd=18x
+    
+    fish18+线路: https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json-18x
+    
+    直播18+线路: https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json
+    
+    刘公子18+线路: http://gzy.lzo.linkpc.net/
+    
+    drpyS_18+线路: https://drpys.6516789.xyz/config/1
+    
+    252035_18+线路: https://www.252035.xyz/p/jsm.json?pwd=18x
+    
+    bizhangjie_18+线路: https://ghfast.top/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json
+    
+    supermeguo_18+线路: https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json
+    
+    sky_18+线路: https://github.moeyy.xyz/https://raw.githubusercontent.com/sky4726/sk/master/s.json
+    
+    clun18+线路: https://clun.top/fun.json
+    
+    wwb521-18+线路: https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json
+    
+    *   到 设置 \- 点播 -使用配置接口
+    
+
+*   温馨提示:
+    *   本站没有任何群和公众号
+    *   接口完全免费，切勿付费购买。
+    *   请勿相信视频中任何广告
+    *   黎歌接口解密 :[https://lige.chat/ua](https://lige.chat/ua)
+    *   传说TVBOX工具箱 :[http://xn--efvx5o.xn--ur0a.hz.cz/api/](http://xn--efvx5o.xn--ur0a.hz.cz/api/)
+    *   TVBox配置接口解密:[https://www.xn--sss604efuw.com/jm/](https://www.xn--sss604efuw.com/jm/)
+    *   TVBox配置接口解密:[https://ua.fongmi.eu.org/](https://ua.fongmi.eu.org/)
+	*   IPv6 连接测试:[http://ipv6-test.ch/](http://ipv6-test.ch/)
+    *   在线检测NAT类型:[https://mao.fan/mynat](https://mao.fan/mynat)
+    *   在线检测NAT类型:[https://www.checkmynat.com/](https://www.checkmynat.com/)
+    *   中科大测速网站:[http://test.ustc.edu.cn/](http://test.ustc.edu.cn/)
+    *   itdog多地ping延时网站:[https://www.itdog.cn/ping](https://www.itdog.cn/ping)
+    *   webview检测1:[https://tool.ip138.com/useragent/](https://tool.ip138.com/useragent/)
+    *   webview检测2:[http://www.ip33.com/browser.html](http://www.ip33.com/browser.html)
+    *   webview检测3:[https://ie.icoa.cn/](https://ie.icoa.cn/)
+    *   公共DNS:[https://dnsdaquan.com/](https://dnsdaquan.com/)
+    *   DNS在线解析:[http://www.ip33.com/dns.html](http://www.ip33.com/dns.html)
+    *   IP查询1:[https://www.itdog.cn/localhost/](https://www.itdog.cn/localhost/)
+    *   IP查询2:[http://ip112.com/](http://ip112.com/)
+    *   IP查询3:[https://myip.ipip.net/](https://myip.ipip.net/)
