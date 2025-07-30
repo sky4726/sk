@@ -18,6 +18,7 @@ CCTV15,http://sky4726.pp.ua:5678/migu.php?id=cctv15
 CCTV17,http://sky4726.pp.ua:5678/migu.php?id=cctv17
 
 卫视频道,#genre#
-凤凰资讯,http://星河.xyz/云霄仙子/fengshows.php?id=7c96b084-60e1-40a9-89c5-682b994fb680
-凤凰中文,http://星河.xyz/云霄仙子/fengshows.php?id=f7f48462-9b13-485b-8101-7b54716411ec
-凤凰香港,http://星河.xyz/云霄仙子/fengshows.php?id=15e02d92-1698-416c-af2f-3e9a872b4d78
+山东卫视,http://sky4726.pp.ua:5678/migu.php?id=sdws
+河南卫视,http://sky4726.pp.ua:5678/migu.php?id=hnws
+湖南卫视,http://sky4726.pp.ua:5678/migu.php?id=hunws
+江苏卫视,http://sky4726.pp.ua:5678/migu.php?id=jsws
