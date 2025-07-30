@@ -3,8 +3,6 @@ CCTV1,http://sky4726.pp.ua:5678/migu.php?id=cctv1
 CCTV2,http://sky4726.pp.ua:5678/migu.php?id=cctv2
 CCTV3,http://sky4726.pp.ua:5678/migu.php?id=cctv3
 CCTV4,http://sky4726.pp.ua:5678/migu.php?id=cctv4
-CCTV5,http://sky4726.pp.ua:5678/migu.php?id=cctv5
-CCTV5+,http://sky4726.pp.ua:5678/migu.php?id=cctv5p
 CCTV6,http://sky4726.pp.ua:5678/migu.php?id=cctv6
 CCTV7,http://sky4726.pp.ua:5678/migu.php?id=cctv7
 CCTV8,http://sky4726.pp.ua:5678/migu.php?id=cctv8
@@ -18,9 +16,7 @@ CCTV15,http://sky4726.pp.ua:5678/migu.php?id=cctv15
 CCTV17,http://sky4726.pp.ua:5678/migu.php?id=cctv17
 
 卫视频道,#genre#
-山东卫视,http://sky4726.pp.ua:5678/migu.php?id=sdws
 河南卫视,http://sky4726.pp.ua:5678/migu.php?id=hnws
-湖南卫视,http://sky4726.pp.ua:5678/migu.php?id=hunws
 江苏卫视,http://sky4726.pp.ua:5678/migu.php?id=jsws
 凤凰资讯,http://sky4726.pp.ua:5678/fhx.php?id=1
 凤凰中文,http://sky4726.pp.ua:5678/fhx.php?id=2
