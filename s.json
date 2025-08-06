@@ -198,7 +198,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
         },
         {
             "key": "可可",
@@ -209,13 +209,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"
         },
         {
             "key": "海马影视py",
             "name": "海马影视py",
             "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/app/%E6%B5%B7%E9%A9%AC%E5%BD%B1%E8%A7%86APP.py",
+            "api": "https://gh-proxy.net/https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/app/%E6%B5%B7%E9%A9%AC%E5%BD%B1%E8%A7%86APP.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -229,7 +229,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E5%85%AB%E5%8F%B7%E5%BD%B1%E8%A7%86.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E5%85%AB%E5%8F%B7%E5%BD%B1%E8%A7%86.json"
         },
         {
             "key": "永乐影视",
@@ -237,7 +237,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/永乐影视.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/永乐影视.json"
         },
         {
             "key": "面包影视",
@@ -245,7 +245,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/xyqxbpq.jar",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/面包影视.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/面包影视.json"
         },
         {
             "key": "360_spider",
@@ -277,7 +277,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/XYQHiker/瓜子影视.json"
+            "ext": "https://gh-proxy.net/https://github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/XYQHiker/瓜子影视.json"
         },
         {
             "key": "原创",
@@ -299,13 +299,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/星芽短剧.js"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/星芽短剧.js"
         },
         {
             "key": "甜圈短剧",
             "name": "甜圈｜短剧",
             "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/甜圈短剧.py",
+            "api": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/甜圈短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -316,7 +316,7 @@
             "key": "偷乐短剧",
             "name": "偷乐｜短剧",
             "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/%E5%81%B7%E4%B9%90%E7%9F%AD%E5%89%A7.py",
+            "api": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/%E5%81%B7%E4%B9%90%E7%9F%AD%E5%89%A7.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -332,7 +332,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/短剧屋.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/短剧屋.json"
         },
         {
             "key": "csp_XYQHiker_河马短剧",
@@ -343,13 +343,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/河马短剧.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/河马短剧.json"
         },
         {
             "key": "红果网页py",
             "name": "红果网页py",
             "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/html/%E7%BA%A2%E6%9E%9C%E7%BD%91%E9%A1%B5.py",
+            "api": "https://gh-proxy.net/https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/html/%E7%BA%A2%E6%9E%9C%E7%BD%91%E9%A1%B5.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -546,7 +546,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/XYQHiker/动漫巴士.json"
+            "ext": "https://gh-proxy.net/https://github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/XYQHiker/动漫巴士.json"
         },
         {
             "key": "Dm84",
@@ -567,7 +567,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.json"
         },
         {
             "key": "Ysj",
@@ -604,14 +604,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/种子音乐[听].js"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/种子音乐[听].js"
         },
         {
             "key": "虎牙直播js",
             "name": "虎牙┃直播",
             "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
+            "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -627,7 +627,7 @@
             "name": "博看听书js",
             "type": 3,
             "api": "https://gitee.com/sky4726/android-web-view/raw/master/pyinstaller/libs/drpy2.min.js",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/博看听书.js",
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/博看听书.js",
             "playerType": "2"
         },
         {
@@ -667,7 +667,7 @@
             "name": "兔小贝js",
             "type": 3,
             "api": "https://gitee.com/sky4726/android-web-view/raw/master/pyinstaller/libs/drpy2.min.js",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/兔小贝.js",
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/兔小贝.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -685,7 +685,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/Bili.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/Bili.json"
         },
         {
             "key": "csp_Bili听书",
@@ -696,7 +696,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%90%AC%E4%B9%A6.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%90%AC%E4%B9%A6.json"
         },
         {
             "key": "csp_Bili戏曲",
@@ -707,7 +707,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/Blixq.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/Blixq.json"
         },
         {
             "key": "csp_Bili幼儿",
@@ -718,7 +718,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/幼儿乐园.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/幼儿乐园.json"
         },
         {
             "key": "csp_Bili少儿",
@@ -729,7 +729,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/少儿教育.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/少儿教育.json"
         },
         {
             "key": "csp_Bili小学",
@@ -740,7 +740,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/小学课堂.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/小学课堂.json"
         },
         {
             "key": "csp_Bili初中",
@@ -751,7 +751,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/初中课堂.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/初中课堂.json"
         },
         {
             "key": "csp_Bili高中",
@@ -762,21 +762,21 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
         },
         {
             "key": "drpy_js_开眼视频",
             "name": "开眼视频js",
             "type": 3,
             "api": "https://gitee.com/sky4726/android-web-view/raw/master/pyinstaller/libs/drpy2.min.js",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/开眼视频.js"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/开眼视频.js"
         },
         {
             "key": "drpy_js_网易公版影像",
             "name": "网易公版影像js",
             "type": 3,
             "api": "https://gitee.com/sky4726/android-web-view/raw/master/pyinstaller/libs/drpy2.min.js",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/网易公版影像.js"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/网易公版影像.js"
         }
     ],
     "parses": [
@@ -910,20 +910,38 @@
             }
         }
     ],
-    "logo": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/NanFeng.gif",
+    "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/NanFeng.gif",
     "lives": [
         {
-          "name": "直播1",
-          "type": 2,
-          "url": "https://10526.kstore.vip/%E8%80%81%E5%A9%86%E6%98%AF%E4%BA%91%E9%9C%84%E4%BB%99%E5%AD%90.json",
-          "ua": "xinghe/5.2.0",
-          "epg": "http://epg.51zmt.top:8000/e.xml",
-          "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"
+            "name": "冰茶",
+            "type": 0,
+            "url": "https://fy.188766.xyz/?ip=192.168.1.2&bconly=true",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "Mursor",
+            "type": 0,
+            "url": "https://gh-proxy.net/https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u",
+            "playerType": 2,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+        {
+            "name": "猫TV线路",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "playerType": 2,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
             "name": "migu",
             "type": 0,
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/migu.txt",
+            "url": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/migu.txt",
             "playerType": 2,
             "ua": "okhttp/5.0.0-alpha.14",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -948,34 +966,35 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "快直播py",
+          "name": "快直播(py沐)",
+          "type": 3,
+          "api": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/live_kzb1.py",
+          "ext": {
+            "host": "https://jzb5kqln.huajiaedu.com"
+          }
+        },
+        {
+            "name": "快直播php",
             "type": 0,
             "url": "http://sky4726.pp.ua:5678/kzb.php",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "smart.php",
+          "name": "SMT直播(py沐)",
+          "type": 3,
+          "api": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/live_smt.py",
+          "ext": {},
+          "header": {
+            "CLIENT-IP": "127.0.0.1",
+            "X-FORWARDED-FOR": "127.0.0.1"
+          }
+        },
+        {
+            "name": "SMT_php",
             "type": 0,
-            "url": "https://live.catvod.com/smart.php",
+            "url": "http://sky4726.pp.ua:5678/0425smt.php",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "猫TV线路",
-            "type": 0,
-            "url": "http://rihou.cc:567/gggg.nzk",
-            "playerType": 2,
-            "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "feiyang冰茶",
-            "type": 0,
-            "url": "https://fy.188766.xyz/?ip=sky4726.pp.ua",
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
@@ -1003,9 +1022,17 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "bxtv港澳",
+            "name": "4gtv",
             "type": 0,
-            "url": "http://bx.757888.xyz/bxtv.m3u",
+            "url": "http://sky4726.pp.ua:50007/?type=m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "bxtv",
+            "type": 0,
+            "url": "https://bxtv.3a.ink/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png",
             "ua": "okhttp/3.15,AptvPlayer/1.4.0",
@@ -1013,11 +1040,13 @@
             "playerType": 2
         },
         {
-            "name": "SMT_php港澳",
-            "type": 0,
-            "url": "http://sky4726.pp.ua:5678/0425smt.php",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+          "name": "BeeSport直播(py沐)",
+          "type": 3,
+          "api": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/live_beesport1.py",
+          "ext": {},
+          "header": {
+            "Referer": "https://p.m82xg4z0cdbz7.com"
+          }
         },
         {
             "name": "V6范明明（需开启V6网络）",
@@ -1026,11 +1055,24 @@
             "playerType": 2
         }, 
         {
-            "name": "IP解析18+港澳",
+            "name": "MQiTV18+港澳",
             "api": "csp_MQiTV",
             "ext": "https://59.125.210.231:4433",
             "jar": "https://mpimg.cn/down.php/1f6ad25d85981dd689b5534170cdcd42.jar",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        }, 
+        {
+            "name": "IP解析18+港澳",
+            "api": "csp_MQiTV",
+            "ext": "https://123.12.36.121:8899",
+            "jar": "https://mpimg.cn/down.php/1f6ad25d85981dd689b5534170cdcd42.jar",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+        {
+          "name": "FreesHot(py)18+梯",
+          "type": 3,
+          "api": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/ive_freeshot.py",
+          "ext": {}
         }
     ]
 }
