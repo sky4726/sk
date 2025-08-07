@@ -54,17 +54,17 @@
                 "from": "4k|auto"
             }
         },
-      //{
-          //"key": "白白",
-          //"name": "素白白┃秒播",
-          //"type": 3,
-          //"api": "csp_SbaibaiGuard",
-          //"timeout": 10,
-          //"playerType": 2,
-          //"searchable": 1,
-          //"quickSearch": 1,
-          //"changeable": 1
-      //},
+        {
+            "key": "白白",
+            "name": "素白白┃秒播",
+            "type": 3,
+            "api": "csp_SbaibaiGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
         {
             "key": "苹果",
             "name": "苹果┃不卡",
@@ -91,17 +91,6 @@
             "type": 3,
             "api": "csp_JpysGuard",
             "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "厂长",
-            "name": "厂长┃秒播",
-            "type": 3,
-            "api": "csp_NewCzGuard",
-            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -187,7 +176,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://auete.com/"
+            "ext": "https://auete.cc/"
         },
         {
             "key": "csp_XYQHiker_农民影视",
@@ -269,28 +258,6 @@
             "ext": "https://v.aikanbot.com"
         },
         {
-            "key": "csp_XYQHiker_瓜子影院",
-            "name": "瓜子影院(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/custom_spider_xyq0730.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.net/https://github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/XYQHiker/瓜子影视.json"
-        },
-        {
-            "key": "原创",
-            "name": "原创┃不卡",
-            "type": 3,
-            "api": "csp_YCyzGuard",
-            "timeout": 10,
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "hipy_js_星芽短剧",
             "name": "星芽短剧js",
             "type": 3,
@@ -353,20 +320,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "四个圈影视",
-            "name": "四圈影视",
-            "type": 1,
-            "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
-            "quickSearch": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "国产动漫",
-                "日韩动漫",
-                "国产剧"
-            ]
         },
         {
             "key": "天涯采集",
@@ -559,17 +512,6 @@
             "changeable": 1
         },
         {
-            "key": "樱花",
-            "name": "樱花动漫",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/custom_spider_xyq0730.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.json"
-        },
-        {
             "key": "Ysj",
             "name": "异界┃动漫",
             "type": 3,
@@ -607,26 +549,10 @@
             "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/种子音乐[听].js"
         },
         {
-            "key": "虎牙直播js",
-            "name": "虎牙┃直播",
-            "type": 3,
-            "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
-            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "timeout": 10,
-            "playerType": "2",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "drpy_js_博看听书",
             "name": "博看听书js",
             "type": 3,
-            "api": "https://gitee.com/sky4726/android-web-view/raw/master/pyinstaller/libs/drpy2.min.js",
+            "api": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/drpy2.min.js",
             "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/博看听书.js",
             "playerType": "2"
         },
@@ -666,7 +592,7 @@
             "key": "dr_兔小贝",
             "name": "兔小贝js",
             "type": 3,
-            "api": "https://gitee.com/sky4726/android-web-view/raw/master/pyinstaller/libs/drpy2.min.js",
+            "api": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/drpy2.min.js",
             "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/兔小贝.js",
             "style": {
                 "type": "rect",
@@ -768,14 +694,14 @@
             "key": "drpy_js_开眼视频",
             "name": "开眼视频js",
             "type": 3,
-            "api": "https://gitee.com/sky4726/android-web-view/raw/master/pyinstaller/libs/drpy2.min.js",
+            "api": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/drpy2.min.js",
             "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/开眼视频.js"
         },
         {
             "key": "drpy_js_网易公版影像",
             "name": "网易公版影像js",
             "type": 3,
-            "api": "https://gitee.com/sky4726/android-web-view/raw/master/pyinstaller/libs/drpy2.min.js",
+            "api": "https://gitee.com/sky4726/.s/raw/master/pyinstaller/assets/drpy2.min.js",
             "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/网易公版影像.js"
         }
     ],
@@ -1022,6 +948,14 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
+            "name": "4gtv-php",
+            "type": 0,
+            "url": "http://xtvantsc.xyz/litv_ts.php",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
             "name": "4gtv",
             "type": 0,
             "url": "http://sky4726.pp.ua:50007/?type=m3u",
@@ -1058,14 +992,15 @@
             "name": "MQiTV18+港澳",
             "api": "csp_MQiTV",
             "ext": "https://59.125.210.231:4433",
-            "jar": "https://mpimg.cn/down.php/1f6ad25d85981dd689b5534170cdcd42.jar",
+            "jar": "http://sky4726.pp.ua:66/fm.jar",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         }, 
+        //https://mpimg.cn/down.php/1f6ad25d85981dd689b5534170cdcd42.jar
         {
             "name": "IP解析18+港澳",
             "api": "csp_MQiTV",
             "ext": "https://123.12.36.121:8899",
-            "jar": "https://mpimg.cn/down.php/1f6ad25d85981dd689b5534170cdcd42.jar",
+            "jar": "http://sky4726.pp.ua:66/fm.jar",
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
