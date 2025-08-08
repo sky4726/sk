@@ -27,7 +27,7 @@
             "key": "miss.py",
             "name": "miss.py梯",
             "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/Miss.py",
+            "api": "https://github.catvod.com/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/Miss.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -36,7 +36,7 @@
             "key": "花都.py",
             "name": "花都.py",
             "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/19/%E8%8A%B1%E9%83%BD.py",
+            "api": "https://github.catvod.com/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/19/%E8%8A%B1%E9%83%BD.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -2150,7 +2150,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://gh-proxy.net/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/sjdy.txt",
+            "url": "https://github.catvod.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/sjdy.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
