@@ -18,6 +18,7 @@ CCTV17,http://sky4726.pp.ua:5678/migu.php?id=cctv17
 卫视频道,#genre#
 河南卫视,http://sky4726.pp.ua:5678/migu.php?id=hnws
 江苏卫视,http://sky4726.pp.ua:5678/migu.php?id=jsws
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 凤凰资讯,http://sky4726.pp.ua:5678/fhx.php?id=1
 凤凰中文,http://sky4726.pp.ua:5678/fhx.php?id=2
 香港台,http://sky4726.pp.ua:5678/fhx.php?id=3
