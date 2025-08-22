@@ -1367,7 +1367,7 @@
         "type": 0,
         "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u",
         "playerType": 2,
-        "ua": "okHttp/Mod-1.0.1",
+        "ua": "okHttp/Mod-1.1.0",
         "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
         "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
@@ -1385,7 +1385,7 @@
         "type": 0,
         "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/migu.txt",
         "playerType": 2,
-        "ua": "okhttp/5.0.0-alpha.14",
+        "ua": "okhttp/3.15",
         "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1394,7 +1394,7 @@
         "type": 0,
         "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
         "playerType": 2,
-        "ua": "okhttp/5.0.0-alpha.14",
+        "ua": "okhttp/3.15",
         "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1403,7 +1403,7 @@
         "type": 0,
         "url": "https://pastebin.com/raw/rmGTuRZL",
         "playerType": 2,
-        "ua": "okhttp/5.0.0-alpha.14",
+        "ua": "okhttp/3.15",
         "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1519,3 +1519,4 @@
     }
    ]
 }
+
