@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/54291d554fd98e95/f0819.jpg",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/NanFeng.gif",
     "sites": [
@@ -57,7 +57,7 @@
         },
         {
             "key": "苹果",
-            "name": "苹果┃不卡",
+            "name": "苹果┃多线",
             "type": 3,
             "api": "csp_LiteAppleGuard",
             "timeout": 10,
@@ -67,7 +67,7 @@
         },
         {
             "key": "糯米",
-            "name": "糯米┃秒播",
+            "name": "糯米┃多线",
             "type": 3,
             "api": "csp_NmyswvGuard",
             "timeout": 10,
@@ -77,7 +77,7 @@
         },
         {
             "key": "文采",
-            "name": "文采┃秒播",
+            "name": "文采┃多线",
             "type": 3,
             "api": "csp_JpysGuard",
             "timeout": 10,
@@ -88,7 +88,7 @@
         },
         {
             "key": "厂长",
-            "name": "厂长┃不卡",
+            "name": "厂长┃多线",
             "type": 3,
             "api": "csp_NewCzGuard",
             "timeout": 15,
@@ -99,7 +99,7 @@
         },
         {
             "key": "Lib",
-            "name": "立播┃秒播",
+            "name": "立播┃多线",
             "type": 3,
             "api": "csp_LibvioGuard",
             "timeout": 10,
@@ -113,7 +113,7 @@
         },
         {
             "key": "比特",
-            "name": "比特┃手机",
+            "name": "比特┃多线",
             "type": 3,
             "api": "csp_BttwooGuard",
             "timeout": 10,
@@ -123,7 +123,7 @@
         },
         {
             "key": "低端",
-            "name": "低端┃外剧",
+            "name": "低端┃多线",
             "type": 3,
             "api": "csp_DdrkGuard",
             "timeout": 10,
@@ -181,7 +181,7 @@
         },
         {
             "key": "csp_XYQHiker_农民影视",
-            "name": "农民影视",
+            "name": "农民影视XYQH",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/custom_spider (0817).jar",
@@ -192,7 +192,7 @@
         },
         {
             "key": "可可",
-            "name": "可可",
+            "name": "可可影视XYQH",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/custom_spider (0817).jar",
@@ -203,7 +203,7 @@
         },
         {
             "key": "八号影视",
-            "name": "八号影视",
+            "name": "八号影视XYQH",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/custom_spider (0817).jar",
@@ -213,8 +213,158 @@
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E5%85%AB%E5%8F%B7%E5%BD%B1%E8%A7%86.json"
         },
         {
+          "key": "饺子点播",
+          "name": "饺子点播XBPQ",
+          "type": 3,
+          "searchable": 1,
+          "quickSearch": 1,
+          "playerType": 2,
+          "filterable": 1,
+          "api": "csp_XBPQ",
+          "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/XBPQ.jar",
+          "ext": {
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+            "分类url": "https://www.jzvod.fun/vodshow/{cateId}--------{catePg}---.html;;m0",
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()",
+            "线路数组": "stui-pannel_hd\">&&</div>",
+            "线路标题": "<h3 class=\"title\">&&</h3>"
+          }
+        },
+        {
+          "key": "西瓜",
+          "name": "西瓜在线XBPQ",
+          "type": 3,
+          "searchable": 1,
+          "quickSearch": 1,
+          "playerType": 2,
+          "filterable": 1,
+          "api": "csp_XBPQ",
+          "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/XBPQ.jar",
+          "ext": {
+            "分类": "电影$20#电视剧$37#动漫$43#综艺$45",
+            "分类url": "https://sszzyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html;;m0"
+          }
+        },
+        {
+          "key": "电影小镇",
+          "name": "电影小镇XBPQ",
+          "type": 3,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "api": "csp_XBPQ",
+          "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/XBPQ.jar",
+          "ext": {
+            "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+            "分类url": "http://www.du88.cc/list/{cateId}_{catePg}.html"
+          }
+        },
+        {
+          "key": "老地方影院",
+          "name": "地方影院XBPQ",
+          "type": 3,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "api": "csp_XBPQ",
+          "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/XBPQ.jar",
+          "ext": {
+            "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
+            "分类url": "https://www.laodifang.tv/vodshow/{cateId}--------{catePg}---.html"
+          }
+        },
+        {
+          "key": "金牌影院",
+          "name": "金牌影院XBPQ",
+          "type": 3,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "api": "csp_XBPQ",
+          "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/XBPQ.jar",
+          "ext": {
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+            "分类url": "https://huadian2.com/show/{cateId}--------{catePg}---.html",
+            "数组": "class=\"hl-item-thumb hl-lazy\"&&</a>",
+            "链接": "href=\"&&\"",
+            "标题": "title=\"&&\"",
+            "图片": "data-original=\"&&\""
+          }
+        },
+        {
+          "key": "永乐视频",
+          "name": "永乐视频XBPQ",
+          "type": 3,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "api": "csp_XBPQ",
+          "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/XBPQ.jar",
+          "ext": {
+            "分类": "电影$1#剧集$2#综艺$3#动漫$4",
+            "分类url": "https://www.xz8.cc/vodshow/{cateId}--------{catePg}---/",
+            "线路数组": "tab-item\"&&</div>",
+            "线路标题": "<span>&&</span>"
+          }
+        },
+        {
+          "key": "兄弟影视",
+          "name": "兄弟影视XBPQ",
+          "type": 3,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "api": "csp_XBPQ",
+          "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/XBPQ.jar",
+          "ext": {
+            "分类": "电影$movie#电视剧$tv#综艺$show#动漫$cartoon",
+            "分类url": "https://www.brovods.top/show/{cateId}--------{catePg}---/;;m0",
+            "数组": "class=\"public-list-exp\"&&</a>",
+            "链接": "href=\"&&\"",
+            "标题": "title=\"&&\"",
+            "副标题": "class=\"public-list-prb hide ft2\">&&</span>",
+            "图片": "data-src=\"&&\"",
+            "线路数组": "swiper-slide&&</a>",
+            "线路标题": "</i>&nbsp;&&</a>"
+          }
+        },
+        {
+          "key": "小红影视",
+          "name": "小红影视XBPQ",
+          "type": 3,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "api": "csp_XBPQ",
+          "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/XBPQ.jar",
+          "ext": {
+            "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$anime",
+            "分类url": "https://www.xiaohys.com/",
+            "数组": "class=\"public-list-exp\"&&</a>",
+            "链接": "href=\"&&\"",
+            "标题": "title=\"&&\"",
+            "图片": "data-src=\"&&\"",
+            "线路数组": "swiper-slide&&</a>",
+            "线路标题": "</i>&nbsp;&&</a>"
+          }
+        },
+        {
+          "key": "星辰影院",
+          "name": "星辰影院XBPQ",
+          "type": 3,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "api": "csp_XBPQ",
+          "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/XBPQ.jar",
+          "ext": {
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+            "分类url": "https://www.xcyycn.com/vs/{cateId}--------{catePg}---.html;;m0"
+          }
+        },
+        {
             "key": "03",
-            "name": "03影院",
+            "name": "03影院XBPQ",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -237,7 +387,7 @@
         },
         {
             "key": "木雨",
-            "name": "木雨影视",
+            "name": "木雨影视XBPQ",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -253,14 +403,6 @@
                     "分类url": "http://ysz.wsmywlkj.top/index.php/vod/show/id/{cateId}/page/{catePg}/",
                     "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$23"
                   }
-        },
-        {
-            "key": "永乐影视",
-            "name": "永乐影视XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/XBPQ.jar",
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/永乐影视.json"
         },
         {
             "key": "面包影视",
@@ -286,6 +428,7 @@
             "name": "星芽短剧js",
             "type": 3,
             "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
+            "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/fmjs.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -294,7 +437,7 @@
         },
         {
             "key": "甜圈短剧",
-            "name": "甜圈｜短剧",
+            "name": "甜圈短剧py",
             "type": 3,
             "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/甜圈短剧.py",
             "searchable": 1,
@@ -305,7 +448,7 @@
         },
         {
             "key": "偷乐短剧",
-            "name": "偷乐｜短剧",
+            "name": "偷乐短剧py",
             "type": 3,
             "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/%E5%81%B7%E4%B9%90%E7%9F%AD%E5%89%A7.py",
             "searchable": 1,
@@ -316,7 +459,7 @@
         },
         {
             "key": "短剧屋",
-            "name": "短剧屋｜短剧",
+            "name": "短剧屋XYQH",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/custom_spider (0817).jar",
@@ -327,7 +470,7 @@
         },
         {
             "key": "csp_XYQHiker_河马短剧",
-            "name": "河马短剧",
+            "name": "河马短剧XYQH",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/custom_spider (0817).jar",
@@ -347,7 +490,7 @@
         },
         {
             "key": "03短剧",
-            "name": "03短剧",
+            "name": "03短剧XBPQ",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -456,7 +599,7 @@
         },
         {
             "key": "木雨",
-            "name": "木雨资源",
+            "name": "木雨采集",
             "type": 1,
             "api": "http://ysz.wsmywlkj.top/api.php/provide/vod/",
             "searchable": 1,
@@ -483,7 +626,7 @@
         },
         {
             "key": "柚子资源",
-            "name": "柚子资源",
+            "name": "柚子采集",
             "type": 0,
             "api": "https://api.yzzy-api.com/inc/api.php",
             "searchable": 1,
@@ -529,7 +672,7 @@
         },
         {
             "key": "克隆合集",
-            "name": "克隆合集",
+            "name": "采集合集",
             "type": 4,
             "api": "http://zhangqun66.com/klhj.php",
             "searchable": 1,
@@ -543,7 +686,7 @@
         },
         {
             "key": "csp_XYQHiker_动漫巴士",
-            "name": "动漫巴士(XYQH)",
+            "name": "动漫巴士XYQH",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/custom_spider (0817).jar",
@@ -577,6 +720,7 @@
             "name": "博看听书js",
             "type": 3,
             "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
+            "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/fmjs.jar",
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/博看听书.js",
             "playerType": "2"
         },
@@ -628,6 +772,7 @@
             "name": "兔小贝js",
             "type": 3,
             "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
+            "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/fmjs.jar",
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/兔小贝.js",
             "style": {
                 "type": "rect",
@@ -639,7 +784,7 @@
         },
         {
             "key": "Bili",
-            "name": "哔哔合集┃弹幕",
+            "name": "合集┃哔哩",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -655,7 +800,7 @@
         },
         {
             "key": "MTV",
-            "name": "明星┃MV",
+            "name": "明星MV┃哔哩",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -671,7 +816,7 @@
         },
         {
             "key": "Biliych",
-            "name": "演唱会┃弹幕",
+            "name": "演唱会┃哔哩",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -765,6 +910,7 @@
             "name": "开眼视频js",
             "type": 3,
             "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
+            "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/fmjs.jar",
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/开眼视频.js"
         },
         {
@@ -772,6 +918,7 @@
             "name": "网易公版影像js",
             "type": 3,
             "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
+            "jar": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/fmjs.jar",
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/s/refs/heads/main/lib/网易公版影像.js"
         }
     ],
