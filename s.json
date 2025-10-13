@@ -618,6 +618,17 @@
             }
         },
         {
+            "key": "皮皮妖影视",
+            "name": "皮皮妖XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+            "ext": {
+                "分类url": "https://www.pipiyao.cc/type/{cateId}.html"
+            }
+        },
+        {
             "key": "py_DianYingTanTang",
             "name": "电影天堂(T4)",
             "type": 4,
@@ -666,6 +677,59 @@
             "playerType": 1,
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "魔爪采集",
+            "name": "魔爪采集1",
+            "type": 1,
+            "api": "https://mozhuazy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "mzm3u8",
+            "name": "魔爪采集2",
+            "type": 1,
+            "api": "https://mozhuazy.com/api.php/provide/vod/?ac=list",
+            "searchable": 2,
+            "quickSearch": 3,
+            "filterable": 2,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "短剧",
+                "爱情片",
+                "科幻片",
+                "动作片",
+                "喜剧片",
+                "冒险片",
+                "悬疑片",
+                "犯罪片",
+                "惊悚片",
+                "战争片",
+                "恐怖片",
+                "香港剧",
+                "台湾剧",
+                "日本剧",
+                "韩国剧",
+                "泰国剧",
+                "海外剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "港台综艺",
+                "惊悚片",
+                "短剧"
+            ]
         },
         {
             "key": "天涯采集",
@@ -851,6 +915,62 @@
                 "预告片",
                 "预告片",
                 "体育"
+            ]
+        },
+        {
+            "key": "闪电资源",
+            "name": "闪电资源",
+            "type": 0,
+            "api": "https://shandianzy.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "邵氏电影",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "动画片",
+                "纪录片",
+                "预告片",
+                "国产剧",
+                "韩剧",
+                "台剧",
+                "港剧",
+                "欧美剧",
+                "日剧",
+                "泰剧",
+                "海外剧",
+                "女频恋爱",
+                "反转爽剧",
+                "古装仙侠",
+                "年代穿越",
+                "脑洞悬疑",
+                "现代都市",
+                "国产动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "日韩动漫",
+                "有声动漫",
+                "伦理",
+                "港台三级",
+                "韩国伦理",
+                "日本伦理",
+                "西方伦理",
+                "写真热舞",
+                "演唱会",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "篮球",
+                "足球",
+                "影视解说"
             ]
         },
         {
@@ -1182,6 +1302,15 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
+            "name": "jackTV",
+            "type": 0,
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+            "playerType": 2,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
             "name": "00928.11cn",
             "type": 0,
             "url": "https://00928.11cn.dpdns.org",
@@ -1254,6 +1383,16 @@
             "ua": "okHttp/Mod-1.4.0.0",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "HKTV",
+            "type": 0,
+            "url": "http://txt.gt.tc/users/HKTV.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.iill.top/logo/{name}.png",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+            "timeout": 10,
+            "playerType": 2
         },
         {
             "name": "bxtv港台",
