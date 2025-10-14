@@ -322,6 +322,104 @@
             "changeable": 0
         },
         {
+          "key": "3Q",
+          "name": "3Q｜影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/3Q.json"
+        },
+        {
+          "key": "555｜影视",
+          "name": "555｜APP",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/xbpq_555App.json"
+        },
+        {
+          "key": "泥视频",
+          "name": "泥视频｜drpy_js",
+          "type": 3,
+          "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/泥视频.js"
+        },
+        {
+          "key": "4K影视",
+          "name": "4K｜影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/4K影视.json"
+        },
+        {
+          "key": "飞流视频",
+          "name": "飞流｜视频",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/飞流视频.json"
+        },
+        {
+          "key": "黑狐影院",
+          "name": "黑狐｜影院",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/黑狐影院.json"
+        },
+        {
+          "key": "黑蚂蚁影院",
+          "name": "黑蚂蚁｜影院",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/黑蚂蚁影院.json"
+        },
+        {
+          "key": "旋风视频",
+          "name": "旋风｜影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/旋风视频.json"
+        },
+        {
+          "key": "影视大全",
+          "name": "大全｜影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/影视大全.json"
+        },
+        {
             "key": "4kmp1",
             "name": "4kmp1",
             "type": 3,
