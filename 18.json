@@ -3,6 +3,17 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
+          "key": "影视大全",
+          "name": "大全｜影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "https://cns.xn--yhqu5zs87a.top/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/影视大全.json"
+        },
+        {
           "key": "py_BadNews",
           "name": "BadNews(T4)",
           "type": 4,
