@@ -1,5 +1,5 @@
 {
-    "spider": "http://sky4726.pp.ua:5255/d/doubao/ok.jar",
+    "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/UgM93Npt.png",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
     "sites": [
@@ -343,6 +343,42 @@
                 "预告片",
                 "体育"
             ]
+        },
+        {
+            "key": "天启影视",
+            "name": "天启影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+            "ext": {
+                "分类url": "https://www.tianqitv.net/vodlist/{cateId}&type={class}&area={area}&year={year}&page={catePg}",
+                "分类": "电影$1?catid=0#电视剧$2?catid=0#动漫$3?catid=0#综艺$4?catid=0#短剧$5?catid=0",
+                "类型": "动作片$1?catid=6#喜剧片$1?catid=7#爱情片$1?catid=8#科幻片$1?catid=9#恐怖片$1?catid=10#剧情片$1?catid=11#战争片$1?catid=12#记录片$1?catid=13#动画片$1?catid=14国产剧$2?catid=15#香港剧$2?catid=16#韩国剧$2?catid=17#欧美剧$2?catid=18#台湾剧$2?catid=19#日本剧$2?catid=20#海外剧$2?catid=21#泰国剧$2?catid=22空港台综艺$4?catid=23#韩国综艺$4?catid=24#大陆综艺$4?catid=25#欧美综艺$4?catid=26空",
+                "剧情": "空空国产动漫&日本动漫&中国动漫&剧情动漫&欧美动漫&海外动漫空短剧&女频恋爱&现代都市&古装仙侠&年代穿越&反转爽剧&脑洞悬疑&爽文短&网剧&反转爽&有声动漫&剧情&喜剧&爱情&短片&恐怖&古装&同性&动作&短句&断句&犯罪&大陆&职场&时空之旅&断开&战争&奇幻&反腐&励志&中国大陆&青春偶像",
+                "剧情值": "*",
+                "地区": "中国&香港&台湾&日本&韩国&美国&法国&西班牙&葡萄牙",
+                "地区值": "*",
+                "数组": "<a&&</a>[包含:state]",
+                "标题": "title=\"&&\"",
+                "副标题": "state\">&&</span>",
+                "图片": "data-original=\"&&\"||src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "影片年代": "年份：&&</p >",
+                "影片地区": "地区：&&</p >",
+                "影片类型": "类型：&&</p >",
+                "影片状态": "状态：&&</p >",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "<div class=\"box\">&&</section>",
+                "线路数组": "swiper-slide&&</li>",
+                "线路标题": ">&&<",
+                "播放数组": "episodes-list&&</ul>",
+                "播放列表": "&&分割(<a)",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "vodroute=\"vod\">&&</div>[工具:解b64]",
+                "搜索url": "https://www.tianqitv.net/search;post;words={wd}"
+            }
         },
         {
             "key": "555｜影视",
