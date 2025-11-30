@@ -1,76 +1,35 @@
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # @Author  : Doubebly
-# @Time    : 2025/5/22 20:23
+# @Time    : 2025/11/23 22:55
+# @file    : 快直播.min.py
 
-import sys
-import requests
-import json
+G=print
+F=Exception
+B=False
+import sys,requests as E,json
 sys.path.append('..')
-from base.spider import Spider
-
-
-class Spider(Spider):
-    def getName(self):
-        return "Kzb"
-
-    def init(self, extend):
-        self.extend = json.loads(extend)
-        pass
-
-    def getDependence(self):
-        return []
-
-    def isVideoFormat(self, url):
-        pass
-
-    def manualVideoCheck(self):
-        pass
-
-
-    def liveContent(self, url):
-        keys = ['578', '579', '580', '581', '582', '583', '584', '585', '586', '587', '588', '589', '590', '591', '592', '593', '594', '595', '596', '597', '598', '599', '600', '601', '602', '603', '604', '605', '606', '607', '608', '609', '610', '611', '612', '613', '614', '615', '616', '617', '618', '619', '620', '621', '622', '623', '624']
-        values = {}
-        headers = {
-            'User-Agent': "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36 EdgA/136.0.0.0"
-        }
-        response = requests.get(self.extend['host'] + "/prod-api/iptv/getIptvList?liveType=0&deviceType=1", headers=headers)
-        for i in response.json()['list']:
-            values[str(i['id'])] = i
-        tv_list = ['#EXTM3U']
-        for ii in keys:
-            c = values[ii]
-            name = c['play_source_name']
-            group_name = '卫视频道' if '卫视' in name else '央视频道'
-            tv_list.append(f'#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.cn/tv/{name}.png" group-title="{group_name}",{name}')
-            tv_list.append(c['play_source_url'])
-        return '\n'.join(tv_list)
-
-    def homeContent(self, filter):
-        return {}
-
-    def homeVideoContent(self):
-        return {}
-
-    def categoryContent(self, cid, page, filter, ext):
-        return {}
-
-    def detailContent(self, did):
-        return {}
-
-    def searchContent(self, key, quick, page='1'):
-        return {}
-
-    def searchContentPage(self, keywords, quick, page):
-        return {}
-
-    def playerContent(self, flag, pid, vipFlags):
-        return {}
-
-    def localProxy(self, params):
-        return {}
-
-    def destroy(self):
-        return '正在Destroy'
-
-if __name__ == '__main__':
-    pass
+from base.spider import Spider as A
+class Spider(A):
+	def __init__(A):super(Spider,A).__init__();A.name='live_kzb';A.url='https://jzb5kqln.huajiaedu.com/prod-api/iptv/getIptvList';A.headers={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36','Accept':'application/json, text/plain, */*','referer':'https://jzb5kqln.huajiaedu.com/tvs'};A.ck=None
+	def getName(A):return A.name
+	def init(A,extend='{}'):A.init_ck();A.extend=json.loads(extend)
+	def liveContent(A,url):
+		C=[]
+		try:
+			H=A.headers.copy()
+			if A.ck:H.update({'Cookie':A.ck})
+			M=E.get(A.url,headers=H,allow_redirects=B);I=M.json()['list'];I.sort(key=lambda x:x['id']);D=''
+			for J in I:
+				K=J['play_source_name'];L='卫视频道'if'卫视'in K else'央视频道'
+				if D!=L:D=L;C.append(D+',#genre#')
+				C.append(K+','+J['play_source_url'])
+		except F as N:G(N)
+		return'\n'.join(C)
+	def init_ck(A):
+		try:
+			D=E.get(A.url,headers=A.headers,allow_redirects=B);C=D.headers.get('Set-Cookie')
+			if C:A.ck=C
+		except F as H:G(H)
+		return B
+if __name__=='__main__':0
