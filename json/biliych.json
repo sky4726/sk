@@ -34,7 +34,7 @@
             "type_id": "韩国女团演唱会超清"
         }
     ],
-    "filters": {
+    "filter": {
         "演唱会超清": [
             {
                 "key": "order",
