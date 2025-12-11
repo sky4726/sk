@@ -272,6 +272,38 @@
             "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215"
         },
         {
+            "key": "麒麟影视",
+            "name": "麒麟影视XBPQ",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+            "ext": {
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#少儿$46",
+                "分类url": "https://www.70ys.site/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "线路标题": "switch=\"tab_con_playlist_*\">&&</li>[替换:FF>>FF有广>>#YZ>>YZ有广#TY>>TY有广]",
+                "简介": "<div id=\"content\">&&</div>[工具:弹窗-请勿相信视频中任何广告以免上当受骗]"
+            }
+        },
+        {
+            "key": "樱花影视",
+            "name": "樱花影视XBPQ",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar": "https://tencentcdna.production.link3.cc/user_create_images/link3_1759462406321/picsingle/1759828181215",
+            "ext": {
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4",
+                "分类url": "https://buosn.com/vodtype/{cateId}-{catePg}/;;m0",
+                "线路标题": "data-toggle=\"tab\"&&</a>[排序:爱奇艺>腾讯>优酷>芒果]",
+                "简介": "<span class=\"data\" style=\"*\">&&</span>[工具:弹窗-请勿相信视频中任何广告以免上当受骗]"
+            }
+        },
+        {
             "key": "天启影视",
             "name": "天启影视XBPQ",
             "type": 3,
