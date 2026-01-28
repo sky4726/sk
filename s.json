@@ -5,7 +5,7 @@
    "sites": [
       {
          "key": "t1_dian_ying_tian_tang",
-         "name": "电影天堂┃采集",
+         "name": "电影天堂|采集",
          "type": 1,
          "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
          "searchable": 1,
@@ -17,7 +17,7 @@
       },
       {
         "key": "天涯采集",
-        "name": "天涯┃采集",
+        "name": "天涯|采集",
         "type": 1,
         "api": "http://tyyszy.com/api.php/provide/vod",
         "searchable": 1,
@@ -29,7 +29,7 @@
       },
       {
         "key": "柚子资源",
-        "name": "柚子┃采集",
+        "name": "柚子|采集",
         "type": 0,
         "api": "https://api.yzzy-api.com/inc/api.php",
         "searchable": 1,
@@ -73,17 +73,27 @@
           "体育"
         ]
       },
-      {"key":"Guazi","name":"瓜子|App","type":3,"api":"csp_Guazi","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":""},
+      {
+         "key": "Guazi",
+         "name": "瓜子|App",
+         "type": 3,
+         "api": "csp_Guazi",
+         "quickSearch": 1,
+         "changeable": 1,
+         "filterable": 1,
+         "timeout": 60,
+         "ext": ""
+      },
       {
          "key": "采集之王",
-         "name": "采集｜合集",
+         "name": "采集|合集",
          "type": 3,
          "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
          "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/cjzw.js?type=url&params=https://v6.gh-proxy.org/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/cjjt.json$1$1"
       },
       {
          "key": "py_界影视",
-         "name": "界影视(T3)",
+         "name": "界影视|T3",
          "type": 3,
          "api": "https://gcore.jsdelivr.net/gh/doubebly/TVlogo/py/界影视.py",
          "searchable": 1,
@@ -93,14 +103,14 @@
       },
       {
          "key": "drpy_js_金牌",
-         "name": "金牌影视┃js",
+         "name": "金牌影视|js",
          "type": 3,
          "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
          "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/金牌影视.js"
       },
       {
         "key": "移动",
-        "name": "免扫移动┃4k",
+        "name": "免扫移动|4k",
         "type": 3,
         "jar": "http://14.103.129.80:999/暗黑4k奇迹/jar/yunY.jar",
         "api": "csp_YDjisu",
@@ -109,7 +119,7 @@
       },
       {
         "key": "巧技2",
-        "name": "巧技2┃影视",
+        "name": "巧技2|影视",
         "type": 3,
         "searchable": 1,
         "quickSearch": 1,
@@ -120,21 +130,21 @@
       },
       {
          "key": "drpy_js_03影院[优]",
-         "name": "03影院[优]┃js",
+         "name": "03影院|js",
          "type": 3,
          "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
          "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/03影视.js"
       },
       {
          "key": "drpy_js_爱看机器人[虫]",
-         "name": "爱看机器人[虫]┃js",
+         "name": "爱看机器人|js",
          "type": 3,
          "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
          "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/js/爱看机器人[虫].js"
       },
       {
          "key": "泥视频",
-         "name": "泥视频┃js",
+         "name": "泥视频|js",
          "type": 3,
          "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
          "searchable": 1,
@@ -143,8 +153,8 @@
          "ext": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/lib/泥视频.js"
       },
       {
-         "key": "剧王┃短剧",
-         "name": "剧王短剧┃py",
+         "key": "剧王|短剧",
+         "name": "剧王短剧|py",
          "type": 3,
          "api": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
          "searchable": 1,
@@ -154,7 +164,7 @@
       },
       {
          "key": "csp_AppXY2",
-         "name": "星牙短剧┃py",
+         "name": "星牙短剧|py",
          "type": 3,
          "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
          "searchable": 1,
@@ -164,7 +174,7 @@
       },
       {
          "key": "drpy_js_博看听书",
-         "name": "博看听书┃js",
+         "name": "博看听书|js",
          "type": 3,
          "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
          "ext": "https://www.lequxiang.com.cn/down.php/c6676fe9c169fd0302d3a7219c06fe73.js",
@@ -172,7 +182,7 @@
       },
       {
          "key": "哔哩听书",
-         "name": "哔哩听书",
+         "name": "哔哩|听书",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 0,
@@ -189,7 +199,7 @@
       },
       {
          "key": "哔哩合集",
-         "name": "哔哩合集",
+         "name": "哔哩|合集",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 1,
@@ -206,7 +216,7 @@
       },
       {
          "key": "相声",
-         "name": "哔哩相声",
+         "name": "哔哩|相声",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 0,
@@ -223,7 +233,7 @@
       },
       {
          "key": "小品",
-         "name": "哔哩小品",
+         "name": "哔哩|小品",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 0,
@@ -240,7 +250,7 @@
       },
       {
          "key": "戏曲",
-         "name": "哔哩戏曲",
+         "name": "哔哩|戏曲",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 0,
@@ -257,7 +267,7 @@
       },
       {
          "key": "演唱会",
-         "name": "哔哩演唱会",
+         "name": "哔哩|演唱会",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 0,
@@ -274,7 +284,7 @@
       },
       {
          "key": "dr_兔小贝",
-         "name": "兔小贝┃js",
+         "name": "兔小贝|js",
          "type": 3,
          "api": "https://cnb.cool/sky4726.pp.ua/sk/-/releases/download/20250811/drpy2.min.js",
          "ext": "https://www.lequxiang.com.cn/down.php/ffa1427c76c73543b1898b90f16aad6b.js",
@@ -288,7 +298,7 @@
       },
       {
          "key": "少儿教育",
-         "name": "哔哩少儿教育",
+         "name": "哔哩|少儿教育",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 0,
@@ -305,7 +315,7 @@
       },
       {
          "key": "小学课堂",
-         "name": "哔哩小学课堂",
+         "name": "哔哩|小学课堂",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 0,
@@ -322,7 +332,7 @@
       },
       {
          "key": "初中课堂",
-         "name": "哔哩初中课堂",
+         "name": "哔哩|初中课堂",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 0,
@@ -339,7 +349,7 @@
       },
       {
          "key": "高中课堂",
-         "name": "哔哩高中课堂",
+         "name": "哔哩|高中课堂",
          "type": 3,
          "api": "csp_Bili",
          "searchable": 0,
