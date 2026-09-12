@@ -3,6 +3,42 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
+            "key": "红果短剧py",
+            "name": "红果短剧py",
+            "type": 3,
+            "api": "https://tvv.tw/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/19/红果短剧最终版.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "黄果优化py",
+            "name": "黄果优化py",
+            "type": 3,
+            "api": "https://tvv.tw/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/19/黄果优化1.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "橘汁视频py",
+            "name": "橘汁视频py",
+            "type": 3,
+            "api": "https://tvv.tw/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/19/橘汁视频_(0).py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "色花堂视频py",
+            "name": "色花堂视频py",
+            "type": 3,
+            "api": "https://tvv.tw/https://raw.githubusercontent.com/sky4726/sk/refs/heads/master/19/色花堂视频.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "推特py",
             "name": "推特py",
             "type": 3,
