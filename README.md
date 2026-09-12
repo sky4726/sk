@@ -96,7 +96,7 @@
 -   sky4726线路: `http://sky4726.pp.ua:66/sk/s.json`
 -   sky4726线路2: `https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/sk/master/s.json`
 -   supermeguo 18+线路: `https://gh.xxooo.cf/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json`
--   sky 18+线路: `https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/sk/master/k.json`
+-   sky 18+线路: `https://gh.xxooo.cf/https://raw.githubusercontent.com/sky4726/sk/master/18.json`
 -   clun 18+线路: `https://clun.top/fun.json`
 -   wwb521 18+线路: `https://gh.xxooo.cf/https://raw.githubusercontent.com/wwb521/live/main/video.json`
 -   七哥 18+线路: `https://down.nigx.cn/raw.githubusercontent.com/QFDPY/ss/refs/heads/main/七哥.json`
